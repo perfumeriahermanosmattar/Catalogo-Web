@@ -85,8 +85,38 @@ main{
 }
 
 .card{
-    width: 10.5rem;
+    /* max-width: 10.5rem !important; */
+    height: 21rem;
+    width: 42vw;
     border-radius: 0;
+}
+
+.card-body{
+    padding: 0rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.card-title , .card-price , .card-subtitle{
+    text-align: center;
+    letter-spacing: 4px;
+    font-size:medium;
+    color: rgb(57, 57, 57);
+    margin: 5px 0px;
+}
+
+.card-subtitle {
+    font-size: smaller;
+    color: rgb(103, 103, 103);
+
+}
+
+.card-price{
+    letter-spacing: 2px;
 }
 
 .img-cardy{
@@ -113,19 +143,83 @@ main{
     max-width: 100%;
 }
 
-.card-title , .card-price{
-    font-size: smaller;
-}
-
 .col{
     margin: 0;
     padding: 0 !important;
     flex-grow: 0;
 }
 
+.form-checked{
+    font-size: medium
+}
+
+.filter{
+    /* margin: 2rem; */
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.parameters{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.metricas{
+    margin: 0rem 1rem 1rem 0rem ;
+}
+
+.metricas{
+    /* width: 100px; */
+    display: flex;
+    flex-direction: row;
+    /* margin: 0.0001rem; */
+}
+
+.metricas .form-check{
+    margin: 0rem 0.5rem;
+}
+
+.metric {
+    margin: 0rem 1rem;
+}
+
+.metric .form-label{
+    margin: 0rem 0.5rem;
+}
+
+#valor{
+    width: 2rem;
+    margin-left: 1rem;
+    /* display: inline-block; */
+}
+
+#rangeBar{
+    width: 8rem;
+}
+
 @media (min-width: 992px) {
+
+    .container-fluid{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
     #carouselExample{
         width: 100vw !important;
+    }
+
+    .metricas{
+        /* width: 100px; */
+        display: flex;
+        flex-direction: row;
+        /* margin: 0.0001rem; */
+    }
+
+    main .contenedor{
+        justify-content: start;
     }
 
     /* .carousel-inner{
@@ -153,6 +247,27 @@ main{
     }
 
     .card{
-        width: 18rem;
+        width: 25vw;
+        height: 23rem;
+
+    }
+
+    .sisa{
+        margin-left: 3rem ;
+    }
+
+    .nolsa{
+        margin-right: 3rem;
     }
 }
+
+@media (min-width: 1280px) {
+    .card{
+        width: 15vw
+    }
+
+    .nav-item{
+        margin: 0px 5px;
+    }
+}
+

@@ -9,6 +9,17 @@
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     
   <link rel="stylesheet" href="./css/custom/custom.css">
+
+
+  <!-- Load fonts style after rendering the layout styles -->
+  <link href="https://fonts.googleapis.com/css2?family=Asset&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
+
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+  <link rel="stylesheet" href="./css/custom/footer.css">
+
+
 </head>
 
 <body>
@@ -23,17 +34,17 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse sisa" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">INICIO</a>
+            <a class="nav-link" href="#index.html">INICIO</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link">
+            <a class="nav-link" href="marcas.html">
               MARCAS
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link">
+            <a class="nav-link" href="productos.html">
               PERFUMES
             </a>
           </li>
@@ -64,35 +75,208 @@
 
   <!-- Carousel   -->
 
-
  <!-- Contenido -->
 
  <main class="container-fluid d-flex flex-column align-items-center my-3">
-  <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
-
-  <section class="container-fluid d-flex flex-column align-items-left my-3">
-    <h1 class="title h2">Nombre de Perfume</h1>
-
-    <h2 class="h5"> Descripcion del Perfume</h2>
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officiis deserunt dicta at eum eaque perferendis velit vel, magnam iure.
-    </p>
-    <ul>
-      <li class="h6">Presentación</li>
-      <li class="h6">100ml</li>
-      <li class="h6">Notas:</li>
-    </ul>
-    
-
-    <h2 class="h3"><bold>Precio: 125.00$</bold></h3>
-  </section>
-  
-    
- </main>
-
- 
-
-
+  <a class="nav-link" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
+              aria-controls="offcanvasExample">
+              <h1 class="title">Nuevos Productos</h1>
+            </a>
+    <section class="row align-items-center justify-content-center" id="productos">
+      <div class="col">
+        <a class="nav-link" href="productos.html">
+          <div class="card " >
+            <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+            <div class="card-body d-flex flex-column align-items-center">
+              <h5 class="card-title">Channel Perfume</h5>
+            </div>
+            <div class="card-list d-flex flex-column align-items-center justify-content-center">
+              <h6 class="mb-3 card-price">250.00$</h6>
+            </div>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card " >
+          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+          <div class="card-body d-flex flex-column align-items-center">
+            <h5 class="card-title">Channel Perfume</h5>
+          </div>
+          <div class="card-list d-flex flex-column align-items-center justify-content-center">
+            <h6 class="mb-3 card-price">250.00$</h6>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+ <div class="container-fluid footer-basic">
+  <footer>
+      <div class="social d-flex justify-content-around"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
+      <ul class="list-inline">
+          <li class="list-inline-item"><a href="#">Home</a></li>
+          <li class="list-inline-item"><a href="#">Services</a></li>
+          <li class="list-inline-item"><a href="#">About</a></li>
+          <li class="list-inline-item"><a href="#">Terms</a></li>
+          <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
+      </ul>
+      <p class="copyright">Company Name © 2018</p>
+  </footer>
+</div>
 
   <!-- Inicio de Scripts -->
   <script src="./javascript/Bootstrap/bootstrap.bundle.min.js"
