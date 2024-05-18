@@ -13,52 +13,48 @@
 
 <body>
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg bg-body-tertiary"  style="background-color: #ffffff !important;">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html"><img src="./Assets/Img/Icon/logo-wob.jpg" class="img-fluid logo" alt="...">
-      </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse sisa" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link" href="index.html">INICIO</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link">
-              MARCAS
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link">
-              PERFUMES
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link">
-              MAQUILLAJE
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link">
-              CUIDADO FACIAL
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link">
-              CONTACTO
-            </a>
-          </li>
-        </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
+  <header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #ffffff !important">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html"><img src="./Assets/Img/Icon/logo.png" class="img-fluid logo"
+            alt="..." />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse sisa" id="navbarSupportedContent">
+          <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">INICIO</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="marcas.html"> MARCAS </a>
+            </li>
+            <li class="nav-item dropdown">
+              <button class="btn btn-ligth dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false">
+                PRODUCTOS
+              </button>
+              <ul class="dropdown-menu dropdown-menu-light" id="dropMenu">
+                <li><a class="dropdown-item" href="/productos/fragancias.html">FRAGANCIAS</a></li>
+                <li><a class="dropdown-item" href="/productos/maquillaje.html">MAQUILLAJE</a></li>
+                <li><a class="dropdown-item" href="/productos/cosmeticos.html">COSMÉTICOS</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link"> CONTACTO </a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+            <button class="btn btn-outline-success" type="submit">
+              Search
+            </button>
+          </form>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+  </header>
   <!-- Navbar -->
 
   <!-- Canva Principal -->
@@ -90,7 +86,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link">
-            CUIDADO FACIAL
+            COSMÉTICOS
           </a>
         </li>
         <li class="nav-item">
@@ -231,7 +227,20 @@
       </div>
     </section>
  </main>
-
+ <div class="container-fluid footer-basic w-100">
+  <footer class="w-100 d-flex justify-content-center flex-column align-items-center">
+    <h2 class="h5">Perfumeria Hermanos Mattar</h2>
+    <div class="social d-flex justify-content-around w-75"><a href="#"><i class="icon ion-social-instagram"></i></a><a
+        href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a
+        href="#"><i class="icon ion-social-facebook"></i></a></div>
+    <ul class="list d-flex justify-content-around">
+      <li class="list-inline-item"><a href="#">Inicio</a></li>
+      <li class="list-inline-item"><a href="#">Productos</a></li>
+      <li class="list-inline-item"><a href="#">Contacto</a></li>
+    </ul>
+    <p class="copyright">Perfumeria Hermanos Mattar © 2024</p>
+  </footer>
+</div>
  
 
 

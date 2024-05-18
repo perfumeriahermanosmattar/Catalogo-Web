@@ -1,0 +1,102 @@
+main{
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+}
+
+
+main .btn-price{
+    border-color: #dadada!important;
+    color:  #818181 !important;
+    transition: all ease 0.3s
+}
+
+main .btn-price:active{
+    border-color: rgb(0, 0, 0)!important;
+    color:  rgb(0, 0, 0) !important;
+}
+
+main button:hover{
+    background-color: transparent !important;
+    border-color: #323232!important;
+    color:  rgb(50, 50, 50) !important;
+    transform: scale(1.1);
+}
+
+main .price-active{
+    border-color: rgb(0, 0, 0)!important;
+    color:  rgb(0, 0, 0) !important;
+}
+
+
+.hola{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    align-content: center;
+}
+
+.prueba{
+    /* height: 65px;
+    width: 65px; */
+    margin: 0px 5px 5px 0px;
+    background-color: bisque;
+}
+
+.imagencita{
+    max-width: 65px!important;
+    max-height: 65px;
+    width: 100%!important;
+    height: 100%!important;
+}
+
+.productos{
+    font-size: 150%;
+    display: flex;
+    flex-direction: column;
+}
+
+.recomendados{
+    width: 100%;
+}
+
+.recomendados > :nth-child(n){
+    width: 50%-10px;
+}
+
+@media (min-width: 500px){
+}
+
+@media (min-width: 768px){
+    .productos{
+        flex-direction: row!important;
+    }
+
+    .contenido .img-fluid{
+        overflow-x: auto;
+        min-width:auto;
+        max-width: 85%;
+        height: fit-content;
+    }
+
+    .imagencita{
+        max-width: 80px!important;
+        max-height: 80px;
+        width: 100%!important;
+        height: 100%!important;
+    }
+
+    .informacion{
+        flex-direction: row;
+    }
+}
+
+/* @media (max-width: 991px){
+    .informacion{
+        width: 30%;
+    }
+    main aside{
+        width: 70%;
+    }
+} */

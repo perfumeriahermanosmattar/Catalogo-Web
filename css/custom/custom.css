@@ -11,36 +11,24 @@
     padding: 0;
     box-sizing: border-box;
     font-family:  "Jost","Didact","Hind";
+    letter-spacing: 2px;
 }
 
 body{
     background-color: rgb(255, 255, 255);
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
-}
-
-.offcanvas{
-    max-width: 80%;
 }
 
 .logo{
     width: 200px;
 }
 
-.title{
-    margin-bottom: 1rem;
+.text-align-center{
+    text-align: left;
 }
 
-/* .carousel-inner{
-    display: flex !important;
-    justify-content: center !important;
-    flex-direction: row !important;
-    align-content: center !important;
-    flex-wrap: wrap !important;
-} */
-
+.title{
+    margin-top: 2rem;
+}
 
 #carouselExample{
     display: flex !important;
@@ -52,12 +40,12 @@ body{
     padding: 0 !important;
 }
 
-nav{
+header nav{
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 
 }
 
-.navbar ul li{
+header .navbar ul li{
     margin: 5px 0px;
 }
 
@@ -65,15 +53,19 @@ nav{
     margin: 10px 0px;
 }
 
-.nav-link{
+header .nav-link{
     font-size:medium !important;
     /* font-weight:900; */
     letter-spacing: 5px;
     color: rgb(24, 24, 24);
 }
 
-.nav-link:hover{
+header .nav-link:hover{
     color: rgb(131, 131, 131);
+}
+
+#dropMenu{
+    padding: 0;
 }
 
 .img-carousel{
@@ -81,15 +73,16 @@ nav{
 }
 
 main{
-    width: 100vw;
+    width: 100%;
 }
 
+
 .card{
-    /* max-width: 10.5rem !important; */
-    height: 21rem;
-    width: 42vw;
+    height:auto;
+    border: no 1px #1900ff;
     border-radius: 0;
-}
+    display: flex;
+    flex: 1 1 200px;}
 
 .card-body{
     padding: 0rem;
@@ -120,7 +113,8 @@ main{
 }
 
 .img-cardy{
-    background-color: rgb(220, 220, 220);
+    width:12rem;
+    background-color: rgb(255, 255, 255);
     border-radius: 0;
     opacity: 1;
     /* filter: brightness(1); Filtro inicial opcional */
@@ -199,16 +193,15 @@ main{
     width: 8rem;
 }
 
-@media (min-width: 992px) {
+.enlace{
+    text-decoration: none;
+}
 
-    .container-fluid{
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-    }
+@media (min-width: 992px) {
 
     #carouselExample{
         width: 100vw !important;
+        /* height: 88.9vh; */
     }
 
     .metricas{
@@ -230,12 +223,13 @@ main{
     flex-wrap: wrap !important;
 } */
     .carousel-item{
-        height: 88.9vh;
         width: 100%;
-        object-fit: cover;
+        object-fit:scale-down;
+        overflow: hidden;
     }
 
     .img-carousel{
+        max-height:88.8vh;
         overflow:hidden;
         width: 100%;
         object-fit:cover;
@@ -248,7 +242,6 @@ main{
 
     .card{
         width: 25vw;
-        height: 23rem;
 
     }
 
@@ -266,7 +259,7 @@ main{
         width: 15vw
     }
 
-    .nav-item{
+    header .nav-item{
         margin: 0px 5px;
     }
 }

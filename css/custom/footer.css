@@ -5,11 +5,11 @@
     display: flex;
     justify-content: center;
     /* box-shadow: 0 -7px 10px rgba(255, 255, 255, 0.2); */
-
 }
 
 .footer-basic ul {
     padding:0;
+    
     list-style:none;
     text-align:center;
     font-size:18px;

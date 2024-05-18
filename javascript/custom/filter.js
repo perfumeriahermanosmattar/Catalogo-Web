@@ -1,3 +1,5 @@
+//Espero pueda entender este espagueti dentro de un mes
+
 let lista = document.querySelectorAll(".filtrador");
 let maleCheckbox = document.getElementById("maleCheckbox");
 let femaleCheckbox = document.getElementById("femaleCheckbox");
@@ -48,7 +50,7 @@ document.getElementById('rangeBar').addEventListener('input', function() {
 });
 
 function verif(element) {
-  visible = true;
+  let visible = true;
 
   if (element["Gender"] == "Male") {
     if (!maleCheckbox.checked) {
@@ -77,6 +79,7 @@ function insert(element) {
   if ( !filterActive ||  verif(element) ) {
     let html = `
         <div class="col">
+          <a class="enlace" href="perfume.html?id=${element["id"]}">
             <div class="card">
                 <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
                 <div class="card-body">
@@ -85,7 +88,9 @@ function insert(element) {
                     <h6 class="card-price">${element["Price"][0]}$</h6>
                 </div>
             </div>
-        </div>`;
+          </a>
+        </div>
+        `;
     $('#productos').append(html);
     // console.log(element["Gender"]);
   }
