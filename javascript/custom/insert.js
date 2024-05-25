@@ -56,9 +56,11 @@ function insertar(producto) {
       `<button type="button" class="btn-volumen btn btn-outline-primary me-2 btn-price">${producto.Volumen[i]}ml</button>`
     );
 
-    if ( i = 0){
-      document.getElementsByClassName("btn-price")[i].addClass("price-active");
+    if (i === 0) {
+      // Selecciona el elemento jQuery y luego llama al método addClass
+      $($(".btn-price")[i]).addClass("price-active");
     }
+    
   }
 
   for (let i = 0; i < producto.Volumen.length; i++) {

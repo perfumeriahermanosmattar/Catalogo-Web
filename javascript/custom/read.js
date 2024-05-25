@@ -10,7 +10,9 @@ async function read() {
 }
 
 function write(data, limit) {
-  for (let i = 0; i< limit; i++) {
+
+  $("#productos").empty();
+  for (let i = limit - 20; i < limit; i++) {
     let html = `
       <div class="col">
         <a class="enlace" href="perfume.html?id=${data[i]["id"]}">
@@ -26,9 +28,73 @@ function write(data, limit) {
       </div>
         `;
     $("#productos").append(html); // Agrega el HTML generado al cuerpo del documento (puedes cambiar 'body' por el selector adecuado)
-  }   
+  }
 }
+
+
+// FUNCIONES DE PAGINACION
+
+let currentPage = 0;
+
+for (let i = 0; i < 6; i++) {
+  const skipPageElement = document.getElementsByClassName("skip-page")[i];
+  console.log(skipPageElement);
+
+  skipPageElement.addEventListener("click", () => { // Función con flecha
+    currentPage = i; // Captura el valor de 'i' del bucle
+    console.log(currentPage);
+    write(productos, (currentPage + 1) * 20);
+    $(".skip-page").removeClass("page-active");
+    $(this).addClass("page-active");
+  });
+}
+
+const prev = document.getElementById("btn-prev");
+
+prev.addEventListener("click", () => {
+
+  // Decrementa currentPage pero asegúrate de que no sea menor que 0
+  if (currentPage > 0) {
+    currentPage--;
+  } else {
+    return;
+  }
+
+  // Selecciona la página actual y quita la clase 'page-active'
+  let thisPage = document.querySelectorAll(".skip-page")[currentPage];
+  $(thisPage).removeClass("page-active");
+
+  // Selecciona la nueva página y añade la clase 'page-active'
+  thisPage = document.querySelectorAll(".skip-page")[currentPage];
+  $(thisPage).addClass("page-active");
+
+  // Llama a la función write con los nuevos parámetros
+  write(productos, (currentPage + 1) * 20);
+});
+
+const next = document.getElementById("btn-next")
+
+next.addEventListener("click", () => {
+
+  // Decrementa currentPage pero asegúrate de que no sea menor que 0
+  if (currentPage < 5) {
+    currentPage++;
+  } else{
+    return;
+  }
+
+  // Selecciona la página actual y quita la clase 'page-active'
+  let thisPage = document.querySelectorAll(".skip-page")[currentPage];
+  $(thisPage).removeClass("page-active");
+
+  // Selecciona la nueva página y añade la clase 'page-active'
+  thisPage = document.querySelectorAll(".skip-page")[currentPage];
+  $(thisPage).addClass("page-active");
+
+  // Llama a la función write con los nuevos parámetros
+  write(productos, (currentPage + 1) * 20);
+});
 
 export const productos = await read();
 
-write (productos,25);
+write(productos, 20);
