@@ -1,0 +1,342 @@
+[
+  {
+    "id": 0,
+    "GroupBrand": "Benetton",
+    "ProductLine": "Colors Man",
+    "Description": "Benetton Colors edt Natural Spray Man 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [45],
+    "Gender": "Male"
+  },
+  {
+    "id": 1,
+    "GroupBrand": "Cuba By Parfum Des Champs",
+    "ProductLine": "Cuba Bold For Men",
+    "Description": "Cuba Bold For Men Edt Natural Spray 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [24],
+    "Gender": "Male"
+  },
+  {
+    "id": 2,
+    "GroupBrand": "Cuba By Parfum Des Champs",
+    "ProductLine": "Cuba Dark For Men",
+    "Description": "Cuba Dark For Men Edt Natural Spray 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [24],
+    "Gender": "Male"
+  },
+  {
+    "id": 3,
+    "GroupBrand": "Cuba By Parfum Des Champs",
+    "ProductLine": "Cuba Mystic For Women",
+    "Description": "Cuba Mystic For Women Edp Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [24],
+    "Gender": "Female"
+  },
+  {
+    "id": 4,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Prestige Classic",
+    "Description": "Cuba Prestige Classic Edt For Men 90ml",
+    "Type": "EDT",
+    "Volumen": ["90"],
+    "Price": [22],
+    "Gender": "Male"
+  },
+  {
+    "id": 5,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Cuba Gold For Men",
+    "Description": "Cuba Gold For Men 100ml Edt Natural Spray",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Male"
+  },
+  {
+    "id": 6,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Cuba Blue For Men",
+    "Description": "Cuba Blue For Men 100ml Edt Natural Spray",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Male"
+  },
+  {
+    "id": 7,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Cuba Hot For Men",
+    "Description": "Cuba Hot For Men 100ml Edt Natural Spray",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Male"
+  },
+  {
+    "id": 8,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Cuba Signature For Men",
+    "Description": "Cuba Signature For Men 100ml Edt Natural Spray",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Male"
+  },
+  {
+    "id": 9,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Cuba Grey For Men",
+    "Description": "Cuba Grey For Men 100ml Edt Natural Spray",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Male"
+  },
+  {
+    "id": 10,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Cuba My Love For Women",
+    "Description": "Cuba My Love For Women 100ml Edp Natural Spray",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Female"
+  },
+  {
+    "id": 11,
+    "GroupBrand": "Cuba Original By Parfum Des Champs",
+    "ProductLine": "Cuba La Vida For Women",
+    "Description": "Cuba La Vida For Women 100ml Edp Natural Spray",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Female"
+  },
+  {
+    "id": 12,
+    "GroupBrand": "Guy Laroche",
+    "ProductLine": "Drakkar Noir",
+    "Description": "Drakkar Noir Edt Vaporisateur Spray 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [35],
+    "Gender": "Male"
+  },
+  {
+    "id": 13,
+    "GroupBrand": "Elizabeth Arden",
+    "ProductLine": "Red Door",
+    "Description": "Elizabeth Arden Red Door Edt spray vaporisateur 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [55],
+    "Gender": "Female"
+  },
+  {
+    "id": 14,
+    "GroupBrand": "Elizabeth Arden",
+    "ProductLine": "5th Avenue",
+    "Description": "Elizabeth Arden 5th avenue 125ml edp Spray Vaporisateur",
+    "Type": "EDP",
+    "Volumen": ["125"],
+    "Price": [45],
+    "Gender": "Female"
+  },
+  {
+    "id": 15,
+    "GroupBrand": "Karl Lagerfeld",
+    "ProductLine": "Lagerfeld Classic",
+    "Description": "Lagerfeld Classic 100ml Edt Vaporisateur Natural Spray",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [45],
+    "Gender": "Male"
+  },
+  {
+    "id": 16,
+    "GroupBrand": "Ted Lapidus",
+    "ProductLine": "Lapidus Pour Homme",
+    "Description": "Lapidus Pour Homme Edt Vaporisateur - Natural Spray. Parfum Ted Lapidus Paris. 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [40],
+    "Gender": "Male"
+  },
+  {
+    "id": 17,
+    "GroupBrand": "Lomani Paris",
+    "ProductLine": "Millonaire",
+    "Description": "Lomani Paris Millonaire Edt Natural Spray Vaporisateur 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [35],
+    "Gender": "Male"
+  },
+  {
+    "id": 18,
+    "GroupBrand": "Lomani Paris",
+    "ProductLine": "Ab Spirit",
+    "Description": "Ab Spirit by Lomani Paris Edt Vaporisateur Natural Spray 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [20],
+    "Gender": "Female"
+  },
+  {
+    "id": 19,
+    "GroupBrand": "Lomani Paris",
+    "ProductLine": "Millonaire Women",
+    "Description": "Lomani Paris Millonaire Women Edp Vaporisateur Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [38],
+    "Gender": "Female"
+  },
+  {
+    "id": 20,
+    "GroupBrand": "Lomani Paris",
+    "ProductLine": "Lomani Signature For Men",
+    "Description": "Lomani Signature For Men 100ml Edt Vaporisateur Natural Spray",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [38],
+    "Gender": "Male"
+  },
+  {
+    "id": 21,
+    "GroupBrand": "Master of New Brand",
+    "ProductLine": "Master of Platinum For Men",
+    "Description": "Master of Platinum For Men Edt Natural Spray 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [22],
+    "Gender": "Male"
+  },
+  {
+    "id": 22,
+    "GroupBrand": "Master of New Brand",
+    "ProductLine": "Master of Gold For Women",
+    "Description": "Master of Gold For Women Edp Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [22],
+    "Gender": "Female"
+  },
+  {
+    "id": 23,
+    "GroupBrand": "Master of New Brand",
+    "ProductLine": "Master of Purple For Women",
+    "Description": "Master of Purple For Women Edp Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [22],
+    "Gender": "Female"
+  },
+  {
+    "id": 24,
+    "GroupBrand": "Naomi Campbell",
+    "ProductLine": "Prêt À Porter",
+    "Description": "Naomi Campbell Prêt À Porter Edt Natural Spray Vaporisateur 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [25],
+    "Gender": "Female"
+  },
+  {
+    "id": 25,
+    "GroupBrand": "New Brand",
+    "ProductLine": "Sweet Star For Women",
+    "Description": "New Brand Sweet Star For Women Edp Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Female"
+  },
+  {
+    "id": 26,
+    "GroupBrand": "New Brand",
+    "ProductLine": "Mysterious Girl For Women",
+    "Description": "New Brand Mysterious Girl For Women Edp Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [18],
+    "Gender": "Female"
+  },
+  {
+    "id": 27,
+    "GroupBrand": "New Brand Perfumes",
+    "ProductLine": "Prestige Cute For Women",
+    "Description": "Prestige Cute For Women Edp 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [22],
+    "Gender": "Female"
+  },
+  {
+    "id": 28,
+    "GroupBrand": "New Brand Perfumes",
+    "ProductLine": "Prestige Extasia For Women",
+    "Description": "Prestige Extasia For Women Edp Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [20],
+    "Gender": "Female"
+  },
+  {
+    "id": 29,
+    "GroupBrand": "New Brand Perfumes",
+    "ProductLine": "Prestige Extasia For Men",
+    "Description": "Prestige Extasia For Men Edt Natural Spray 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [20],
+    "Gender": "Male"
+  },
+  {
+    "id": 30,
+    "GroupBrand": "New Brand Perfumes",
+    "ProductLine": "Prestige Invincible",
+    "Description": "Prestige Invincible Edt For Men Natural Spray 100ml",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [0],
+    "Gender": "Male"
+  },
+  {
+    "id": 31,
+    "GroupBrand": "Territoire",
+    "ProductLine": "Territoire Sport",
+    "Description": "Territoire Sport Edp Vaporisateur Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [30],
+    "Gender": "Male"
+  },
+  {
+    "id": 32,
+    "GroupBrand": "Territoire",
+    "ProductLine": "Territoire Metal Pour Homme",
+    "Description": "Territoire Metal Pour Homme Edp Vaporisateur Natural Spray 100ml",
+    "Type": "EDP",
+    "Volumen": ["100"],
+    "Price": [30],
+    "Gender": "Male"
+  },
+  {
+    "id": 33,
+    "GroupBrand": "United Colors",
+    "ProductLine": "Tribù",
+    "Description": "United Colors Tribù 100ml Edt Spray Vaporisateur",
+    "Type": "EDT",
+    "Volumen": ["100"],
+    "Price": [38],
+    "Gender": "Female"
+  }
+]

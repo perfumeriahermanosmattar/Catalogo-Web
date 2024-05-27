@@ -23,53 +23,53 @@
 
 <body>
   <!-- Navbar -->
-<header>
-  <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #ffffff !important">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html"><img src="./Assets/Img/Icon/logo.png" class="img-fluid logo"
-          alt="..." />
-      </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse sisa" id="navbarSupportedContent">
-        <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
-          <li class="nav-item">
-            <a class="nav-link" href="index.html">INICIO</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="marcas.html"> MARCAS </a>
-          </li>
-          <li class="nav-item dropdown">
-            <button class="btn btn-ligth dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false">
-              PRODUCTOS
+  <header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #ffffff !important">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="./index.html"><img src="./Assets/Img/Icon/logo.png" class="img-fluid logo"
+            alt="..." />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse sisa" id="navbarSupportedContent">
+          <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html">INICIO</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./marcas.html"> MARCAS </a>
+            </li>
+            <li class="nav-item dropdown">
+              <button class="btn btn-ligth dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false">
+                PRODUCTOS
+              </button>
+              <ul class="dropdown-menu dropdown-menu-light" id="dropMenu">
+                <li><a class="dropdown-item" href="./productos/fragancias.html">FRAGANCIAS</a></li>
+                <li><a class="dropdown-item" href="./productos/maquillaje.html">MAQUILLAJE</a></li>
+                <li><a class="dropdown-item" href="./productos/cosmeticos.html">COSMÉTICOS</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link"> CONTACTO </a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+            <button class="btn btn-outline-success" type="submit">
+              Search
             </button>
-            <ul class="dropdown-menu dropdown-menu-light" id="dropMenu">
-              <li><a class="dropdown-item" href="/productos/fragancias.html">FRAGANCIAS</a></li>
-              <li><a class="dropdown-item" href="/productos/maquillaje.html">MAQUILLAJE</a></li>
-              <li><a class="dropdown-item" href="/productos/cosmeticos.html">COSMÉTICOS</a></li>
-            </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link"> CONTACTO </a>
-          </li>
-        </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-          <button class="btn btn-outline-success" type="submit">
-            Search
-          </button>
-        </form>
+          </form>
+        </div>
       </div>
-    </div>
-  </nav>
-</header>
+    </nav>
+  </header>
   <!-- Navbar -->
 
   <!-- Carousel   -->
   <div class="d-flex justify-content-center reset">
-    <div id="carouselExample" class="carousel slide">
+    <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="./Assets/Img/Banner/Banner-1.webp" class="img-carousel" alt="..." />
@@ -90,114 +90,135 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-  </div>  
+  </div>
   <!-- Contenido -->
 
-  <main class="container-fluid d-flex flex-column align-items-center my-3">
+  <main class="container-fluid d-flex flex-column flex-wrap align-items-center my-3">
     <a class="nav-link" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
       aria-controls="offcanvasExample">
     </a>
-    <section class="row align-items-center align-content-center justify-content-center" id="productos">
+
+    <section class="d-flex justify-content-between align-items-center align-content-center flex-column w-100" id="Tendencias">
       <div class="d-flex justify-content-center align-content-center">
-        <h2 class="title text-align-center">Fragancias Tendencia</h2>
+        <h2 class="title text-align-center" id="tendencia">Fragancias Tendencia</h2>
       </div>
-      <div class="col">
-        <a class="nav-link" href="productos.html">
-          <div class="card">
-            <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-            <div class="card-body d-flex flex-column align-items-center">
-              <h5 class="card-title">Channel Perfume</h5>
+      <div class="d-flex justify-content-between flex-row flex-wrap w-100">
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=30">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Tribù</h5>
+                    <h6 class="card-subtitle">Benetton</h6>
+                    <h6 class="card-price">38$</h6>
+                </div>
             </div>
-            <div class="card-list d-flex flex-column align-items-center justify-content-center">
-              <h6 class="mb-3 card-price">250.00$</h6>
+          </a>
+        </div>
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=83">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Mystic For Women</h5>
+                    <h6 class="card-subtitle">Cuba</h6>
+                    <h6 class="card-price">24$</h6>
+                </div>
             </div>
-          </div>
-        </a>
-      </div>
-      <div class="col">
-        <div class="card">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center justify-content-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
+          </a>
         </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center justify-content-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=93">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Red Door</h5>
+                    <h6 class="card-subtitle">Elizabeth Arden</h6>
+                    <h6 class="card-price">55$</h6>
+                </div>
+            </div>
+          </a>
         </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center justify-content-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=94">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">5th Avenue</h5>
+                    <h6 class="card-subtitle">Elizabeth Arden</h6>
+                    <h6 class="card-price">45$</h6>
+                </div>
+            </div>
+          </a>
         </div>
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=122">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Lapidus Pour Homme</h5>
+                    <h6 class="card-subtitle">Ted Lapidus</h6>
+                    <h6 class="card-price">40$</h6>
+                </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=140">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Prêt À Porter</h5>
+                    <h6 class="card-subtitle">Naomi Campbell</h6>
+                    <h6 class="card-price">25$</h6>
+                </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=121">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Lagerfeld Classic</h5>
+                    <h6 class="card-subtitle">Karl Lagerfeld</h6>
+                    <h6 class="card-price">45$</h6>
+                </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col">
+          <a class="enlace" href="/productos/perfume.html?id=29">
+            <div class="card d-flex align-items-center">
+                <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Colors</h5>
+                    <h6 class="card-subtitle">Benetton</h6>
+                    <h6 class="card-price">45$</h6>
+                </div>
+            </div>
+          </a>
+        </div>
+
       </div>
+      
     </section>
-    <section class="row align-items-center justify-content-center my-4" id="productos">
+
+
+
+    <section class="row align-items-center justify-content-center my-4" id="Exclusivas">
       <div class="d-flex justify-content-center align-content-center">
         <h2 class="title text-align-center">Fragancias Exclusivas</h2>
       </div>
-      <div class="col">
-        <a class="nav-link" href="productos.html">
-          <div class="card">
-            <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-            <div class="card-body d-flex flex-column align-items-center">
-              <h5 class="card-title">Channel Perfume</h5>
-            </div>
-            <div class="card-list d-flex flex-column align-items-center justify-content-center">
-              <h6 class="mb-3 card-price">250.00$</h6>
-            </div>
-          </div>
-        </a>
-      </div>
-      <div class="col">
-        <div class="card">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center justify-content-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center justify-content-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center justify-content-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
-        </div>
-      </div>
+
     </section>
   </main>
   <div class="container-fluid footer-basic w-100">

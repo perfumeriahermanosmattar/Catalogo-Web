@@ -12,25 +12,46 @@ def extraer_info(descripcion):
         return match.group(1)  # Devuelve el primer grupo de la coincidencia
     else:
         return "null"  # Si no se encuentra el patrón, devuelve "null"
-
+    
+def bubble_sort(lista):
+    n = len(lista)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if lista[j]["GroupBrand"] > lista[j+1]["GroupBrand"]:
+                lista[j], lista[j+1] = lista[j+1], lista[j]
+    return lista
 
 # Obtiene el directorio actual
 directorio_actual = os.path.dirname(os.path.realpath(__file__))
 os.chdir(directorio_actual)
 
+op = int(input("Ingrese ruta: \n 1.inventario \n 2.Exclusivos \n"))
+
+link = 'inventario.json' if op == 1 else 'exclusive.json'
 # Carga el archivo JSON en una variable
-with open('inventario.json','r', encoding='utf-8') as f:
+with open(link,'r', encoding='utf-8') as f:
     data = json.load(f)
 
-i=0
+print("Que desea hacer: 1.Enumerar 2.Imprimir Descripciones 3.Sort")
+
+n = int(input())
+
 # Recorre cada objeto en el archivo JSON
-for objeto in data:
-    # Verifica si el atributo "ciudad" existe en el objeto
-    objeto["id"] = i
-        # objeto["Type"] = switch.get(Type)
-    i += 1
+i = 0
 
+if n == 1:
+    for objeto in data:
+        objeto["id"]=i
+        i+=1
+elif n==2:
+    for objeto in data:
+        print(objeto["Description"])
+else:
+    print("Procesando.................................................")
+    data = bubble_sort(data)
 
+# Verifica si el atributo "ciudad" existe en el objeto
 # Guarda los cambios en el archivo JSON (opcional)
-with open('inventario.json', 'w', encoding='utf-8') as f:
+with open(link, 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
+

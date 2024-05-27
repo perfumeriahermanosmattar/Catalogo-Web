@@ -1,6 +1,4 @@
-import { read } from "./read.js";
-
-let productos = await read("/json/inventario.json");
+import { productos } from "./read.js";
 
 function getData() {
   try {
@@ -76,7 +74,7 @@ function insertar(producto) {
   $("#precio").html(producto.Price[0] + "$");
 }
 
-export let producto = getData();
+let producto = getData();
 
 insertar(producto);
 

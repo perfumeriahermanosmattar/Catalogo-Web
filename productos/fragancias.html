@@ -21,7 +21,7 @@
   <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #ffffff !important">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html"><img src="/Assets/Img/Icon/logo.png" class="img-fluid logo"
+        <a class="navbar-brand" href="/index.html"><img src="/Assets/Img/Icon/logo.png" class="img-fluid logo"
             alt="Hermanos Mattar" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -31,7 +31,7 @@
         <div class="collapse navbar-collapse sisa" id="navbarSupportedContent">
           <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
             <li class="nav-item">
-              <a class="nav-link" href="index.html">INICIO</a>
+              <a class="nav-link" href="/index.html">INICIO</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="marcas.html"> MARCAS </a>
@@ -124,19 +124,21 @@
     <section class="d-flex justify-content-center w-100 my-4">
       <nav aria-label="Page navigation example">
         <ul class="pagination">
-          <li class="page-item">
-            <a class="page-link" id="btn-prev" href="#" aria-label="Previous">
+          <li class="page-item" id="btn-prev">
+            <a class="page-link" href="#" aria-label="Previous">
               <span aria-hidden="true">&laquo;</span>
             </a>
           </li>
-          <li class="page-item"><a class="page-link skip-page" href="#">1</a></li>
-          <li class="page-item"><a class="page-link skip-page" href="#">2</a></li>
-          <li class="page-item"><a class="page-link skip-page" href="#">3</a></li>
-          <li class="page-item"><a class="page-link skip-page" href="#">4</a></li>
-          <li class="page-item"><a class="page-link skip-page" href="#">5</a></li>
-          <li class="page-item"><a class="page-link skip-page" href="#">6</a></li>
-          <li class="page-item">
-            <a class="page-link" id="btn-next" href="#" aria-label="Next">
+          <li class="d-flex flex-row">
+            <ul class="d-flex flex-row" id="page-container">
+              <!-- Aqui se van a insertar elementos dinamicos como los siguientes -->
+              <!-- <li class="page-item"><a class="page-link skip-page" href="#">1</a></li>
+              <li class="page-item"><a class="page-link skip-page" href="#">2</a></li>
+              <li class="page-item"><a class="page-link skip-page" href="#">3</a></li> -->
+            </ul>
+          </li>
+          <li class="page-item" id="btn-next">
+            <a class="page-link" href="#" aria-label="Next">
               <span aria-hidden="true">&raquo;</span>
             </a>
           </li>
@@ -160,7 +162,7 @@
     </footer>
   </div>
 
-<!-- FIN DE PAGINA -->
+  <!-- FIN DE PAGINA -->
 
 
 
@@ -168,10 +170,10 @@
   <script src="/javascript/Bootstrap/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
+
   <script src="/javascript/Library/JQuery.js"></script>
 
-  <script type="module" src="/javascript/custom/read.js"></script>
-  <script type="module" src="/javascript/custom/filter.js"></script>
+  <script type="module" src="/javascript/custom/fragancias.js"></script>
 
   <script>
 
@@ -182,7 +184,7 @@
       // Muestra el valor seleccionado en el span
       document.getElementById('valor').textContent = selectedValue + "$";
     });
-    
+
 
   </script>
 </body>
