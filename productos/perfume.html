@@ -66,23 +66,16 @@
 
     <section class="productos">
       <section class="d-flex flex-row contenido">
-        <div class="hola" visible="false">
-          <div class="prueba">
-            <img class="img-fluid imagencita" src="/Assets/Img/Perfume/Carolina Herrera/BadBoy-1.webp" alt="...">
-          </div>
-          <div class="prueba">
-            <img class="img-fluid imagencita" src="/Assets/Img/Perfume/Carolina Herrera/BadBoy-1.webp" alt="...">
-          </div>
-        </div>
         <img class="img-fluid" src="/Assets/Img/Perfume/Carolina Herrera/BadBoy-1.webp" alt="...">
       </section>
 
       <section class="container-fluid d-flex flex-column align-items-left informacion">
-        <h1 class="title h1 my-2 text-align-center"><strong id="nombre" ></strong></h1>
+        <h1 class="title h1 my-2 text-align-center"><strong id="nombre"></strong></h1>
         <h2 class="h5 my-2 text-align-center" id="compania"></h2>
         <p id="descripcion">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur officiis deserunt dicta at eum eaque
-          perferendis velit vel, magnam iure.
+          Blue Seduction de Antonio Banderas es una fragancia fresca y acuática que captura la esencia de un día de
+          verano junto al mar. Con notas de bergamota, cassis y menta, es la elección perfecta para el hombre seductor y
+          espontáneo.
         </p>
         <ul>
           <li class="h6" id="presentacion"></li>
@@ -91,36 +84,18 @@
             </div>
           </li>
         </ul>
-        <h3 name="precio"  class="h3 ms-2">
-          <strong id="precio" >$125.00</strong>
+        <h3 name="precio" class="h3 ms-2">
+          <strong id="precio">$125.00</strong>
         </h3>
       </section>
     </section>
 
     <section class="recomendados d-flex justify-content-center align-content-center align-items-center flex-column">
-      <h3 class="text-align-center">
+      <h3 class="text-align-center my-3">
         Productos Similares
       </h3>
-      <div class="container-fluid d-flex justify-content-center align-content-center align-items-center">
-        <div class="card d-flex align-items-center">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
-        </div>
-        <div class="card d-flex align-items-center">
-          <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="..." />
-          <div class="card-body d-flex flex-column align-items-center">
-            <h5 class="card-title">Channel Perfume</h5>
-          </div>
-          <div class="card-list d-flex flex-column align-items-center justify-content-center">
-            <h6 class="mb-3 card-price">250.00$</h6>
-          </div>
-        </div>
-      </div>
+      <div id="productos" class="container-fluid d-flex align-content-center align-items-center p-recomendados">
+
     </section>
   </main>
   <div class="container-fluid footer-basic w-100">
@@ -143,6 +118,8 @@
     crossorigin="anonymous"></script>
 
   <script src="/javascript/Library/JQuery.js"></script>
+
+  <script src="/javascript/custom/search.js"></script>
 
   <script type="module" src="/javascript/custom/insert.js"></script>
 </body>

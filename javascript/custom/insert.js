@@ -1,4 +1,5 @@
 import { read } from "./read.js";
+import * as R from "./recomendados.js";
 
 let productos = await read("/json/inventario.json");
 
@@ -62,7 +63,7 @@ function insertar(producto) {
       // Selecciona el elemento jQuery y luego llama al método addClass
       $($(".btn-price")[i]).addClass("price-active");
     }
-    
+
   }
 
   for (let i = 0; i < producto.Volumen.length; i++) {
@@ -76,7 +77,11 @@ function insertar(producto) {
   $("#precio").html(producto.Price[0] + "$");
 }
 
-export let producto = getData();
+let producto = getData();
+
+let similares = R.similar(producto, productos, 4);
+
+R.write(similares);
 
 insertar(producto);
 

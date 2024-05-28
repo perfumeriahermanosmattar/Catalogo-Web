@@ -25,12 +25,13 @@ def bubble_sort(lista):
 directorio_actual = os.path.dirname(os.path.realpath(__file__))
 os.chdir(directorio_actual)
 
-op = int(input("Ingrese ruta: \n 1.inventario \n 2.Exclusivos \n"))
-
-link = 'inventario.json' if op == 1 else 'exclusive.json'
+link = 'inventario.json'
 # Carga el archivo JSON en una variable
 with open(link,'r', encoding='utf-8') as f:
     data = json.load(f)
+
+with open('description.json','r', encoding='utf-8') as f:
+    descrip = json.load(f)
 
 print("Que desea hacer: 1.Enumerar 2.Imprimir Descripciones 3.Sort")
 
@@ -44,8 +45,9 @@ if n == 1:
         objeto["id"]=i
         i+=1
 elif n==2:
-    for objeto in data:
-        print(objeto["Description"])
+    for i in range(179):
+        # print(objeto["GroupBrand"]+": "+objeto["ProductLine"])
+        data[i]["Information"] = descrip[i]
 else:
     print("Procesando.................................................")
     data = bubble_sort(data)

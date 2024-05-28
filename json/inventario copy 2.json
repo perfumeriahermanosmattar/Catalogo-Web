@@ -1,0 +1,2652 @@
+[
+    {
+        "id": 0,
+        "GroupBrand": "Adidas",
+        "ProductLine": "Dynamic Pulse",
+        "Description": "Dynamic Pulse 100 ML edt Natural Spray/ Vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            14
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 1,
+        "GroupBrand": "Adidas",
+        "ProductLine": "Get Ready!",
+        "Description": "Get Ready! Edt 100ml Natural Spray / Vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            14
+        ],
+        "Gender": "Unisex"
+    },
+    {
+        "id": 2,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Blue Seduction",
+        "Description": "AB BLUE EDT 100ML VAP C/20UD",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 3,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Blue Seduction Woman",
+        "Description": "AB BSW EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80",
+            "200"
+        ],
+        "Price": [
+            31,
+            35
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 4,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Golden Secret",
+        "Description": "AB GOLDEN SEC EDT 200ML PRECIO SEDUCCION",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            31,
+            43
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 5,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Her Golden Secret",
+        "Description": "AB HER GOLDEN S NEW EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 6,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Her Secret Desire",
+        "Description": "AB HER SECRET DESIRE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 7,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Her Secret Temptation",
+        "Description": "AB HER SCRT TEMPTATION EDT 80ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 8,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "King of Seduction",
+        "Description": "KING OF SEDUCTION 100ML EDT",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            23,
+            30,
+            35
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 9,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "King of Seduction Absolute",
+        "Description": "AB KOS ABSOLUTE EDT 50ML VAPO",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            23,
+            31
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 10,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Power of Seduction",
+        "Description": "AB POWER OF SEDUCTION  100ML EDT",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            31,
+            35
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 11,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Queen of Seduction",
+        "Description": "AB QUEEN EDT 80ML VP 20",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 12,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Seduction In Black",
+        "Description": "AB BLACK  EDT 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            31,
+            35
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 13,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon",
+        "Description": "AB THE ICON EDT 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            34,
+            44
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 14,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon Elixir",
+        "Description": "AB THE ICON ELIXIR EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            39
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 15,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon The Perfume",
+        "Description": "AB THE ICON EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            37
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 16,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon Woman",
+        "Description": "AB THE ICON FEM EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            37
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 17,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Secret",
+        "Description": "SECRET EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            23,
+            31,
+            43
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 18,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Secret Temptation",
+        "Description": "AB THE SCRT TEMPTATION EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 19,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Colors Blue Man",
+        "Description": "BNT COLORS MAN BLUE EDT 100ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 20,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Colors Green Man",
+        "Description": "BNT COLORS MAN GREEN EDT 100ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 21,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Blue Neroli",
+        "Description": "BNT SISTERLAND BLUE NEROLI EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 22,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Pingook Raspberry",
+        "Description": "BNT SISTERLAND PINK RASPBERRY EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 23,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Red Rosé",
+        "Description": "BNT SISTERLAND RED ROSE EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 24,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Green Jasmine",
+        "Description": "BNT SISTERLAND GREEN JASMINE EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 25,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribe",
+        "Description": "BNT TRIBE EDT 90ML",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 26,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribe Cool",
+        "Description": "BNT TRIBE RE24 EDT 90ML",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 27,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribe RE23",
+        "Description": "BNT TRIBE RE EDP 90ML",
+        "Type": "EDP",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            37
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 28,
+        "GroupBrand": "Benetton",
+        "ProductLine": "United Dreams Aim High",
+        "Description": "UD AIM HIGH EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 29,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Colors",
+        "Description": "Benetton Colors edt Natural Spray Man 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            45
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 30,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribù",
+        "Description": "United Colors Tribù 100ml Edt Spray Vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            38
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 31,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Believe",
+        "Description": "Believe Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 32,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Hidden Fantasy",
+        "Description": "Hidden Fantasy Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 33,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Circus Fantasy",
+        "Description": "Circus Fantasy Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 34,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Fantasy",
+        "Description": "Fantasy Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            40
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 35,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Cosmic Radiance",
+        "Description": "Cosmic Radiance Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 36,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 NYC",
+        "Description": "212 NYC EDT NS 30+30 ML 16",
+        "Type": "EDT",
+        "Volumen": [
+            "30",
+            "50"
+        ],
+        "Price": [
+            102,
+            127
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 37,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Heroe for Her 22",
+        "Description": "212 HEROES FOR HER EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            129
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 38,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Heroes Men",
+        "Description": "212 HEROES EDT MEN LE 24 90ML",
+        "Type": "EDT",
+        "Volumen": [
+            "90",
+            "150"
+        ],
+        "Price": [
+            106,
+            126
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 39,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 NYC Men",
+        "Description": "212 MEN EDT 50ML 16",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            139
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 40,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Sexy",
+        "Description": "212 SEXY EDP NS 30+30 ML 16",
+        "Type": "EDP",
+        "Volumen": [
+            "30",
+            "50"
+        ],
+        "Price": [
+            102,
+            127
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 41,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Sexy Men",
+        "Description": "212 SEXY MEN EDT NS 50ML 16",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            86,
+            109
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 42,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 VIP",
+        "Description": "212 VIP EDP NS 125ML",
+        "Type": "EDP",
+        "Volumen": [
+            "30",
+            "50",
+            "80",
+            "125"
+        ],
+        "Price": [
+            66,
+            102,
+            127,
+            158
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 43,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 VIP Men",
+        "Description": "212 VIP MEN EDT NS 50ML REPACK",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            139
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 44,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Vip Men Black",
+        "Description": "212 VIP BLACK EDP LE 24 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            114,
+            144
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 45,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Vip Rosé",
+        "Description": "212 VIP ROSÉ EDP NS 50ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80",
+            "125"
+        ],
+        "Price": [
+            102,
+            127,
+            158
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 46,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy",
+        "Description": "BAD BOY EDT 150ML REFILLABLE",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "150"
+        ],
+        "Price": [
+            114,
+            142
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 47,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Power Spray",
+        "Description": "BAD BOY POWER SPRAY 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            91
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 48,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Cobalt",
+        "Description": "BAD BOY COBALT EDP 150ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "150"
+        ],
+        "Price": [
+            119,
+            149
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 49,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Extreme",
+        "Description": "BAD BOY EXTREME EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 50,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Le Parfum",
+        "Description": "BAD BOY LE PARFUM EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "150"
+        ],
+        "Price": [
+            121,
+            152
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 51,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "CH Men",
+        "Description": "CHT MEN EDT NS 50ML",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            87,
+            116,
+            153
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 52,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "CH Men Pasión",
+        "Description": "CHT MEN PASIÓN RE23 EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            116
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 53,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "CHT",
+        "Description": "CHT EDT NS 50ML",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            109,
+            130
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 54,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl",
+        "Description": "CH GOODGIRL EDP NS 50ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80",
+            "150"
+        ],
+        "Price": [
+            114,
+            140,
+            196
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 55,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl Supreme",
+        "Description": "CH GOOD GIRL EDP SUPRÉME 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            150
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 56,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl Blush",
+        "Description": "GG BLUSH RE23 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            154
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 57,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl Légère",
+        "Description": "CH GG LÉGÈRE EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            140
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 58,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Very Good Girl",
+        "Description": "GG VERY GOOD GIRL EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            153
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 59,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Very Good Girl Glam",
+        "Description": "GG VGG GLAM PARFUM 80ML",
+        "Type": "PAR",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            161
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 60,
+        "GroupBrand": "Cuba By Parfum Des Champs",
+        "ProductLine": "Bold",
+        "Description": "Bold For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            24
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 61,
+        "GroupBrand": "Cuba By Parfum Des Champs",
+        "ProductLine": "Dark",
+        "Description": "Dark For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            24
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 62,
+        "GroupBrand": "Cuba By Parfum Des Champs",
+        "ProductLine": "Mystic",
+        "Description": "Mystic For WOMEN Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            24
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 63,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Prestige Classic",
+        "Description": "Prestige Classic Edt For Men 90ml",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 64,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Gold",
+        "Description": "Cuba Gold For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 65,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Blue",
+        "Description": "Cuba Blue For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 66,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Hot",
+        "Description": "Cuba Hot For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 67,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Signature",
+        "Description": "Cuba Signature For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 68,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Grey",
+        "Description": "Cuba Grey For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 69,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba My Love",
+        "Description": "Cuba My Love For Women 100ml edp Natural Spray",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 70,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba La Vida",
+        "Description": "Cuba La Vida For Women 100ml edp Natural Spray",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 71,
+        "GroupBrand": "Elizabeth Arden",
+        "ProductLine": "Red Door",
+        "Description": "Elizabeth Arden Red Door Edt spray vaporisateur 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            55
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 72,
+        "GroupBrand": "Elizabeth Arden",
+        "ProductLine": "5th avenue",
+        "Description": "Elizabeth Arden 5th avenue 125ml edp Spray Vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "125"
+        ],
+        "Price": [
+            45
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 73,
+        "GroupBrand": "Fragluxe",
+        "ProductLine": "So cute",
+        "Description": "So cute edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 74,
+        "GroupBrand": "Fragluxe",
+        "ProductLine": "Sense",
+        "Description": "Sense (For Men) edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 75,
+        "GroupBrand": "Fragluxe",
+        "ProductLine": "Fancy Girl",
+        "Description": "Fancy Girl edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 76,
+        "GroupBrand": "Guess",
+        "ProductLine": "Guess By Marciano",
+        "Description": "Guess By Marciano Edt 100ml edt spray vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            42
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 77,
+        "GroupBrand": "Guess",
+        "ProductLine": "Guess Man",
+        "Description": "Guess Man Edt Natural Spray/Vaporisateur 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            39
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 78,
+        "GroupBrand": "Guy Laroche",
+        "ProductLine": "Drakkar Noir",
+        "Description": "Drakkar Noir Edt Vaporisateur Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 79,
+        "GroupBrand": "Hugo BOSS",
+        "ProductLine": "Deep Red",
+        "Description": "Deep Red edp 90ml",
+        "Type": "EDP",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            78
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 80,
+        "GroupBrand": "Hugo BOSS",
+        "ProductLine": "Dark Blues",
+        "Description": "Dark Blues 75 ML Edt",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            62
+        ],
+        "Gender": "Unisex"
+    },
+    {
+        "id": 81,
+        "GroupBrand": "Hugo Boss",
+        "ProductLine": "BOSS Bottled Absolute",
+        "Description": "BOSS Bottled Absolute EDP 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            96
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 82,
+        "GroupBrand": "Hugo Boss",
+        "ProductLine": "BOSS Selection",
+        "Description": "BOSS Selection Edt 90ml",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            78
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 83,
+        "GroupBrand": "Hugo Boss",
+        "ProductLine": "Number One BOSS",
+        "Description": "Number One BOSS Edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            78
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 84,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Classique",
+        "Description": "JPG CL EDT 50ML RPK 2017",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            102,
+            127
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 85,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male",
+        "Description": "JPG LM EDT 75ML RPK 17",
+        "Type": "EDT",
+        "Volumen": [
+            "75",
+            "125",
+            "200"
+        ],
+        "Price": [
+            87,
+            111,
+            139
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 86,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male Ultra",
+        "Description": "JPG LMU EDT 75ML RPK 2017",
+        "Type": "EDT",
+        "Volumen": [
+            "75",
+            "125"
+        ],
+        "Price": [
+            91,
+            116
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 87,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "La Belle",
+        "Description": "JPG LA BELLE EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            139
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 88,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "La Belle Le Parfum",
+        "Description": "JPG LA BELLE LP EDP 100ML 2021",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            146
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 89,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Beau",
+        "Description": "JPG LE BEAU EDT 75ML",
+        "Type": "EDT",
+        "Volumen": [
+            "75",
+            "125"
+        ],
+        "Price": [
+            92,
+            121
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 90,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Beau Le Parfum",
+        "Description": "JPG LE BEAU LP EDP 75ML",
+        "Type": "EDP",
+        "Volumen": [
+            "75",
+            "125"
+        ],
+        "Price": [
+            101,
+            133
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 91,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male Le Parfum",
+        "Description": "JPG LM EDP 200ML",
+        "Type": "EDP",
+        "Volumen": [
+            "75",
+            "200",
+            "125"
+        ],
+        "Price": [
+            95,
+            119,
+            148
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 92,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male Elixir",
+        "Description": "JPG LM ELIXIR 125ML",
+        "Type": "ELX",
+        "Volumen": [
+            "125"
+        ],
+        "Price": [
+            133
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 93,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Divine",
+        "Description": "JPG DIVINE EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            164
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 94,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Scandal",
+        "Description": "JPG SCANDAL EDP SPRAY 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            111,
+            138
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 95,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Scandal Le Parfum Him",
+        "Description": "JPG SCANDAL LE PARFUM 22 HIM  EDP 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            129
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 96,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Scandal pour Homme",
+        "Description": "JPG SC PH EDT 200ML REFILL",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "150",
+            "200"
+        ],
+        "Price": [
+            119,
+            139,
+            145
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 97,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "So Scandal!",
+        "Description": "JPG SO SCANDAL! EDP 50ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            111,
+            138
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 98,
+        "GroupBrand": "Karl Lagerfeld",
+        "ProductLine": "Lagerfeld Classic",
+        "Description": "Lagerfeld Classic 100ml Edt Vaporisateur Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            45
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 99,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Ab Spirit Millonaire",
+        "Description": "Ab Spirit Millonaire Edt Natural Spray Vaporisateur 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 100,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Ab Spirit",
+        "Description": "Ab Spirit by Lomani Paris Edt Vaporisateur Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 101,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Millonaire Women",
+        "Description": "Millonaire Women Edp Vaporisateur Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            38
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 102,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Signature For Men",
+        "Description": "Lomani Signature For Men 100ml Edt Vaporisateur Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            38
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 103,
+        "GroupBrand": "MTV",
+        "ProductLine": "Electric Beat",
+        "Description": "Electric Beat Edt For Her 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 104,
+        "GroupBrand": "MTV",
+        "ProductLine": "Rock Ver",
+        "Description": "Rock Ver Edt 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 105,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Zap",
+        "Description": "Zap For Men Edt Natural Spray 100ml Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 106,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Master of Platinum",
+        "Description": "Master of Platinum For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 107,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Master of Gold",
+        "Description": "Master of Gold For Women Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 108,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Master Of Purple",
+        "Description": "Master Of Purple For Women Eau de Parfum Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 109,
+        "GroupBrand": "Michael Jordan",
+        "ProductLine": "23",
+        "Description": "23 - 100ml Eau de Cologne EDC 25$ Vaporisateur",
+        "Type": "EDC",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 110,
+        "GroupBrand": "Michael Jordan",
+        "ProductLine": "Michael Jordan",
+        "Description": "Michael Jordan Eau de Cologne Vaporisateur 100ml",
+        "Type": "EDC",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 111,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Star Walker",
+        "Description": "Star Walker 75 ML Edt",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            60
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 112,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Legend",
+        "Description": "Legend Edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            75
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 113,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Legend Pour Femme",
+        "Description": "Legend Pour Femme 75 ML edp",
+        "Type": "EDP",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            55
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 114,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Lady Emblem",
+        "Description": "Lady Emblem Edp 75ml",
+        "Type": "EDP",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            55
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 115,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Presente D'UNE FEMME",
+        "Description": "Presente D'UNE FEMME 75ml Edt",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            60
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 116,
+        "GroupBrand": "Naomi Campbell",
+        "ProductLine": "Prêt À Porter",
+        "Description": "Prêt À Porter edt Natural Spray Vaporisateur 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 117,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Sweet Star",
+        "Description": "Sweet Star For Women Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 118,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Mysterious Girl",
+        "Description": "Mysterious Girl For Women Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 119,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Prestige Fluo Pink",
+        "Description": "Prestige Fluo Pink edp natural spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 120,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Prestige Fluo Sun",
+        "Description": "Prestige Fluo Sun edp natural spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 121,
+        "GroupBrand": "New Brand Perfumes",
+        "ProductLine": "Prestige Cute",
+        "Description": "Prestige Cute For Women Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 122,
+        "GroupBrand": "New Brand Perfumes",
+        "ProductLine": "Prestige Gold",
+        "Description": "Prestige Gold Edt For Men Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 123,
+        "GroupBrand": "New Brand Perfumes",
+        "ProductLine": "Prestige invincible",
+        "Description": "Prestige invincible Edt For Men Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 124,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "Extasia",
+        "Description": "Extasia For Women edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 125,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "Extasia",
+        "Description": "Extasia For Men edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 126,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "4 MEN",
+        "Description": "4 MEN - For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 127,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "4 WOMEN",
+        "Description": "4 WOMEN - By New Brand Perfumes Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 128,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "Prestige Ego Gold",
+        "Description": "Prestige Ego Gold For Men Edt natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 129,
+        "GroupBrand": "Nike",
+        "ProductLine": "Nike Woman Loving Floral",
+        "Description": "Nike Woman Loving Floral EDT 150ml",
+        "Type": "EDT",
+        "Volumen": [
+            "150"
+        ],
+        "Price": [
+            36
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 130,
+        "GroupBrand": "Nike",
+        "ProductLine": "Nike Men Indigo",
+        "Description": "Nike Men Indigo 200ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "200"
+        ],
+        "Price": [
+            36
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 131,
+        "GroupBrand": "Nike",
+        "ProductLine": "Nike Men Ultra Green",
+        "Description": "Nike Men Ultra Green 200ml EDT Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "200"
+        ],
+        "Price": [
+            36
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 132,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "L'Air Du Temps",
+        "Description": "ADT EDT NS 50ML REPACK 2017",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            82,
+            111
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 133,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina",
+        "Description": "NINA EDT 80ML REFILLABLE",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            87,
+            109
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 134,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Fleur",
+        "Description": "NINA FLEUR RE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 135,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Rouge",
+        "Description": "NINA ROUGE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 136,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Extra Rouge",
+        "Description": "NINA EXTRA ROUGE RE21 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            119
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 137,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina RE 23",
+        "Description": "NR NINA RE23 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 138,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Rosé",
+        "Description": "NINA ROSE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 139,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Beso",
+        "Description": "ARP BESO EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            23,
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 140,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Flor",
+        "Description": "ARP F EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 141,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Gotas De Color",
+        "Description": "NEW GOTAS DE COLOR EDT 100 ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 142,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Love Love Love",
+        "Description": "ARP LOVE EDT 80ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 143,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million",
+        "Description": "1M EDT 200ML VAPO REPACK",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            141
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 144,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million Parfum",
+        "Description": "1M PARFUM 200ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            116,
+            148
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 145,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million Elixir",
+        "Description": "1M ELIXIR 22 PARF INTENSE 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            131,
+            198
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 146,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million Royal",
+        "Description": "1 MILLION ROYAL PARFUM 200ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            125,
+            181
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 147,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Black XS",
+        "Description": "BXS EDT 50ML REPACK 3",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            86,
+            109
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 148,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Black XS",
+        "Description": "BXS EDT 100ML REPACK 3",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 149,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Fame",
+        "Description": "FAME EDP 80ML REFILLABLE",
+        "Type": "EDP",
+        "Volumen": [
+            "80",
+            "200"
+        ],
+        "Price": [
+            135,
+            176
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 150,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Fame Parfum",
+        "Description": "FAME PARFUM 80ML REFILLABLE",
+        "Type": "PAR",
+        "Volumen": [
+            "80",
+            "200"
+        ],
+        "Price": [
+            149,
+            186
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 151,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus",
+        "Description": "INV EDT 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            141
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 152,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus Victory",
+        "Description": "INVICTUS VICTORY EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            94,
+            118
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 153,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus Victory Elixir",
+        "Description": "INVICTUS V. ELIXIR PARFUM 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            131,
+            189
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 154,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus Platinum",
+        "Description": "INVICTUS PLATINUM EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            118,
+            152
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 155,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Lady Million",
+        "Description": "LADY M EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            102,
+            125
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 156,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Lady Million Royal RE23",
+        "Description": "LADY MILLION ROYAL EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 157,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Lady Million Fabulous",
+        "Description": "LADY M FABULOUS 2021 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            131
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 158,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa",
+        "Description": "OLYMPÉA EDP 50ML REPACK",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            102,
+            125
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 159,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa Blossom",
+        "Description": "OLYMPÉA BLOSSOM EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 160,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa RE23",
+        "Description": "OLYMPÉA FLORA EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            138
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 161,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa Solar",
+        "Description": "OLYMPÉA SOLAR EDP INTENSE 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            138
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 162,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Phantom",
+        "Description": "PHANTOM EDT REFILLABLE 150ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "150",
+            "200"
+        ],
+        "Price": [
+            116,
+            141,
+            162
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 163,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Phantom Parfum",
+        "Description": "PHANTOM PARFUM 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            127,
+            150
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 164,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Pure XS",
+        "Description": "PURE XS EDT 100ML REPACK 3",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 165,
+        "GroupBrand": "Paris Hilton",
+        "ProductLine": "CanCan",
+        "Description": "CanCan 100ml edp spray vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 166,
+        "GroupBrand": "Paris Hilton",
+        "ProductLine": "CanCan Burlesque",
+        "Description": "CanCan Burlesque 100ml edp spray vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            44
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 167,
+        "GroupBrand": "Paris Hilton",
+        "ProductLine": "Just Me",
+        "Description": "Just Me 100ml edp spray vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 168,
+        "GroupBrand": "Paris Hilton",
+        "ProductLine": "Paris Hilton",
+        "Description": "Paris Hilton 100ml edp spray vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 169,
+        "GroupBrand": "Paris Hilton",
+        "ProductLine": "With Love",
+        "Description": "With Love 100ml edp spray vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 170,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance",
+        "Description": "SKR DANCE EDT 80ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 171,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance Diamonds",
+        "Description": "SKR DANCE DIAMONDS EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 172,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance Midnight",
+        "Description": "SKR DANCE MIDNIGHT EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 173,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance Midnight Muse",
+        "Description": "SKR DANCE MIDNIGHT RE 2022 EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 174,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Rojo",
+        "Description": "SKR ROJO EDP 80ML - SHK New Pìllar 2023",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 175,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dream",
+        "Description": "SKR DREAM EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female"
+    },
+    {
+        "id": 176,
+        "GroupBrand": "Ted Lapidus",
+        "ProductLine": "Lapidus Pour Homme",
+        "Description": "Lapidus Pour Homme Edt Vaporisateur - Natural Spray. Parfum Ted Lapidus Paris. 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            40
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 177,
+        "GroupBrand": "Territoire",
+        "ProductLine": "Territoire Sport",
+        "Description": "Territoire Sport Edp Vaporisateur Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 178,
+        "GroupBrand": "Territoire",
+        "ProductLine": "Territoire Metal Pour Home",
+        "Description": "Territoire Metal Pour Home Eau de Parfum Vaporisateur Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Male"
+    },
+    {
+        "id": 179,
+        "GroupBrand": "Versace",
+        "ProductLine": "Red Jeans Woman",
+        "Description": "Red Jeans Woman edt Natural Spray 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female"
+    }
+]

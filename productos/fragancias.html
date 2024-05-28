@@ -51,10 +51,8 @@
             </li>
           </ul>
           <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-            <button class="btn btn-outline-success" type="submit">
-              Search
-            </button>
+            <input id="searchInput" class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+            <button id="searchButton" class="btn btn-outline-success" type="button">Search</button>
           </form>
         </div>
       </div>
@@ -65,7 +63,7 @@
   <!-- Contenido -->
 
   <main class="container-fluid d-flex flex-column align-items-center my-3">
-    <h1 class="title">Nuestras Fragancias</h1>
+    <h1 id="titulazo" class="title">Nuestras Fragancias</h1>
     <!--'Antonio Banderas', 'Benetton', 'Carolina Herrera', 'Jean Paul Gaultier', 'Nina Ricci', 'Other Lifestyle Fragrances', 'Rabanne', 'Shakira'-->
     <div class="w-100 d-flex justify-content-start">
       <button id="colador" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#filtro"
@@ -173,20 +171,11 @@
 
   <script src="/javascript/Library/JQuery.js"></script>
 
+  
   <script type="module" src="/javascript/custom/fragancias.js"></script>
+  
+  <script src="/javascript/custom/search.js"></script>
 
-  <script>
-
-    // Captura el evento de cambio en el range bar
-    document.getElementById('rangeBar').addEventListener('input', function () {
-      // Obtiene el valor seleccionado
-      let selectedValue = this.value;
-      // Muestra el valor seleccionado en el span
-      document.getElementById('valor').textContent = selectedValue + "$";
-    });
-
-
-  </script>
 </body>
 
 </html>

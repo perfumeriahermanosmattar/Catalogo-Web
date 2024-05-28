@@ -57,8 +57,17 @@ main .price-active{
     flex-direction: column;
 }
 
+#descripcion{
+    font-size: 5vw;
+}
+
 .recomendados{
     width: 100%;
+}
+
+.p-recomendados{
+    justify-content: left;
+    overflow-x: scroll;
 }
 
 .recomendados > :nth-child(n){
@@ -69,6 +78,11 @@ main .price-active{
 }
 
 @media (min-width: 768px){
+
+    #descripcion{
+        font-size: 3vw;
+    }
+
     .productos{
         flex-direction: row!important;
     }
@@ -90,13 +104,18 @@ main .price-active{
     .informacion{
         flex-direction: row;
     }
+
+    .recomendados{
+        width: 100%;
+    }
+
+    .p-recomendados{
+        justify-content: center;
+    }
 }
 
-/* @media (max-width: 991px){
-    .informacion{
-        width: 30%;
+@media (min-width: 991px){
+    #descripcion{
+        font-size: 1.5vw;
     }
-    main aside{
-        width: 70%;
-    }
-} */
+}

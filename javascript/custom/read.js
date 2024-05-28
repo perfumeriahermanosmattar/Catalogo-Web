@@ -1,12 +1,47 @@
 export async function read(link) {
   try {
     const response = await fetch(link);
-    const data = await response.json();
+    let data = await response.json();
+    const prompt = getPrompt();
+    if (prompt) {
+      data = search(data, prompt);
+      let titulazo = document.getElementById("titulazo");
+      titulazo.innerHTML = "Resultados de: " + prompt;
+    }
     return data;
   } catch (error) {
     console.error("Se produjo un error al cargar el archivo JSON:", error);
     return []; // Devuelve un array vacío en caso de error
   }
+}
+
+function getPrompt() {
+  // Crea una instancia del objeto URLSearchParams
+  const params = new URLSearchParams(window.location.search);
+
+  // Accede a los valores de los parámetros
+  const search = params.get("search");
+
+  // Muestra los valores de los parámetros en la consola
+  return search;
+}
+
+function search(data, Prompt) {
+  const lista = [];
+  const prompt = Prompt.toLowerCase(); // Convertir el valor de prompt a minúsculas
+
+  for (let i = 0; i < data.length; i++) {
+    let item = data[i];
+    let productLine = item.ProductLine.toLowerCase(); // Convertir el valor de ProductLine a minúsculas
+    let groupBrand = item.GroupBrand.toLowerCase(); // Convertir el valor de GroupBrand a minúsculas
+
+    // Comparar las versiones en minúsculas de ProductLine y GroupBrand con prompt
+    if (productLine.includes(prompt) || groupBrand.includes(prompt)) {
+      lista.push(item);
+    }
+  }
+
+  return lista;
 }
 
 export function write(data, limit) {
