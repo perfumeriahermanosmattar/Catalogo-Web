@@ -2,6 +2,7 @@ import { read } from './read.js';
 import { write } from './read.js';
 import { paginar } from './read.js';
 import { currentPage } from './pagination.js';
+import { setCurrentPage } from './pagination.js';
 import { setupPagination } from './pagination.js';
 
 let allProducts = [];
@@ -20,6 +21,11 @@ export function filterData(data, genderFilter, priceFilter) {
 
 export function applyFilters() {
   filteredProducts = filterData(allProducts, genderFilter, priceFilter);
+  setCurrentPage(0);
+  movePage();
+}
+
+export function movePage(){
   write(filteredProducts, (currentPage + 1) * 30);
   paginar(filteredProducts.length, 30);
   setupPagination();
@@ -29,6 +35,7 @@ export function applyFilters() {
 export async function initializeFilters() {
   allProducts = await read("/json/inventario.json");
   applyFilters();
+  movePage();
   // console.log(allProducts.length)
 }
 
