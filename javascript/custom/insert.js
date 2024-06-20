@@ -27,6 +27,10 @@ function insertar(producto) {
 
   $("#compania").append(producto.GroupBrand);
 
+  $("#foto").attr("src", producto.pathCero);
+
+  $("#descripcion").html(producto.Information);
+
   let type;
 
   switch (producto.Type) {

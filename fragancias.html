@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hermanos Mattar</title>
+  <link rel="stylesheet" href="/css/Bootstrap/bootstrap.min.css"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+
+  <link rel="stylesheet" href="/css/custom/custom.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+  <link rel="stylesheet" href="/css/custom/footer.css">
+  <link rel="stylesheet" href="/css/custom/footer.css">
+
+</head>
+
+<body>
+  <!-- Navbar -->
+  <header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #ffffff !important">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/"><img src="./Assets/Img/Icon/logo.png" class="img-fluid logo"
+            alt="perfumeria hnos mattar" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse sisa justify-content-between mx-4" id="navbarSupportedContent">
+          <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
+            <li class="nav-item">
+              <a class="nav-link" href="/">INICIO</a>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="./marcas.html"> MARCAS </a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" href="./fragancias.html">FRAGANCIAS</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html"> CONTACTO </a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input id="searchInput" class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search" />
+            <button id="searchButton" class="btn btn-outline-success" type="button">Buscar</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <!-- Navbar -->
+
+  <!-- Contenido -->
+
+  <main class="container-fluid d-flex flex-column align-items-center my-3">
+    <h1 id="titulazo" class="title">Nuestras Fragancias</h1>
+    <!--'Antonio Banderas', 'Benetton', 'Carolina Herrera', 'Jean Paul Gaultier', 'Nina Ricci', 'Other Lifestyle Fragrances', 'Rabanne', 'Shakira'-->
+    <div class="w-100 d-flex justify-content-start">
+      <button id="colador" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#filtro"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-filter"
+          viewBox="0 0 16 16">
+          <path
+            d="M6 10.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5m-2-3a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7a.5.5 0 0 1-.5-.5m-2-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5" />
+        </svg>
+      </button>
+    </div>
+
+    <div class="d-flex justiify-content-start">
+
+    </div>
+
+    <section class="d-flex justify-content-center contenedor">
+      <section id="filtro" class="filter collapse">
+        <div class="parameters">
+          <section class="metric">
+            <h3 class="h5">Genero</h3>
+            <div class="metricas">
+              <div class="form-check">
+                <input class="form-check-input filtrador" type="checkbox" checked value="" id="maleCheckbox" />
+                <label class="form-check-label" for="maleCheckbox">
+                  Masculino
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input filtrador" type="checkbox" checked value="" id="femaleCheckbox" />
+                <label class="form-check-label" for="femaleCheckbox">
+                  Femenino
+                </label>
+              </div>
+            </div>
+          </section>
+          <section class="metric">
+            <h3 class="h5">Precio</h3>
+            <div class="metricas">
+              <label for="rangeBar" class="form-label filtrador">Apartir de:</label>
+              <div class="d-flex flex-row"><input type="range" class="form-range filtrador" min="0" max="300" step="5"
+                  value="0" id="rangeBar" /> <span id="valor">0$</span></div>
+            </div>
+          </section>
+        </div>
+      </section>
+
+    </section>
+
+    <!-- Advertencia: No meter el section de arriba en el de abajo, a Bootstrap le da un ACV -->
+
+    <section class="row align-items-center justify-content-center" id="productos">
+
+    </section>
+
+    <section class="d-flex justify-content-center w-100 my-4">
+      <nav aria-label="Page navigation example">
+        <ul class="pagination">
+          <li class="page-item" id="btn-prev">
+            <a class="page-link" href="#" aria-label="Previous">
+              <span aria-hidden="true">&laquo;</span>
+            </a>
+          </li>
+          <li class="d-flex flex-row">
+            <ul class="d-flex flex-row" id="page-container">
+              <!-- Aqui se van a insertar elementos dinamicos como los siguientes -->
+              <!-- <li class="page-item"><a class="page-link skip-page" href="#">1</a></li>
+              <li class="page-item"><a class="page-link skip-page" href="#">2</a></li>
+              <li class="page-item"><a class="page-link skip-page" href="#">3</a></li> -->
+            </ul>
+          </li>
+          <li class="page-item" id="btn-next">
+            <a class="page-link" href="#" aria-label="Next">
+              <span aria-hidden="true">&raquo;</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </section>
+
+  </main>
+  <div class="container-fluid footer-basic w-100">
+    <footer class="w-100 d-flex justify-content-center flex-column align-items-center">
+      <h2 class="h5">Perfumeria Hermanos Mattar</h2>
+      <ul class="list d-flex justify-content-around">
+        <li class="list-inline-item"><a href="/">Inicio</a></li>
+        <li class="list-inline-item"><a href="/fragancias.html">Productos</a></li>
+        <li class="list-inline-item"><a href="/contact.html">Contacto</a></li>
+      </ul>
+      <p class="copyright">Perfumeria Hermanos Mattar © 2024</p>
+      <p class="copyright">Desarollado por <a id="holick"
+        href="https://www.instagram.com/holick.dev/"><strong>Holick</strong></a></p>
+    </footer>
+  </div>
+
+  <!-- FIN DE PAGINA -->
+
+
+
+  <!-- Inicio de Scripts -->
+  <script src="/javascript/Bootstrap/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+
+  <script src="/javascript/Library/JQuery.js"></script>
+
+  
+  <script type="module" src="/javascript/custom/fragancias.js"></script>
+  
+  <script src="/javascript/custom/search.js"></script>
+
+</body>
+
+</html>

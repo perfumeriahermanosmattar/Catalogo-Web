@@ -2168,45 +2168,5 @@
     "Volumen": ["100"],
     "Price": [20],
     "Gender": "Male"
-  },
-  {
-    "id": 217,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Challenge",
-    "Description": "New Brand Challenge Blue Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Male"
-  },
-  {
-    "id": 218,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Challenge",
-    "Description": "New Brand Challenge Red Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Male"
-  },
-  {
-    "id": 219,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Challenge",
-    "Description": "New Brand Challenge Green Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Male"
-  },
-  {
-    "id": 220,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Challenge",
-    "Description": "New Brand Challenge Orange Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Male"
   }
 ]

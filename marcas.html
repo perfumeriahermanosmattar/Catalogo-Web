@@ -16,40 +16,31 @@
   <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #ffffff !important">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html"><img src="./Assets/Img/Icon/logo.png" class="img-fluid logo"
-            alt="..." />
+        <a class="navbar-brand" href="/"><img src="./Assets/Img/Icon/logo.png" class="img-fluid logo"
+            alt="perfumeria hnos mattar" />
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse sisa" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse sisa justify-content-between mx-4" id="navbarSupportedContent">
           <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
             <li class="nav-item">
-              <a class="nav-link" href="index.html">INICIO</a>
+              <a class="nav-link" href="/">INICIO</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="marcas.html"> MARCAS </a>
-            </li>
-            <li class="nav-item dropdown">
-              <button class="btn btn-ligth dropdown-toggle nav-link" data-bs-toggle="dropdown" aria-expanded="false">
-                PRODUCTOS
-              </button>
-              <ul class="dropdown-menu dropdown-menu-light" id="dropMenu">
-                <li><a class="dropdown-item" href="/productos/fragancias.html">FRAGANCIAS</a></li>
-                <li><a class="dropdown-item" href="/productos/maquillaje.html">MAQUILLAJE</a></li>
-                <li><a class="dropdown-item" href="/productos/cosmeticos.html">COSMÉTICOS</a></li>
-              </ul>
+              <a class="nav-link" href="./marcas.html"> MARCAS </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link"> CONTACTO </a>
+              <a class="nav-link" href="./fragancias.html">FRAGANCIAS</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html"> CONTACTO </a>
             </li>
           </ul>
           <form class="d-flex" role="search">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-            <button class="btn btn-outline-success" type="submit">
-              Search
-            </button>
+            <input id="searchInput" class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search" />
+            <button id="searchButton" class="btn btn-outline-success" type="button">Buscar</button>
           </form>
         </div>
       </div>
@@ -128,107 +119,191 @@
       aria-controls="offcanvasExample">
       <h1 class="title">Nuestras Marcas</h1>
     </a>
+
     <section class="row align-items-center justify-content-center">
+
       <div class="col">
         <div class="card ">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
 
       <div class="col">
         <a>
-          <div class="card ">
+          <div class="card" id="adidas">
             <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
           </div>
         </a>
       </div>
-      
-      <div class="col">
-        <div class="card ">
-          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
 
+      <div class="col">
+        <div class="card" id="antonioBanderas">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="benetton">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="britneySpears">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="carolinaHerrera">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="cuba">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="elizabethArden">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="fragluxe">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="guess">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="guyLaroche">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="hugoBoss">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="jeanPaulGaultier">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="karlLagerfeld">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="lomaniParis">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card" id="mtv">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
         </div>
       </div>
       <div class="col">
-        <div class="card ">
+        
+        <div class="card" id="michaelJordan">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
       <div class="col">
-        <div class="card ">
+        <div class="card" id="montBlanc">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="naomiCampbell">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="newBrandParfums">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="nike">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
-          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
 
+        <div class="card" id="ninaRicci">
+          <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="otherLifeStylePrestige">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="pacoRabanne">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="parisHilton">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="shakira">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="tedLapidus">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="territoire">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
       <div class="col">
-        <div class="card ">
+        <div class="card" id="versace">
           <img src="/Assets/Img/Perfume/dior.webp" class="card-img-top img-cardy" alt="...">
-
         </div>
       </div>
+
     </section>
   </main>
   <div class="container-fluid footer-basic w-100">

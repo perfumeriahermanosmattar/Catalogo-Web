@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hermanos Mattar</title>
+  <link rel="stylesheet" href="/css/Bootstrap/bootstrap.min.css"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="/css/custom/custom.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+  <link rel="stylesheet" href="/css/custom/footer.css">
+  <link rel="stylesheet" href="/css/custom/producto.css">
+</head>
+
+<body>
+  <!-- Navbar -->
+  <header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" style="background-color: #ffffff !important">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/"><img src="./Assets/Img/Icon/logo.png" class="img-fluid logo"
+            alt="perfumeria hnos mattar" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse sisa justify-content-between mx-4" id="navbarSupportedContent">
+          <ul class="navbar-nav mb-2 mb-lg-0 nolsa">
+            <li class="nav-item">
+              <a class="nav-link" href="/">INICIO</a>
+            </li>
+            <!-- <li class="nav-item">
+              <a class="nav-link" href="./marcas.html"> MARCAS </a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" href="./fragancias.html">FRAGANCIAS</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact.html"> CONTACTO </a>
+            </li>
+          </ul>
+          <form class="d-flex" role="search">
+            <input id="searchInput" class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search" />
+            <button id="searchButton" class="btn btn-outline-success" type="button">Buscar</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <!-- Navbar -->
+
+  <!-- Contenido -->
+
+  <main class="container-fluid  my-3">
+
+    <section class="productos">
+      <section class="d-flex flex-row contenido">
+        <img id="foto" class="img-fluid" alt="...">
+      </section>
+
+      <section class="container-fluid d-flex flex-column align-items-left informacion">
+        <h1 class="title h1 my-2 text-align-center"><strong id="nombre"></strong></h1>
+        <h2 class="h5 my-2 text-align-center" id="compania"></h2>
+        <p id="descripcion">
+          Blue Seduction de Antonio Banderas es una fragancia fresca y acuática que captura la esencia de un día de
+          verano junto al mar. Con notas de bergamota, cassis y menta, es la elección perfecta para el hombre seductor y
+          espontáneo.
+        </p>
+        <ul>
+          <li class="h6" id="presentacion"></li>
+          <li class="h6" id="volumen">
+            <div id="botones" class="d-flex flex-row">
+            </div>
+          </li>
+        </ul>
+        <h3 name="precio" class="h3 ms-2">
+          <strong id="precio">$125.00</strong>
+        </h3>
+      </section>
+    </section>
+
+    <section class="recomendados d-flex justify-content-center align-content-center align-items-center flex-column">
+      <h3 class="text-align-center my-3">
+        Productos Similares
+      </h3>
+      <div id="productos" class="container-fluid d-flex align-content-center align-items-center p-recomendados">
+
+    </section>
+  </main>
+  <div class="container-fluid footer-basic w-100">
+    <footer class="w-100 d-flex justify-content-center flex-column align-items-center">
+      <h2 class="h5">Perfumeria Hermanos Mattar</h2>
+      <ul class="list d-flex justify-content-around">
+        <li class="list-inline-item"><a href="/">Inicio</a></li>
+        <li class="list-inline-item"><a href="/fragancias.html">Productos</a></li>
+        <li class="list-inline-item"><a href="/contact.html">Contacto</a></li>
+      </ul>
+      <p class="copyright">Perfumeria Hermanos Mattar © 2024</p>
+      <p class="copyright">Desarollado por <a id="holick"
+        href="https://www.instagram.com/holick.dev/"><strong>Holick</strong></a></p>
+    </footer>
+  </div>
+  <!-- Inicio de Scripts -->
+  <script src="/javascript/Bootstrap/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+
+  <script src="/javascript/Library/JQuery.js"></script>
+
+  <script src="/javascript/custom/search.js"></script>
+
+  <script type="module" src="/javascript/custom/insert.js"></script>
+</body>
+
+</html>

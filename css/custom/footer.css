@@ -57,12 +57,16 @@
     opacity:0.9;
   }
   
-  .footer-basic .copyright {
+  .footer-basic .copyright, #holick {
     margin-top:15px;
     text-align:center;
     font-size:13px;
     color:#4d4d4d;
     margin-bottom:0;
+  }
+
+  #holick{
+    text-decoration: none;
   }
   
   /* Credit to https://

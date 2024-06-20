@@ -22,7 +22,7 @@ export function write(lista) {
       <div class="col">
         <a class="enlace" href="perfume.html?id=${item.id}">
           <div class="card d-flex align-items-center">
-              <img src="/Assets/Img/Perfume/perfume.png" class="card-img-top img-cardy" alt="...">
+              <img src="${item.pathCero}" class="card-img-top img-cardy" alt="...">
               <div class="card-body">
                   <h5 class="card-title">${item.ProductLine}</h5>
                   <h6 class="card-subtitle">${item.GroupBrand}</h6>

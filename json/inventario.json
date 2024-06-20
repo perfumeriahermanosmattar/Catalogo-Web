@@ -1,1971 +1,3107 @@
 [
-  {
-    "id": 0,
-    "GroupBrand": "Adidas",
-    "ProductLine": "Dynamic Pulse",
-    "Description": "Dynamic Pulse 100 ML edt Natural Spray/ Vaporisateur",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [14],
-    "Gender": "Male",
-    "Information": "Siente la energía y frescura con Dynamic Pulse de Adidas. Un perfume vibrante con notas cítricas y amaderadas, perfecto para los hombres activos y dinámicos."
-  },
-  {
-    "id": 1,
-    "GroupBrand": "Adidas",
-    "ProductLine": "Get Ready!",
-    "Description": "Get Ready! Edt 100ml Natural Spray / Vaporisateur",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [14],
-    "Gender": "Unisex",
-    "Information": "Prepárate para cualquier aventura con Get Ready! de Adidas. Esta fragancia deportiva mezcla notas frutales y acuáticas, ideal para los que buscan un aroma refrescante y estimulante."
-  },
-  {
-    "id": 2,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Blue Seduction",
-    "Description": "AB BLUE EDT 100ML VAP C/20UD",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [31],
-    "Gender": "Male",
-    "Information": "Sumérgete en la seducción del océano con Blue Seduction de Antonio Banderas. Un perfume masculino con notas de bergamota, melón y madera de cedro, que evocan frescura y magnetismo."
-  },
-  {
-    "id": 3,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Blue Seduction Woman",
-    "Description": "AB BSW EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80", "200"],
-    "Price": [31, 35],
-    "Gender": "Female",
-    "Information": "Descubre la frescura y sensualidad con Blue Seduction Woman de Antonio Banderas. Una fragancia femenina con notas acuáticas, frutas exóticas y un toque de almizcle."
-  },
-  {
-    "id": 4,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Golden Secret",
-    "Description": "AB GOLDEN SEC EDT 200ML PRECIO SEDUCCION",
-    "Type": "EDT",
-    "Volumen": ["100", "200"],
-    "Price": [31, 43],
-    "Gender": "Male",
-    "Information": "Desvela el misterio del lujo con Golden Secret de Antonio Banderas. Una fragancia para hombres con notas de cuero, especias y ámbar, que evoca sofisticación y poder."
-  },
-  {
-    "id": 5,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Her Golden Secret",
-    "Description": "AB HER GOLDEN S NEW EDT 80ML VP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Encanta con el toque dorado de Her Golden Secret. Esta fragancia femenina combina notas de bergamota, gardenia y vainilla, creando una estela irresistible de elegancia."
-  },
-  {
-    "id": 6,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Her Secret Desire",
-    "Description": "AB HER SECRET DESIRE EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [30],
-    "Gender": "Female",
-    "Information": "Sumérgete en tus deseos con Her Secret Desire. Un perfume femenino con notas de frambuesa, jazmín y sándalo, que despiertan la sensualidad y el misterio."
-  },
-  {
-    "id": 7,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Her Secret Temptation",
-    "Description": "AB HER SCRT TEMPTATION EDT 80ML VAP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Ríndete a la tentación con Her Secret Temptation. Una fragancia femenina con notas de pimienta rosa, rosa y pachulí, que envuelve en un aura de provocación y encanto."
-  },
-  {
-    "id": 8,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "King of Seduction",
-    "Description": "KING OF SEDUCTION 100ML EDT",
-    "Type": "EDT",
-    "Volumen": ["50", "100", "200"],
-    "Price": [23, 30, 35],
-    "Gender": "Male",
-    "Information": "Sé el rey de la seducción con King of Seduction. Un perfume masculino con notas de bergamota, manzana verde y ámbar, ideal para el hombre moderno y seductor."
-  },
-  {
-    "id": 9,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "King of Seduction Absolute",
-    "Description": "AB KOS ABSOLUTE EDT 50ML VAPO",
-    "Type": "EDT",
-    "Volumen": ["50", "100"],
-    "Price": [23, 31],
-    "Gender": "Male",
-    "Information": "Lleva la seducción al extremo con King of Seduction Absolute. Una fragancia intensa con notas de pomelo, cardamomo y vetiver, perfecta para el hombre audaz y carismático."
-  },
-  {
-    "id": 10,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Power of Seduction",
-    "Description": "AB POWER OF SEDUCTION  100ML EDT",
-    "Type": "EDT",
-    "Volumen": ["100", "200"],
-    "Price": [31, 35],
-    "Gender": "Male",
-    "Information": "Descubre el poder de la seducción con Power of Seduction. Un perfume vibrante con notas de bergamota, lavanda y musgo de roble, diseñado para el hombre aventurero y seguro."
-  },
-  {
-    "id": 11,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Queen of Seduction",
-    "Description": "AB QUEEN EDT 80ML VP 20",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Reina de la seducción con Queen of Seduction. Una fragancia femenina con notas de frambuesa, jazmín y cedro, que destaca por su elegancia y sofisticación."
-  },
-  {
-    "id": 12,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "Seduction In Black",
-    "Description": "AB BLACK  EDT 100ML",
-    "Type": "EDT",
-    "Volumen": ["100", "200"],
-    "Price": [31, 35],
-    "Gender": "Male",
-    "Information": "Domina la noche con Seduction In Black. Un perfume masculino con notas de grosella negra, nuez moscada y cuero, que emana misterio y atracción."
-  },
-  {
-    "id": 13,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "The Icon",
-    "Description": "AB THE ICON EDT 100ML",
-    "Type": "EDT",
-    "Volumen": ["100", "200"],
-    "Price": [34, 44],
-    "Gender": "Male",
-    "Information": "Conviértete en un icono con The Icon de Antonio Banderas. Una fragancia masculina con notas de cítricos, lavanda y vetiver, que personifica estilo y elegancia."
-  },
-  {
-    "id": 14,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "The Icon Elixir",
-    "Description": "AB THE ICON ELIXIR EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [39],
-    "Gender": "Male",
-    "Information": "Descubre el elixir de la sofisticación con The Icon Elixir. Un perfume masculino que mezcla cítricos, especias y madera, perfecto para el hombre elegante y seguro."
-  },
-  {
-    "id": 15,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "The Icon The Perfume",
-    "Description": "AB THE ICON EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [37],
-    "Gender": "Male",
-    "Information": "Siente la esencia del éxito con The Icon The Perfume. Una fragancia masculina con notas de pomelo, especias y madera de cedro, diseñada para el hombre moderno y distinguido."
-  },
-  {
-    "id": 16,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "The Icon Woman",
-    "Description": "AB THE ICON FEM EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [37],
-    "Gender": "Female",
-    "Information": "Deslumbra con The Icon Woman. Un perfume femenino que combina notas florales, frutales y amaderadas, creando una fragancia única y sofisticada para la mujer contemporánea."
-  },
-  {
-    "id": 17,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "The Secret",
-    "Description": "SECRET EDT 100ML VAP",
-    "Type": "EDT",
-    "Volumen": ["50", "100", "200"],
-    "Price": [23, 31, 43],
-    "Gender": "Male",
-    "Information": "Descubre el secreto del encanto con The Secret de Antonio Banderas. Una fragancia masculina con notas de menta, pimienta y cuero, ideal para el hombre intrigante y seguro."
-  },
-  {
-    "id": 18,
-    "GroupBrand": "Antonio Banderas",
-    "ProductLine": "The Secret Temptation",
-    "Description": "AB THE SCRT TEMPTATION EDT 100ML VAP",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [31],
-    "Gender": "Male",
-    "Information": "Ríndete a la tentación con The Secret Temptation. Un perfume masculino con notas de bergamota, cardamomo y vainilla, que envuelve en un halo de seducción y misterio."
-  },
-  {
-    "id": 19,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Colors Blue Man",
-    "Description": "BNT COLORS MAN BLUE EDT 100ML VP",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [31],
-    "Gender": "Male",
-    "Information": "Expresa tu libertad con Colors Blue Man de Benetton. Una fragancia fresca con notas cítricas y acuáticas, ideal para el hombre moderno y dinámico."
-  },
-  {
-    "id": 20,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Colors Green Man",
-    "Description": "BNT COLORS MAN GREEN EDT 100ML VP",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [31],
-    "Gender": "Male",
-    "Information": "Energízate con Colors Green Man de Benetton. Un perfume vibrante con notas verdes y especiadas, perfecto para el hombre activo y aventurero."
-  },
-  {
-    "id": 21,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Sisterland Blue Neroli",
-    "Description": "BNT SISTERLAND BLUE NEROLI EDT 80ML VP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [34],
-    "Gender": "Female",
-    "Information": "Descubre la frescura de Blue Neroli de Benetton Sisterland. Un perfume femenino con notas de neroli, flor de azahar y almizcle, que evocan un aroma fresco y floral."
-  },
-  {
-    "id": 22,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Sisterland Pingook Raspberry",
-    "Description": "BNT SISTERLAND PINK RASPBERRY EDT 80ML VP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [34],
-    "Gender": "Female",
-    "Information": "Endúlzate con Pink Raspberry de Benetton Sisterland. Una fragancia femenina con notas de frambuesa, jazmín y vainilla, ideal para las mujeres que buscan un aroma dulce y encantador."
-  },
-  {
-    "id": 23,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Sisterland Red Rosé",
-    "Description": "BNT SISTERLAND RED ROSE EDT 80ML VP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [34],
-    "Gender": "Female",
-    "Information": "Romántica y vibrante, Red Rosé de Benetton Sisterland combina notas de rosas, frutas rojas y almizcle, creando una fragancia femenina y seductora."
-  },
-  {
-    "id": 24,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Sisterland Green Jasmine",
-    "Description": "BNT SISTERLAND GREEN JASMINE EDT 80ML VP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [34],
-    "Gender": "Female",
-    "Information": "Sumérgete en la frescura con Green Jasmine de Benetton Sisterland. Un perfume femenino que mezcla notas de jazmín, cítricos y almizcle, perfecto para cualquier ocasión."
-  },
-  {
-    "id": 25,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Tribe",
-    "Description": "BNT TRIBE EDT 90ML",
-    "Type": "EDT",
-    "Volumen": ["90"],
-    "Price": [34],
-    "Gender": "Male",
-    "Information": "Revive los 90s con Tribe de Benetton. Una fragancia juvenil y enérgica con notas de frutas cítricas, flores blancas y un toque de almizcle."
-  },
-  {
-    "id": 26,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Tribe Cool",
-    "Description": "BNT TRIBE RE24 EDT 90ML",
-    "Type": "EDT",
-    "Volumen": ["90"],
-    "Price": [34],
-    "Gender": "Male",
-    "Information": "Mantente fresco y moderno con Tribe Cool de Benetton. Un perfume vibrante con notas acuáticas, frutales y un toque de ámbar, ideal para cualquier ocasión."
-  },
-  {
-    "id": 27,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Tribe RE23",
-    "Description": "BNT TRIBE RE EDP 90ML",
-    "Type": "EDP",
-    "Volumen": ["90"],
-    "Price": [37],
-    "Gender": "Male",
-    "Information": "Descubre la reinvención de un clásico con Tribe RE23 de Benetton. Una fragancia con notas cítricas, flores exóticas y almizcle, perfecta para el espíritu libre y aventurero."
-  },
-  {
-    "id": 28,
-    "GroupBrand": "Benetton",
-    "ProductLine": "United Dreams Aim High",
-    "Description": "UD AIM HIGH EDT 100ML VAP",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [31],
-    "Gender": "Male",
-    "Information": "Alcanza tus sueños con United Dreams Aim High. Un perfume masculino con notas cítricas, maderas y un toque de almizcle, diseñado para el hombre ambicioso y decidido."
-  },
-  {
-    "id": 29,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Colors",
-    "Description": "Benetton Colors edt Natural Spray Man 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [45],
-    "Gender": "Male",
-    "Information": "Explora la diversidad con Colors de Benetton. Una fragancia vibrante con notas frutales, florales y un toque de almizcle, ideal para los que aman la vida colorida."
-  },
-  {
-    "id": 30,
-    "GroupBrand": "Benetton",
-    "ProductLine": "Tribù",
-    "Description": "United Colors Tribù 100ml Edt Spray Vaporisateur",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [38],
-    "Gender": "Male",
-    "Information": "Sé único con Tribù de Benetton. Un perfume con notas de cítricos, flores y un toque de especias, perfecto para aquellos que buscan destacar con un aroma distintivo."
-  },
-  {
-    "id": 31,
-    "GroupBrand": "Britney Spears",
-    "ProductLine": "Believe",
-    "Description": "Believe Edp 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Cree en la magia con Believe de Britney Spears. Una fragancia femenina con notas de frutas exóticas, flores y un toque de almizcle, ideal para las soñadoras y optimistas."
-  },
-  {
-    "id": 32,
-    "GroupBrand": "Britney Spears",
-    "ProductLine": "Hidden Fantasy",
-    "Description": "Hidden Fantasy Edp 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Descubre tus fantasías ocultas con Hidden Fantasy. Un perfume femenino con notas de vainilla, especias y flores, que evocan un aroma dulce y sensual."
-  },
-  {
-    "id": 33,
-    "GroupBrand": "Britney Spears",
-    "ProductLine": "Circus Fantasy",
-    "Description": "Circus Fantasy Edp 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Entra al mundo del circo con Circus Fantasy. Una fragancia divertida y juvenil con notas de frutas rojas, flores y un toque de almizcle, perfecta para las más atrevidas."
-  },
-  {
-    "id": 34,
-    "GroupBrand": "Britney Spears",
-    "ProductLine": "Fantasy",
-    "Description": "Fantasy Edp 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [40],
-    "Gender": "Female",
-    "Information": "Sumérgete en un mundo de fantasía con Fantasy de Britney Spears. Un perfume dulce y seductor con notas de lichis, kiwi, chocolate blanco y orquídea."
-  },
-  {
-    "id": 35,
-    "GroupBrand": "Britney Spears",
-    "ProductLine": "Cosmic Radiance",
-    "Description": "Cosmic Radiance Edp 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Brilla con Cosmic Radiance de Britney Spears. Una fragancia femenina con notas de cítricos, peonía y ámbar, que envuelven en un aura de luminosidad y encanto."
-  },
-  {
-    "id": 36,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 NYC",
-    "Description": "212 NYC EDT NS 30+30 ML 16",
-    "Type": "EDT",
-    "Volumen": ["30", "50"],
-    "Price": [102, 127],
-    "Gender": "Female",
-    "Information": "Siente la esencia de Nueva York con 212 NYC de Carolina Herrera. Un perfume urbano y sofisticado con notas cítricas, florales y amaderadas, ideal para la mujer moderna."
-  },
-  {
-    "id": 37,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 Heroe for Her 22",
-    "Description": "212 HEROES FOR HER EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [129],
-    "Gender": "Female",
-    "Information": "Descubre la heroína en ti con 212 Heroe for Her 22. Una fragancia femenina con notas de cítricos, flores blancas y almizcle, perfecta para la mujer audaz y decidida."
-  },
-  {
-    "id": 38,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 Heroes Men",
-    "Description": "212 HEROES EDT MEN LE 24 90ML",
-    "Type": "EDT",
-    "Volumen": ["90", "150"],
-    "Price": [106, 126],
-    "Gender": "Male",
-    "Information": "Celebra el espíritu rebelde con 212 Heroes Men. Un perfume masculino con notas de frutas, especias y un toque amaderado, ideal para el hombre aventurero y moderno."
-  },
-  {
-    "id": 39,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 NYC Men",
-    "Description": "212 MEN EDT 50ML 16",
-    "Type": "EDT",
-    "Volumen": ["50", "100", "200"],
-    "Price": [86, 109, 139],
-    "Gender": "Male",
-    "Information": "Siente la vibra de la gran ciudad con 212 NYC Men. Un perfume masculino con notas de cítricos, especias y maderas, que evocan el dinamismo y la energía de Nueva York."
-  },
-  {
-    "id": 40,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 Sexy",
-    "Description": "212 SEXY EDP NS 30+30 ML 16",
-    "Type": "EDP",
-    "Volumen": ["30", "50"],
-    "Price": [102, 127],
-    "Gender": "Female",
-    "Information": "Despierta la sensualidad con 212 Sexy de Carolina Herrera. Una fragancia femenina con notas de mandarina, gardenia y sándalo, perfecta para la mujer que quiere dejar una impresión duradera."
-  },
-  {
-    "id": 41,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 Sexy Men",
-    "Description": "212 SEXY MEN EDT NS 50ML 16",
-    "Type": "EDT",
-    "Volumen": ["50", "100"],
-    "Price": [86, 109],
-    "Gender": "Male",
-    "Information": "Irradia atractivo con 212 Sexy Men. Un perfume masculino con notas de bergamota, cardamomo y vainilla, diseñado para el hombre encantador y seguro de sí mismo."
-  },
-  {
-    "id": 42,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 VIP",
-    "Description": "212 VIP EDP NS 125ML",
-    "Type": "EDP",
-    "Volumen": ["30", "50", "80", "125"],
-    "Price": [66, 102, 127, 158],
-    "Gender": "Female",
-    "Information": "Sé el alma de la fiesta con 212 VIP de Carolina Herrera. Un perfume femenino con notas de maracuyá, ron y almizcle, que captura la exclusividad y el glamour de la vida nocturna."
-  },
-  {
-    "id": 43,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 VIP Men",
-    "Description": "212 VIP MEN EDT NS 50ML REPACK",
-    "Type": "EDT",
-    "Volumen": ["50", "100", "200"],
-    "Price": [86, 109, 139],
-    "Gender": "Male",
-    "Information": "Destaca entre la multitud con 212 VIP Men. Una fragancia masculina con notas de caviar, lima y cuero, ideal para el hombre sofisticado y social."
-  },
-  {
-    "id": 44,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 Vip Men Black",
-    "Description": "212 VIP BLACK EDP LE 24 100ML",
-    "Type": "EDP",
-    "Volumen": ["100", "200"],
-    "Price": [114, 144],
-    "Gender": "Male",
-    "Information": "Atrévete con 212 VIP Men Black. Un perfume masculino con notas de absenta, lavanda y cuero, que evoca misterio y seducción."
-  },
-  {
-    "id": 45,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "212 Vip Rosé",
-    "Description": "212 VIP ROSÉ EDP NS 50ML",
-    "Type": "EDP",
-    "Volumen": ["50", "80", "125"],
-    "Price": [102, 127, 158],
-    "Gender": "Female",
-    "Information": "Brilla con 212 VIP Rosé. Una fragancia femenina con notas de champán rosé, melocotón y almizcle blanco, perfecta para la mujer elegante y chic."
-  },
-  {
-    "id": 46,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Bad Boy",
-    "Description": "BAD BOY EDT 150ML REFILLABLE",
-    "Type": "EDT",
-    "Volumen": ["100", "150"],
-    "Price": [114, 142],
-    "Gender": "Male",
-    "Information": "Explora tu lado rebelde con Bad Boy de Carolina Herrera. Un perfume masculino con notas de bergamota, pimienta y cacao, ideal para el hombre audaz y seguro."
-  },
-  {
-    "id": 47,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Bad Boy Power Spray",
-    "Description": "BAD BOY POWER SPRAY 100ML",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [91],
-    "Gender": "Male",
-    "Information": "Intensifica tu carisma con Bad Boy Power Spray. Una fragancia masculina con notas de pomelo, pimienta negra y vetiver, diseñada para los hombres dinámicos y decididos."
-  },
-  {
-    "id": 48,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Bad Boy Cobalt",
-    "Description": "BAD BOY COBALT EDP 150ML",
-    "Type": "EDP",
-    "Volumen": ["100", "150"],
-    "Price": [119, 149],
-    "Gender": "Male",
-    "Information": "Descubre la intensidad de Bad Boy Cobalt. Un perfume masculino con notas de pimienta rosada, cuero y vetiver, que evoca fuerza y sofisticación."
-  },
-  {
-    "id": 49,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Bad Boy Extreme",
-    "Description": "BAD BOY EXTREME EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [125],
-    "Gender": "Male",
-    "Information": "Lleva la rebeldía al máximo con Bad Boy Extreme. Una fragancia masculina con notas de limón, cacao y cuero, perfecta para el hombre atrevido y carismático."
-  },
-  {
-    "id": 50,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Bad Boy Le Parfum",
-    "Description": "BAD BOY LE PARFUM EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100", "150"],
-    "Price": [121, 152],
-    "Gender": "Male",
-    "Information": "Experiencia pura con Bad Boy Le Parfum. Un perfume masculino con notas de cannabis, cuero y pomelo, ideal para aquellos que buscan un aroma distintivo y audaz."
-  },
-  {
-    "id": 51,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "CH Men",
-    "Description": "CHT MEN EDT NS 50ML",
-    "Type": "EDT",
-    "Volumen": ["50", "100", "200"],
-    "Price": [87, 116, 153],
-    "Gender": "Male",
-    "Information": "Sé irresistible con CH Men de Carolina Herrera. Una fragancia masculina con notas de mandarina, azafrán y vetiver, que combina elegancia y pasión."
-  },
-  {
-    "id": 52,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "CH Men Pasión",
-    "Description": "CHT MEN PASIÓN RE23 EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [116],
-    "Gender": "Male",
-    "Information": "Vive con pasión con CH Men Pasión. Un perfume masculino que mezcla notas de jengibre, pachulí y cuero, diseñado para el hombre apasionado y sofisticado."
-  },
-  {
-    "id": 53,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "CHT",
-    "Description": "CHT EDT NS 50ML",
-    "Type": "EDT",
-    "Volumen": ["50", "100"],
-    "Price": [109, 130],
-    "Gender": "Male",
-    "Information": "Descubre el lujo atemporal con CHT. Una fragancia masculina con notas de cítricos, especias y maderas preciosas, ideal para el hombre que valora la elegancia clásica."
-  },
-  {
-    "id": 54,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Good Girl",
-    "Description": "CH GOODGIRL EDP NS 50ML",
-    "Type": "EDP",
-    "Volumen": ["50", "80", "150"],
-    "Price": [114, 140, 196],
-    "Gender": "Female",
-    "Information": "Sé traviesa y buena con Good Girl de Carolina Herrera. Un perfume femenino con notas de jazmín, cacao y tonka, que capturan la dualidad de la mujer moderna."
-  },
-  {
-    "id": 55,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Good Girl Supreme",
-    "Description": "CH GOOD GIRL EDP SUPRÉME 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [150],
-    "Gender": "Female",
-    "Information": "Redefine la elegancia con Good Girl Supreme. Una fragancia femenina con notas de frutas del bosque, jazmín egipcio y haba tonka, perfecta para la mujer segura y glamorosa."
-  },
-  {
-    "id": 56,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Good Girl Blush",
-    "Description": "GG BLUSH RE23 EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [154],
-    "Gender": "Female",
-    "Information": "Siente la delicadeza con Good Girl Blush. Un perfume femenino que combina notas de peonía, flor de azahar y cacao, ideal para un toque suave y sofisticado."
-  },
-  {
-    "id": 57,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Good Girl Légère",
-    "Description": "CH GG LÉGÈRE EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [140],
-    "Gender": "Female",
-    "Information": "Descubre la ligereza de Good Girl Légère. Una fragancia femenina con notas de ylang-ylang, jazmín y dulce de leche, perfecta para la mujer audaz y elegante."
-  },
-  {
-    "id": 58,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Very Good Girl",
-    "Description": "GG VERY GOOD GIRL EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [153],
-    "Gender": "Female",
-    "Information": "Sé inolvidable con Very Good Girl. Un perfume femenino con notas de rosa, grosella roja y vetiver, que captura la esencia de la sofisticación moderna."
-  },
-  {
-    "id": 59,
-    "GroupBrand": "Carolina Herrera",
-    "ProductLine": "Very Good Girl Glam",
-    "Description": "GG VGG GLAM PARFUM 80ML",
-    "Type": "PAR",
-    "Volumen": ["80"],
-    "Price": [161],
-    "Gender": "Female",
-    "Information": "Brilla con Very Good Girl Glam. Una fragancia femenina con notas de cereza amarga, rosa y vainilla, ideal para la mujer que quiere destacar con un toque glamoroso."
-  },
-  {
-    "id": 60,
-    "GroupBrand": "Cuba By Parfum Des Champs",
-    "ProductLine": "Bold",
-    "Description": "Bold For Men Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [24],
-    "Gender": "Male",
-    "Information": "Descubre la audacia con Cuba Bold. Un perfume masculino con notas de tabaco, especias y un toque de cuero, perfecto para el hombre fuerte y decidido."
-  },
-  {
-    "id": 61,
-    "GroupBrand": "Cuba By Parfum Des Champs",
-    "ProductLine": "Dark",
-    "Description": "Dark For Men Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [24],
-    "Gender": "Male",
-    "Information": "Sumérgete en la intensidad con Cuba Dark. Una fragancia masculina con notas de tabaco oscuro, ámbar y especias, diseñada para el hombre enigmático y sofisticado."
-  },
-  {
-    "id": 62,
-    "GroupBrand": "Cuba By Parfum Des Champs",
-    "ProductLine": "Mystic",
-    "Description": "Mystic For WOMEN Edp Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [24],
-    "Gender": "Female",
-    "Information": "Embárcate en un viaje místico con Cuba Mystic. Un perfume masculino con notas de incienso, especias y madera, ideal para el hombre que busca lo extraordinario."
-  },
-  {
-    "id": 63,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Prestige Classic",
-    "Description": "Prestige Classic Edt For Men 90ml",
-    "Type": "EDT",
-    "Volumen": ["90"],
-    "Price": [22],
-    "Gender": "Male",
-    "Information": "Vive el clásico con Cuba Prestige Classic. Una fragancia masculina con notas de tabaco, lavanda y madera, perfecta para el hombre que aprecia la elegancia atemporal."
-  },
-  {
-    "id": 64,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Cuba Gold",
-    "Description": "Cuba Gold For Men 100ml Edt Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Male",
-    "Information": "Luce el oro con Cuba Gold. Un perfume masculino con notas de tabaco, vainilla y especias, ideal para el hombre sofisticado y refinado."
-  },
-  {
-    "id": 65,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Cuba Blue",
-    "Description": "Cuba Blue For Men 100ml Edt Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Male",
-    "Information": "Siente la frescura con Cuba Blue. Una fragancia masculina con notas de lavanda, madera y tabaco, diseñada para el hombre dinámico y moderno."
-  },
-  {
-    "id": 66,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Cuba Hot",
-    "Description": "Cuba Hot For Men 100ml Edt Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Male",
-    "Information": "Enciende la pasión con Cuba Hot. Un perfume masculino con notas de tabaco, especias cálidas y ámbar, ideal para el hombre ardiente y seguro."
-  },
-  {
-    "id": 67,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Cuba Signature",
-    "Description": "Cuba Signature For Men 100ml Edt Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Male",
-    "Information": "Marca tu estilo con Cuba Signature. Una fragancia masculina que mezcla tabaco, madera y un toque de vainilla, perfecta para el hombre que deja huella."
-  },
-  {
-    "id": 68,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Cuba Grey",
-    "Description": "Cuba Grey For Men 100ml Edt Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Male",
-    "Information": "Descubre la elegancia sutil con Cuba Grey. Un perfume masculino con notas de tabaco, ámbar y especias, ideal para el hombre sofisticado y moderno."
-  },
-  {
-    "id": 69,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Cuba My Love",
-    "Description": "Cuba My Love For Women 100ml edp Natural Spray",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Female",
-    "Information": "Celebra el amor con Cuba My Love. Una fragancia masculina que combina notas de tabaco, flores y especias, perfecta para el hombre romántico y apasionado."
-  },
-  {
-    "id": 70,
-    "GroupBrand": "Cuba Original By Parfum Des Champs",
-    "ProductLine": "Cuba La Vida",
-    "Description": "Cuba La Vida For Women 100ml edp Natural Spray",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Female",
-    "Information": "Vive intensamente con Cuba La Vida. Un perfume masculino con notas de tabaco, cítricos y especias, ideal para el hombre que vive la vida al máximo."
-  },
-  {
-    "id": 71,
-    "GroupBrand": "Elizabeth Arden",
-    "ProductLine": "Red Door",
-    "Description": "Elizabeth Arden Red Door Edt spray vaporisateur 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [55],
-    "Gender": "Female",
-    "Information": "Abre la puerta al lujo con Red Door de Elizabeth Arden. Una fragancia femenina icónica con notas de rosa, orquídea y miel, perfecta para la mujer elegante y sofisticada."
-  },
-  {
-    "id": 72,
-    "GroupBrand": "Elizabeth Arden",
-    "ProductLine": "5th avenue",
-    "Description": "Elizabeth Arden 5th avenue 125ml edp Spray Vaporisateur",
-    "Type": "EDP",
-    "Volumen": ["125"],
-    "Price": [45],
-    "Gender": "Female",
-    "Information": "Camina por la famosa avenida con 5th Avenue de Elizabeth Arden. Un perfume femenino con notas de lilas, magnolia y ámbar, ideal para la mujer cosmopolita y chic."
-  },
-  {
-    "id": 73,
-    "GroupBrand": "Fragluxe",
-    "ProductLine": "So cute",
-    "Description": "So cute edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Female",
-    "Information": "Siéntete adorable con So Cute de Fragluxe. Una fragancia femenina con notas frutales, florales y un toque de vainilla, perfecta para un encanto juvenil y fresco."
-  },
-  {
-    "id": 74,
-    "GroupBrand": "Fragluxe",
-    "ProductLine": "Sense",
-    "Description": "Sense (For Men) edt 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Male",
-    "Information": "Despierta tus sentidos con Sense de Fragluxe. Un perfume femenino que combina notas de cítricos, flores y almizcle, ideal para un aroma refrescante y vibrante."
-  },
-  {
-    "id": 75,
-    "GroupBrand": "Fragluxe",
-    "ProductLine": "Fancy Girl",
-    "Description": "Fancy Girl edt 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Female",
-    "Information": "Brilla con Fancy Girl de Fragluxe. Una fragancia femenina con notas de frutas exóticas, flores y vainilla, diseñada para la mujer que ama el glamour."
-  },
-  {
-    "id": 76,
-    "GroupBrand": "Guess",
-    "ProductLine": "Guess By Marciano",
-    "Description": "Guess By Marciano Edt 100ml edt spray vaporisateur",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [42],
-    "Gender": "Male",
-    "Information": "Descubre el estilo con Guess By Marciano. Un perfume femenino con notas de carambola, peonía y vainilla, perfecto para la mujer moderna y sofisticada."
-  },
-  {
-    "id": 77,
-    "GroupBrand": "Guess",
-    "ProductLine": "Guess Man",
-    "Description": "Guess Man Edt Natural Spray/Vaporisateur 75ml",
-    "Type": "EDT",
-    "Volumen": ["75"],
-    "Price": [39],
-    "Gender": "Male",
-    "Information": "Sé irresistible con Guess Man. Una fragancia masculina con notas de lavanda, ámbar y sándalo, diseñada para el hombre carismático y seguro."
-  },
-  {
-    "id": 78,
-    "GroupBrand": "Guy Laroche",
-    "ProductLine": "Drakkar Noir",
-    "Description": "Drakkar Noir Edt Vaporisateur Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [35],
-    "Gender": "Male",
-    "Information": "Emana confianza con Drakkar Noir de Guy Laroche. Un perfume masculino clásico con notas de lavanda, cítricos y maderas, ideal para el hombre elegante y seguro."
-  },
-  {
-    "id": 79,
-    "GroupBrand": "Hugo BOSS",
-    "ProductLine": "Deep Red",
-    "Description": "Deep Red edp 90ml",
-    "Type": "EDP",
-    "Volumen": ["90"],
-    "Price": [78],
-    "Gender": "Female",
-    "Information": "Despierta la pasión con Deep Red de Hugo Boss. Una fragancia femenina con notas de clementina, jengibre y sándalo, perfecta para la mujer audaz y seductora."
-  },
-  {
-    "id": 80,
-    "GroupBrand": "Hugo BOSS",
-    "ProductLine": "Dark Blues",
-    "Description": "Dark Blues 75 ML Edt",
-    "Type": "EDT",
-    "Volumen": ["75"],
-    "Price": [62],
-    "Gender": "Unisex",
-    "Information": "Explora la noche con Dark Blue de Hugo Boss. Un perfume masculino con notas de jengibre, pomelo y madera, ideal para el hombre aventurero y sofisticado."
-  },
-  {
-    "id": 81,
-    "GroupBrand": "Hugo Boss",
-    "ProductLine": "BOSS Bottled Absolute",
-    "Description": "BOSS Bottled Absolute EDP 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [96],
-    "Gender": "Male",
-    "Information": "Lleva la elegancia al siguiente nivel con BOSS Bottled Absolute. Una fragancia masculina con notas de manzana, canela y madera, perfecta para cualquier ocasión especial."
-  },
-  {
-    "id": 82,
-    "GroupBrand": "Hugo Boss",
-    "ProductLine": "BOSS Selection",
-    "Description": "BOSS Selection Edt 90ml",
-    "Type": "EDT",
-    "Volumen": ["90"],
-    "Price": [78],
-    "Gender": "Male",
-    "Information": "Destaca con BOSS Selection. Un perfume masculino con notas de pomelo, anís y vetiver, ideal para el hombre que busca un aroma distintivo y sofisticado."
-  },
-  {
-    "id": 83,
-    "GroupBrand": "Hugo Boss",
-    "ProductLine": "Number One BOSS",
-    "Description": "Number One BOSS Edt 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [78],
-    "Gender": "Male",
-    "Information": "Experimenta la excelencia con Number One BOSS. Una fragancia masculina clásica con notas de lavanda, miel y tabaco, perfecta para el hombre distinguido y elegante."
-  },
-  {
-    "id": 84,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Classique",
-    "Description": "JPG CL EDT 50ML RPK 2017",
-    "Type": "EDT",
-    "Volumen": ["50", "100"],
-    "Price": [102, 127],
-    "Gender": "Female",
-    "Information": "Encanta con Classique de Jean Paul Gaultier. Un perfume femenino con notas de flor de naranjo, jengibre y vainilla, diseñado para la mujer sensual y sofisticada."
-  },
-  {
-    "id": 85,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Le Male",
-    "Description": "JPG LM EDT 75ML RPK 17",
-    "Type": "EDT",
-    "Volumen": ["75", "125", "200"],
-    "Price": [87, 111, 139],
-    "Gender": "Male",
-    "Information": "Irradia confianza con Le Male de Jean Paul Gaultier. Una fragancia masculina con notas de menta, lavanda y vainilla, ideal para el hombre seductor y seguro."
-  },
-  {
-    "id": 86,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Le Male Ultra",
-    "Description": "JPG LMU EDT 75ML RPK 2017",
-    "Type": "EDT",
-    "Volumen": ["75", "125"],
-    "Price": [91, 116],
-    "Gender": "Male",
-    "Information": "Descubre la intensidad con Le Male Ultra. Un perfume masculino con notas de bergamota, pera y vainilla, perfecto para el hombre que busca un aroma audaz y distintivo."
-  },
-  {
-    "id": 87,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "La Belle",
-    "Description": "JPG LA BELLE EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [139],
-    "Gender": "Female",
-    "Information": "Siéntete irresistible con La Belle de Jean Paul Gaultier. Una fragancia femenina con notas de pera, bergamota y vainilla, ideal para la mujer que quiere dejar una huella duradera."
-  },
-  {
-    "id": 88,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "La Belle Le Parfum",
-    "Description": "JPG LA BELLE LP EDP 100ML 2021",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [146],
-    "Gender": "Female",
-    "Information": "Lleva la seducción al siguiente nivel con La Belle Le Parfum. Un perfume femenino con notas de pera, tonka y vainilla, diseñado para la mujer que busca un aroma profundo y sensual."
-  },
-  {
-    "id": 89,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Le Beau",
-    "Description": "JPG LE BEAU EDT 75ML",
-    "Type": "EDT",
-    "Volumen": ["75", "125"],
-    "Price": [92, 121],
-    "Gender": "Male",
-    "Information": "Atrévete con Le Beau de Jean Paul Gaultier. Una fragancia masculina con notas de bergamota, coco y haba tonka, ideal para el hombre que busca un aroma fresco y exótico."
-  },
-  {
-    "id": 90,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Le Beau Le Parfum",
-    "Description": "JPG LE BEAU LP EDP 75ML",
-    "Type": "EDP",
-    "Volumen": ["75", "125"],
-    "Price": [101, 133],
-    "Gender": "Male",
-    "Information": "Intensifica tu atractivo con Le Beau Le Parfum. Un perfume masculino con notas de coco, haba tonka y madera, diseñado para el hombre que quiere destacar."
-  },
-  {
-    "id": 91,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Le Male Le Parfum",
-    "Description": "JPG LM EDP 200ML",
-    "Type": "EDP",
-    "Volumen": ["75", "200", "125"],
-    "Price": [95, 119, 148],
-    "Gender": "Male",
-    "Information": "Experiencia pura con Le Male Le Parfum. Una fragancia masculina con notas de cardamomo, lavanda y vainilla, perfecta para el hombre que busca un aroma distintivo y refinado."
-  },
-  {
-    "id": 92,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Le Male Elixir",
-    "Description": "JPG LM ELIXIR 125ML",
-    "Type": "ELX",
-    "Volumen": ["125"],
-    "Price": [133],
-    "Gender": "Male",
-    "Information": "Sumérgete en la intensidad con Le Male Elixir. Un perfume masculino con notas de cardamomo, lavanda y vainilla, ideal para el hombre audaz y sofisticado."
-  },
-  {
-    "id": 93,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Divine",
-    "Description": "JPG DIVINE EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [164],
-    "Gender": "Female",
-    "Information": "Siente la divinidad con Divine de Jean Paul Gaultier. Una fragancia femenina con notas de flor de naranjo, jengibre y vainilla, diseñada para la mujer que busca un toque celestial."
-  },
-  {
-    "id": 94,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Scandal",
-    "Description": "JPG SCANDAL EDP SPRAY 80ML",
-    "Type": "EDP",
-    "Volumen": ["50", "80"],
-    "Price": [111, 138],
-    "Gender": "Female",
-    "Information": "Rompe las reglas con Scandal de Jean Paul Gaultier. Un perfume femenino con notas de miel, gardenia y pachulí, perfecto para la mujer que quiere causar sensación."
-  },
-  {
-    "id": 95,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Scandal Le Parfum Him",
-    "Description": "JPG SCANDAL LE PARFUM 22 HIM  EDP 100ML",
-    "Type": "PAR",
-    "Volumen": ["100"],
-    "Price": [129],
-    "Gender": "Female",
-    "Information": "Despierta la curiosidad con Scandal Le Parfum Him. Una fragancia masculina con notas de haba tonka, cuero y vainilla, diseñada para el hombre que busca un aroma provocativo."
-  },
-  {
-    "id": 96,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "Scandal pour Homme",
-    "Description": "JPG SC PH EDT 200ML REFILL",
-    "Type": "EDT",
-    "Volumen": ["100", "150", "200"],
-    "Price": [119, 139, 145],
-    "Gender": "Female",
-    "Information": "Irradia poder con Scandal pour Homme. Un perfume masculino con notas de caramelo, haba tonka y vetiver, ideal para el hombre que busca un aroma fuerte y distintivo."
-  },
-  {
-    "id": 97,
-    "GroupBrand": "Jean Paul Gaultier",
-    "ProductLine": "So Scandal!",
-    "Description": "JPG SO SCANDAL! EDP 50ML",
-    "Type": "EDP",
-    "Volumen": ["50", "80"],
-    "Price": [111, 138],
-    "Gender": "Female",
-    "Information": "Atrévete a ser diferente con So Scandal! de Jean Paul Gaultier. Una fragancia femenina con notas de frambuesa, nardo y jazmín, perfecta para la mujer audaz y encantadora."
-  },
-  {
-    "id": 98,
-    "GroupBrand": "Karl Lagerfeld",
-    "ProductLine": "Lagerfeld Classic",
-    "Description": "Lagerfeld Classic 100ml Edt Vaporisateur Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [45],
-    "Gender": "Male",
-    "Information": "Descubre la elegancia atemporal con Lagerfeld Classic. Un perfume masculino con notas de tabaco, sándalo y ámbar, ideal para el hombre clásico y sofisticado."
-  },
-  {
-    "id": 99,
-    "GroupBrand": "Lomani Paris",
-    "ProductLine": "Ab Spirit Millonaire",
-    "Description": "Ab Spirit Millonaire Edt Natural Spray Vaporisateur 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [35],
-    "Gender": "Male",
-    "Information": "Vive el lujo con Ab Spirit Millionaire de Lomani Paris. Una fragancia masculina con notas de bergamota, nuez moscada y madera, perfecta para el hombre que aprecia la opulencia."
-  },
-  {
-    "id": 100,
-    "GroupBrand": "Lomani Paris",
-    "ProductLine": "Ab Spirit",
-    "Description": "Ab Spirit by Lomani Paris Edt Vaporisateur Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Male",
-    "Information": "Experimenta la sofisticación con Ab Spirit de Lomani Paris. Un perfume masculino con notas de limón, jazmín y ámbar, ideal para el hombre moderno y refinado."
-  },
-  {
-    "id": 101,
-    "GroupBrand": "Lomani Paris",
-    "ProductLine": "Millonaire Women",
-    "Description": "Millonaire Women Edp Vaporisateur Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [38],
-    "Gender": "Female",
-    "Information": "Brilla con Millionaire Women de Lomani Paris. Una fragancia femenina con notas de frutas exóticas, flores y vainilla, diseñada para la mujer que quiere destacar."
-  },
-  {
-    "id": 102,
-    "GroupBrand": "Lomani Paris",
-    "ProductLine": "Signature For Men",
-    "Description": "Lomani Signature For Men 100ml Edt Vaporisateur Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [38],
-    "Gender": "Male",
-    "Information": "Marca tu estilo con Signature For Men de Lomani Paris. Un perfume masculino con notas de lavanda, vainilla y maderas preciosas, perfecto para el hombre que busca un aroma distintivo."
-  },
-  {
-    "id": 103,
-    "GroupBrand": "MTV",
-    "ProductLine": "Electric Beat",
-    "Description": "Electric Beat Edt For Her 75ml",
-    "Type": "EDT",
-    "Volumen": ["75"],
-    "Price": [20],
-    "Gender": "Female",
-    "Information": "Siente la energía con Electric Beat de MTV. Una fragancia unisex con notas cítricas, florales y almizcle, ideal para aquellos que viven intensamente."
-  },
-  {
-    "id": 104,
-    "GroupBrand": "MTV",
-    "ProductLine": "Rock Ver",
-    "Description": "Rock Ver Edt 75ml",
-    "Type": "EDT",
-    "Volumen": ["75"],
-    "Price": [20],
-    "Gender": "Male",
-    "Information": "Despierta tu lado rockero con Rock Ver de MTV. Un perfume unisex con notas de bergamota, cedro y almizcle, diseñado para los que se atreven a ser diferentes."
-  },
-  {
-    "id": 105,
-    "GroupBrand": "Master of New Brand",
-    "ProductLine": "Zap",
-    "Description": "Zap For Men Edt Natural Spray 100ml Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Male",
-    "Information": "Lleva la chispa con Zap de Master of New Brand. Una fragancia masculina con notas de cítricos, especias y madera, perfecta para el hombre dinámico y enérgico."
-  },
-  {
-    "id": 106,
-    "GroupBrand": "Master of New Brand",
-    "ProductLine": "Master of Platinum",
-    "Description": "Master of Platinum For Men Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Male",
-    "Information": "Descubre la exclusividad con Master of Platinum. Un perfume masculino con notas de bergamota, pimienta y cuero, ideal para el hombre que busca un toque de lujo."
-  },
-  {
-    "id": 107,
-    "GroupBrand": "Master of New Brand",
-    "ProductLine": "Master of Gold",
-    "Description": "Master of Gold For Women Edp Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Female",
-    "Information": "Brilla con Master of Gold. Una fragancia masculina con notas de cítricos, especias y ámbar, diseñada para el hombre que quiere destacarse."
-  },
-  {
-    "id": 108,
-    "GroupBrand": "Master of New Brand",
-    "ProductLine": "Master Of Purple",
-    "Description": "Master Of Purple For Women Eau de Parfum Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Female",
-    "Information": "Sé único con Master Of Purple. Un perfume masculino con notas de lavanda, madera y almizcle, ideal para el hombre que valora la originalidad."
-  },
-  {
-    "id": 109,
-    "GroupBrand": "Michael Jordan",
-    "ProductLine": "23",
-    "Description": "23 - 100ml Eau de Cologne EDC 25$ Vaporisateur",
-    "Type": "EDC",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Male",
-    "Information": "Siente la grandeza con 23 de Michael Jordan. Una fragancia masculina con notas de lavanda, musgo y especias, perfecta para el hombre que aspira a la excelencia."
-  },
-  {
-    "id": 110,
-    "GroupBrand": "Michael Jordan",
-    "ProductLine": "Michael Jordan",
-    "Description": "Michael Jordan Eau de Cologne Vaporisateur 100ml",
-    "Type": "EDC",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Male",
-    "Information": "Vive el legado con Michael Jordan. Un perfume masculino con notas de bergamota, cedro y vainilla, diseñado para el hombre que busca un aroma legendario."
-  },
-  {
-    "id": 111,
-    "GroupBrand": "Mont Blanc",
-    "ProductLine": "Star Walker",
-    "Description": "Star Walker 75 ML Edt",
-    "Type": "EDT",
-    "Volumen": ["75"],
-    "Price": [60],
-    "Gender": "Male",
-    "Information": "Alcanza las estrellas con Star Walker de Mont Blanc. Una fragancia masculina con notas de bambú, cítricos y sándalo, ideal para el hombre que busca la innovación y el estilo."
-  },
-  {
-    "id": 112,
-    "GroupBrand": "Mont Blanc",
-    "ProductLine": "Legend",
-    "Description": "Legend Edt 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [75],
-    "Gender": "Male",
-    "Information": "Sé inolvidable con Legend de Mont Blanc. Un perfume masculino con notas de lavanda, bergamota y madera, perfecto para el hombre que quiere dejar una huella duradera."
-  },
-  {
-    "id": 113,
-    "GroupBrand": "Mont Blanc",
-    "ProductLine": "Legend Pour Femme",
-    "Description": "Legend Pour Femme 75 ML edp",
-    "Type": "EDP",
-    "Volumen": ["75"],
-    "Price": [55],
-    "Gender": "Female",
-    "Information": "Exhala elegancia con Legend Pour Femme de Mont Blanc. Una fragancia femenina con notas de pera, neroli y almizcle, diseñada para la mujer sofisticada y segura."
-  },
-  {
-    "id": 114,
-    "GroupBrand": "Mont Blanc",
-    "ProductLine": "Lady Emblem",
-    "Description": "Lady Emblem Edp 75ml",
-    "Type": "EDP",
-    "Volumen": ["75"],
-    "Price": [55],
-    "Gender": "Female",
-    "Information": "Deslumbra con Lady Emblem de Mont Blanc. Un perfume femenino con notas de rosa, durazno y sándalo, ideal para la mujer que quiere destacarse con un toque de lujo."
-  },
-  {
-    "id": 115,
-    "GroupBrand": "Mont Blanc",
-    "ProductLine": "Presente D'UNE FEMME",
-    "Description": "Presente D'UNE FEMME 75ml Edt",
-    "Type": "EDT",
-    "Volumen": ["75"],
-    "Price": [60],
-    "Gender": "Female",
-    "Information": "Celebra la presencia con Presente D'UNE FEMME de Mont Blanc. Una fragancia femenina con notas de frutas exóticas, flores y almizcle, perfecta para la mujer que quiere ser inolvidable."
-  },
-  {
-    "id": 116,
-    "GroupBrand": "Naomi Campbell",
-    "ProductLine": "Prêt À Porter",
-    "Description": "Prêt À Porter edt Natural Spray Vaporisateur 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Siéntete lista para cualquier ocasión con Prêt À Porter de Naomi Campbell. Un perfume femenino con notas de frutas, flores y maderas, ideal para la mujer moderna y elegante."
-  },
-  {
-    "id": 117,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Sweet Star",
-    "Description": "Sweet Star For Women Edp Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Female",
-    "Information": "Brilla como una estrella con Sweet Star de New Brand. Una fragancia femenina con notas frutales, florales y un toque de vainilla, perfecta para un encanto juvenil y fresco."
-  },
-  {
-    "id": 118,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Mysterious Girl",
-    "Description": "Mysterious Girl For Women Edp Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [18],
-    "Gender": "Female",
-    "Information": "Descubre el misterio con Mysterious Girl de New Brand. Un perfume femenino con notas de frutas exóticas, flores y almizcle, ideal para la mujer que quiere un toque de misterio."
-  },
-  {
-    "id": 119,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Prestige Fluo Pink",
-    "Description": "Prestige Fluo Pink edp natural spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Female",
-    "Information": "Destaca con Prestige Fluo Pink de New Brand. Una fragancia femenina con notas de cítricos, flores y almizcle, perfecta para la mujer que busca un aroma vibrante y enérgico."
-  },
-  {
-    "id": 120,
-    "GroupBrand": "New Brand",
-    "ProductLine": "Prestige Fluo Sun",
-    "Description": "Prestige Fluo Sun edp natural spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Female",
-    "Information": "Luce radiante con Prestige Fluo Sun de New Brand. Un perfume femenino con notas de cítricos, flores y vainilla, ideal para la mujer que quiere brillar con un toque de sol."
-  },
-  {
-    "id": 121,
-    "GroupBrand": "New Brand Perfumes",
-    "ProductLine": "Prestige Cute",
-    "Description": "Prestige Cute For Women Edp 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Female",
-    "Information": "Encanta con Prestige Cute de New Brand Perfumes. Una fragancia femenina con notas frutales, florales y un toque de vainilla, diseñada para un encanto dulce y juvenil."
-  },
-  {
-    "id": 122,
-    "GroupBrand": "New Brand Perfumes",
-    "ProductLine": "Prestige Gold",
-    "Description": "Prestige Gold Edt For Men Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Male",
-    "Information": "Luce el oro con Prestige Gold de New Brand Perfumes. Un perfume masculino con notas de tabaco, vainilla y especias, ideal para el hombre sofisticado y refinado."
-  },
-  {
-    "id": 123,
-    "GroupBrand": "New Brand Perfumes",
-    "ProductLine": "Prestige invincible",
-    "Description": "Prestige invincible Edt For Men Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Male",
-    "Information": "Sé invencible con Prestige Invincible de New Brand Perfumes. Una fragancia masculina con notas de bergamota, especias y madera, perfecta para el hombre seguro y audaz."
-  },
-  {
-    "id": 124,
-    "GroupBrand": "New Brand Perfumes Prestige",
-    "ProductLine": "Extasia For Women",
-    "Description": "Extasia For Women edp Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Female",
-    "Information": "Vive la extasía con Extasia de New Brand Perfumes Prestige. Una fragancia femenina con notas de frutas exóticas, flores y vainilla, diseñada para la mujer que busca un toque de lujo y pasión."
-  },
-  {
-    "id": 125,
-    "GroupBrand": "New Brand Perfumes Prestige",
-    "ProductLine": "Extasia For Men",
-    "Description": "Extasia For Men edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [20],
-    "Gender": "Male",
-    "Information": "Sumérgete en la exaltación del lujo y la masculinidad con Extasia, la nueva fragancia de New Brand Perfumes Prestige. Diseñada para el hombre moderno que busca destacar con elegancia y magnetismo, Extasia ofrece una experiencia olfativa única que evoca la sensualidad y el poder."
-  },
-  {
-    "id": 126,
-    "GroupBrand": "New Brand Perfumes Prestige",
-    "ProductLine": "4 MEN",
-    "Description": "4 MEN - For Men Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Male",
-    "Information": "Marca la diferencia con 4 MEN de New Brand Perfumes Prestige. Un perfume masculino con notas de bergamota, lavanda y madera, ideal para el hombre moderno y dinámico."
-  },
-  {
-    "id": 127,
-    "GroupBrand": "New Brand Perfumes Prestige",
-    "ProductLine": "4 WOMEN",
-    "Description": "4 WOMEN - By New Brand Perfumes Edt Natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Female",
-    "Information": "Sé inolvidable con 4 WOMEN de New Brand Perfumes Prestige. Una fragancia femenina con notas de flores blancas, frutas y almizcle, perfecta para la mujer que quiere destacarse."
-  },
-  {
-    "id": 128,
-    "GroupBrand": "New Brand Perfumes Prestige",
-    "ProductLine": "Prestige Ego Gold",
-    "Description": "Prestige Ego Gold For Men Edt natural Spray 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [22],
-    "Gender": "Male",
-    "Information": "Deslumbra con Prestige Ego Gold de New Brand Perfumes Prestige. Un perfume masculino con notas de cítricos, especias y ámbar, ideal para el hombre que busca un aroma sofisticado y poderoso."
-  },
-  {
-    "id": 129,
-    "GroupBrand": "Nike",
-    "ProductLine": "Nike Woman Loving Floral",
-    "Description": "Nike Woman Loving Floral EDT 150ml",
-    "Type": "EDT",
-    "Volumen": ["150"],
-    "Price": [36],
-    "Gender": "Female",
-    "Information": "Luce encantadora con Loving Floral de Nike Woman. Una fragancia femenina con notas de flores frescas, frutas y un toque de almizcle, perfecta para el día a día de la mujer activa."
-  },
-  {
-    "id": 130,
-    "GroupBrand": "Nike",
-    "ProductLine": "Nike Men Indigo",
-    "Description": "Nike Men Indigo 200ml Edt Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["200"],
-    "Price": [36],
-    "Gender": "Male",
-    "Information": "Siente la frescura con Indigo de Nike Men. Un perfume masculino con notas cítricas, especiadas y un toque de madera, ideal para el hombre moderno y energético."
-  },
-  {
-    "id": 131,
-    "GroupBrand": "Nike",
-    "ProductLine": "Nike Men Ultra Green",
-    "Description": "Nike Men Ultra Green 200ml EDT Natural Spray",
-    "Type": "EDT",
-    "Volumen": ["200"],
-    "Price": [36],
-    "Gender": "Male",
-    "Information": "Descubre la vitalidad con Ultra Green de Nike Men. Una fragancia masculina con notas verdes, cítricas y un toque de especias, perfecta para el hombre que busca un aroma fresco y vibrante."
-  },
-  {
-    "id": 132,
-    "GroupBrand": "Nina Ricci",
-    "ProductLine": "L'Air Du Temps",
-    "Description": "ADT EDT NS 50ML REPACK 2017",
-    "Type": "EDT",
-    "Volumen": ["50", "100"],
-    "Price": [82, 111],
-    "Gender": "Female",
-    "Information": "Vive la elegancia atemporal con L'Air Du Temps de Nina Ricci. Un perfume femenino con notas de gardenia, clavel y almizcle, ideal para la mujer sofisticada y clásica."
-  },
-  {
-    "id": 133,
-    "GroupBrand": "Nina Ricci",
-    "ProductLine": "Nina",
-    "Description": "NINA EDT 80ML REFILLABLE",
-    "Type": "EDT",
-    "Volumen": ["50", "80"],
-    "Price": [87, 109],
-    "Gender": "Female",
-    "Information": "Encanta con Nina de Nina Ricci. Una fragancia femenina con notas de manzana, praliné y cedro, diseñada para la mujer joven y romántica."
-  },
-  {
-    "id": 134,
-    "GroupBrand": "Nina Ricci",
-    "ProductLine": "Nina Fleur",
-    "Description": "NINA FLEUR RE EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [109],
-    "Gender": "Female",
-    "Information": "Despierta tu feminidad con Nina Fleur de Nina Ricci. Un perfume femenino con notas de flores blancas, frutas y un toque de almizcle, perfecto para la mujer delicada y encantadora."
-  },
-  {
-    "id": 135,
-    "GroupBrand": "Nina Ricci",
-    "ProductLine": "Nina Rouge",
-    "Description": "NINA ROUGE EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [109],
-    "Gender": "Female",
-    "Information": "Desata tu pasión con Nina Rouge de Nina Ricci. Una fragancia femenina con notas de frambuesa, jazmín y vainilla, ideal para la mujer audaz y seductora."
-  },
-  {
-    "id": 136,
-    "GroupBrand": "Nina Ricci",
-    "ProductLine": "Nina Extra Rouge",
-    "Description": "NINA EXTRA ROUGE RE21 EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [119],
-    "Gender": "Female",
-    "Information": "Intensifica tu encanto con Nina Extra Rouge de Nina Ricci. Un perfume femenino con notas de frutas rojas, vainilla y flores blancas, diseñado para la mujer que busca un aroma profundo y cautivador."
-  },
-  {
-    "id": 137,
-    "GroupBrand": "Nina Ricci",
-    "ProductLine": "Nina RE 23",
-    "Description": "NR NINA RE23 EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [125],
-    "Gender": "Female",
-    "Information": "Reinventa tu estilo con Nina RE 23 de Nina Ricci. Una fragancia femenina con notas de frutas, flores y almizcle, perfecta para la mujer que quiere un toque moderno y fresco."
-  },
-  {
-    "id": 138,
-    "GroupBrand": "Nina Ricci",
-    "ProductLine": "Nina Rosé",
-    "Description": "NINA ROSE EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [109],
-    "Gender": "Female",
-    "Information": "Luce radiante con Nina Rosé de Nina Ricci. Un perfume femenino con notas de frutas frescas, flores y un toque de almizcle, ideal para la mujer que busca un aroma ligero y encantador."
-  },
-  {
-    "id": 139,
-    "GroupBrand": "Other Lifestyle Fragrances",
-    "ProductLine": "Beso",
-    "Description": "ARP BESO EDT 100ML VAP",
-    "Type": "EDT",
-    "Volumen": ["50", "100"],
-    "Price": [23, 31],
-    "Gender": "Female",
-    "Information": "Siente el romance con Beso de Other Lifestyle Fragrances. Una fragancia femenina con notas de frutas rojas, flores y vainilla, perfecta para la mujer que quiere un toque de pasión."
-  },
-  {
-    "id": 140,
-    "GroupBrand": "Other Lifestyle Fragrances",
-    "ProductLine": "Flor",
-    "Description": "ARP F EDT 100ML VAP",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Despierta tus sentidos con Flor de Other Lifestyle Fragrances. Un perfume femenino con notas de flores frescas, frutas y un toque de almizcle, ideal para la mujer que ama la naturaleza."
-  },
-  {
-    "id": 141,
-    "GroupBrand": "Other Lifestyle Fragrances",
-    "ProductLine": "Gotas De Color",
-    "Description": "NEW GOTAS DE COLOR EDT 100 ML VP",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Añade un toque de color a tu vida con Gotas De Color. Una fragancia femenina con notas frutales, florales y un toque de almizcle, perfecta para la mujer vibrante y alegre."
-  },
-  {
-    "id": 142,
-    "GroupBrand": "Other Lifestyle Fragrances",
-    "ProductLine": "Love Love Love",
-    "Description": "ARP LOVE EDT 80ML VAP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Siéntete amada con Love Love Love de Other Lifestyle Fragrances. Un perfume femenino con notas de frutas, flores y un toque de vainilla, diseñado para la mujer romántica y apasionada."
-  },
-  {
-    "id": 143,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "1 Million",
-    "Description": "1M EDT 200ML VAPO REPACK",
-    "Type": "EDT",
-    "Volumen": ["50", "100", "200"],
-    "Price": [86, 109, 141],
-    "Gender": "Male",
-    "Information": "Vive el lujo con 1 Million de Paco Rabanne. Una fragancia masculina con notas de pomelo, canela y cuero, perfecta para el hombre que busca un aroma opulento y audaz."
-  },
-  {
-    "id": 144,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "1 Million Parfum",
-    "Description": "1M PARFUM 200ML",
-    "Type": "PAR",
-    "Volumen": ["100", "200"],
-    "Price": [116, 148],
-    "Gender": "Male",
-    "Information": "Lleva la exclusividad con 1 Million Parfum de Paco Rabanne. Un perfume masculino con notas de ámbar, cuero y pino, ideal para el hombre que quiere destacarse con un toque de sofisticación."
-  },
-  {
-    "id": 145,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "1 Million Elixir",
-    "Description": "1M ELIXIR 22 PARF INTENSE 100ML",
-    "Type": "PAR",
-    "Volumen": ["100", "200"],
-    "Price": [131, 198],
-    "Gender": "Male",
-    "Information": "Descubre la intensidad con 1 Million Elixir de Paco Rabanne. Una fragancia masculina con notas de manzana, vainilla y cuero, perfecta para el hombre que busca un aroma profundo y magnético."
-  },
-  {
-    "id": 146,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "1 Million Royal",
-    "Description": "1 MILLION ROYAL PARFUM 200ML",
-    "Type": "PAR",
-    "Volumen": ["100", "200"],
-    "Price": [125, 181],
-    "Gender": "Male",
-    "Information": "Sé majestuoso con 1 Million Royal de Paco Rabanne. Un perfume masculino con notas de frutas, especias y un toque de madera, diseñado para el hombre que busca un aroma distintivo y poderoso."
-  },
-  {
-    "id": 147,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Black XS",
-    "Description": "BXS EDT 50ML REPACK 3",
-    "Type": "EDT",
-    "Volumen": ["50", "100"],
-    "Price": [86, 109],
-    "Gender": "Male",
-    "Information": "Atrévete con Black XS de Paco Rabanne. Una fragancia masculina con notas de limón, canela y madera, ideal para el hombre rebelde y apasionado."
-  },
-  {
-    "id": 149,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Fame",
-    "Description": "FAME EDP 80ML REFILLABLE",
-    "Type": "EDP",
-    "Volumen": ["80", "200"],
-    "Price": [135, 176],
-    "Gender": "Female",
-    "Information": "Deslumbra con Fame de Paco Rabanne. Un perfume femenino con notas de mango, jazmín y incienso, perfecto para la mujer que busca un aroma glamuroso y cautivador."
-  },
-  {
-    "id": 150,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Fame Parfum",
-    "Description": "FAME PARFUM 80ML REFILLABLE",
-    "Type": "PAR",
-    "Volumen": ["80", "200"],
-    "Price": [149, 186],
-    "Gender": "Female",
-    "Information": "Lleva la fama con Fame Parfum de Paco Rabanne. Una fragancia femenina con notas de frutas exóticas, flores y un toque de vainilla, ideal para la mujer que quiere destacarse con elegancia."
-  },
-  {
-    "id": 151,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Invictus",
-    "Description": "INV EDT 100ML",
-    "Type": "EDT",
-    "Volumen": ["50", "100", "200"],
-    "Price": [86, 109, 141],
-    "Gender": "Male",
-    "Information": "Conquista con Invictus de Paco Rabanne. Una fragancia masculina con notas de cítricos, laurel y madera, perfecta para el hombre que busca un aroma fresco y poderoso."
-  },
-  {
-    "id": 152,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Invictus Victory",
-    "Description": "INVICTUS VICTORY EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["50", "100"],
-    "Price": [94, 118],
-    "Gender": "Male",
-    "Information": "Celebra la victoria con Invictus Victory de Paco Rabanne. Un perfume masculino con notas de limón, vainilla y tonka, ideal para el hombre que busca un aroma intenso y triunfante."
-  },
-  {
-    "id": 153,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Invictus Victory Elixir",
-    "Description": "INVICTUS V. ELIXIR PARFUM 100ML",
-    "Type": "PAR",
-    "Volumen": ["100", "200"],
-    "Price": [131, 189],
-    "Gender": "Male",
-    "Information": "Intensifica tu triunfo con Invictus Victory Elixir de Paco Rabanne. Una fragancia masculina con notas de especias, vainilla y ámbar, diseñada para el hombre que quiere destacar con fuerza."
-  },
-  {
-    "id": 154,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Invictus Platinum",
-    "Description": "INVICTUS PLATINUM EDP 100ML",
-    "Type": "EDP",
-    "Volumen": ["100", "200"],
-    "Price": [118, 152],
-    "Gender": "Male",
-    "Information": "Brilla con Invictus Platinum de Paco Rabanne. Un perfume masculino con notas de pomelo, menta y lavanda, perfecto para el hombre que busca un aroma vibrante y enérgico."
-  },
-  {
-    "id": 155,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Lady Million",
-    "Description": "LADY M EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["50", "80"],
-    "Price": [102, 125],
-    "Gender": "Female",
-    "Information": "Deslumbra con Lady Million de Paco Rabanne. Una fragancia femenina con notas de neroli, frambuesa y jazmín, ideal para la mujer que quiere un toque de lujo y elegancia."
-  },
-  {
-    "id": 156,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Lady Million Royal RE23",
-    "Description": "LADY MILLION ROYAL EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [125],
-    "Gender": "Female",
-    "Information": "Sé la reina con Lady Million Royal RE23 de Paco Rabanne. Un perfume femenino con notas de frutas rojas, jazmín y vainilla, perfecto para la mujer que busca un aroma majestuoso y distintivo."
-  },
-  {
-    "id": 157,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Lady Million Fabulous",
-    "Description": "LADY M FABULOUS 2021 EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [131],
-    "Gender": "Female",
-    "Information": "Luce fabulosa con Lady Million Fabulous de Paco Rabanne. Una fragancia femenina con notas de pimienta rosa, jazmín y vainilla, ideal para la mujer que quiere un aroma audaz y glamuroso."
-  },
-  {
-    "id": 158,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Olympéa",
-    "Description": "OLYMPÉA EDP 50ML REPACK",
-    "Type": "EDP",
-    "Volumen": ["50", "80"],
-    "Price": [102, 125],
-    "Gender": "Female",
-    "Information": "Siente el poder divino con Olympéa de Paco Rabanne. Una fragancia femenina con notas de vainilla, sal y madera de cachemira, perfecta para la mujer que busca un aroma celestial y seductor."
-  },
-  {
-    "id": 159,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Olympéa Blossom",
-    "Description": "OLYMPÉA BLOSSOM EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [125],
-    "Gender": "Female",
-    "Information": "Despierta tu feminidad con Olympéa Blossom de Paco Rabanne. Un perfume femenino con notas de rosa, pera y vainilla, ideal para la mujer que busca un toque floral y encantador."
-  },
-  {
-    "id": 160,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Olympéa RE23",
-    "Description": "OLYMPÉA FLORA EDP 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [138],
-    "Gender": "Female",
-    "Information": "Reinventa tu divinidad con Olympéa RE23 de Paco Rabanne. Una fragancia femenina con notas de flores, frutas y almizcle, perfecta para la mujer que quiere un aroma moderno y fresco."
-  },
-  {
-    "id": 161,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Olympéa Solar",
-    "Description": "OLYMPÉA SOLAR EDP INTENSE 80ML",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [138],
-    "Gender": "Female",
-    "Information": "Luce radiante con Olympéa Solar de Paco Rabanne. Un perfume femenino con notas de flores solares, cítricos y vainilla, ideal para la mujer que busca un aroma cálido y brillante."
-  },
-  {
-    "id": 162,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Phantom",
-    "Description": "PHANTOM EDT REFILLABLE 150ML",
-    "Type": "EDT",
-    "Volumen": ["100", "150", "200"],
-    "Price": [116, 141, 162],
-    "Gender": "Male",
-    "Information": "Conecta con el futuro con Phantom de Paco Rabanne. Una fragancia masculina con notas de lavanda, limón y vainilla, perfecta para el hombre que busca un aroma innovador y enérgico."
-  },
-  {
-    "id": 163,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Phantom Parfum",
-    "Description": "PHANTOM PARFUM 100ML",
-    "Type": "PAR",
-    "Volumen": ["100", "200"],
-    "Price": [127, 150],
-    "Gender": "Male",
-    "Information": "Intensifica tu esencia con Phantom Parfum de Paco Rabanne. Un perfume masculino con notas de lavanda, limón y vetiver, diseñado para el hombre que quiere un aroma profundo y futurista."
-  },
-  {
-    "id": 164,
-    "GroupBrand": "Paco Rabanne",
-    "ProductLine": "Pure XS",
-    "Description": "PURE XS EDT 100ML REPACK 3",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [109],
-    "Gender": "Male",
-    "Information": "Vive la intensidad con Pure XS de Paco Rabanne. Una fragancia masculina con notas de jengibre, vainilla y mirra que evoca una sensualidad audaz y electrizante. Una esencia que despierta los sentidos y la intensidad de la vida."
-  },
-  {
-    "id": 165,
-    "GroupBrand": "Paris Hilton",
-    "ProductLine": "CanCan",
-    "Description": "CanCan 100ml edp spray vaporisateur",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [35],
-    "Gender": "Female",
-    "Information": "Baila con el encanto de CanCan de Paris Hilton. Una fragancia femenina con notas de nectarina, flor de azahar y ámbar, perfecta para la mujer que busca un aroma vibrante y divertido."
-  },
-  {
-    "id": 166,
-    "GroupBrand": "Paris Hilton",
-    "ProductLine": "CanCan Burlesque",
-    "Description": "CanCan Burlesque 100ml edp spray vaporisateur",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [44],
-    "Gender": "Female",
-    "Information": "Seduce con CanCan Burlesque de Paris Hilton. Un perfume femenino con notas de grosella negra, nectarina y vainilla, ideal para la mujer que quiere un toque de glamour y sensualidad."
-  },
-  {
-    "id": 167,
-    "GroupBrand": "Paris Hilton",
-    "ProductLine": "Just Me",
-    "Description": "Just Me 100ml edp spray vaporisateur",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Sé auténtica con Just Me de Paris Hilton. Una fragancia femenina con notas de frambuesa, fresia y almizcle, perfecta para la mujer que busca un aroma fresco y personal."
-  },
-  {
-    "id": 168,
-    "GroupBrand": "Paris Hilton",
-    "ProductLine": "Paris Hilton",
-    "Description": "Paris Hilton 100ml edp spray vaporisateur",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Vive el lujo con Paris Hilton. Un perfume femenino con notas de manzana, melocotón y almizcle, ideal para la mujer que busca un toque de elegancia y estilo."
-  },
-  {
-    "id": 169,
-    "GroupBrand": "Paris Hilton",
-    "ProductLine": "With Love",
-    "Description": "With Love 100ml edp spray vaporisateur",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [25],
-    "Gender": "Female",
-    "Information": "Siente el romance con With Love de Paris Hilton. Una fragancia femenina con notas de kiwi, orquídea y madera, perfecta para la mujer que busca un aroma dulce y encantador."
-  },
-  {
-    "id": 170,
-    "GroupBrand": "Shakira",
-    "ProductLine": "Dance",
-    "Description": "SKR DANCE EDT 80ML VAP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Baila con la energía de Dance de Shakira. Un perfume femenino con notas de bergamota, neroli y vainilla, ideal para la mujer que busca un aroma vibrante y seductor."
-  },
-  {
-    "id": 171,
-    "GroupBrand": "Shakira",
-    "ProductLine": "Dance Diamonds",
-    "Description": "SKR DANCE DIAMONDS EDT 80ML VP",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Brilla con Dance Diamonds de Shakira. Una fragancia femenina con notas de bergamota, rosa y almizcle, perfecta para la mujer que quiere un toque de luminosidad y encanto."
-  },
-  {
-    "id": 172,
-    "GroupBrand": "Shakira",
-    "ProductLine": "Dance Midnight",
-    "Description": "SKR DANCE MIDNIGHT EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [31],
-    "Gender": "Female",
-    "Information": "Despierta tus sentidos con Dance Midnight de Shakira. Un perfume femenino con notas de ciruela, heliotropo y vainilla, ideal para la mujer que busca un aroma misterioso y seductor."
-  },
-  {
-    "id": 173,
-    "GroupBrand": "Shakira",
-    "ProductLine": "Dance Midnight Muse",
-    "Description": "SKR DANCE MIDNIGHT RE 2022 EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [30],
-    "Gender": "Female",
-    "Information": "Sé la musa con Dance Midnight Muse de Shakira. Una fragancia femenina con notas de cereza, jazmín y sándalo, perfecta para la mujer que quiere un aroma inspirador y atractivo."
-  },
-  {
-    "id": 174,
-    "GroupBrand": "Shakira",
-    "ProductLine": "Rojo",
-    "Description": "SKR ROJO EDP 80ML - SHK New Pìllar 2023",
-    "Type": "EDP",
-    "Volumen": ["80"],
-    "Price": [35],
-    "Gender": "Female",
-    "Information": "Luce apasionada con Rojo de Shakira. Un perfume femenino con notas de frutas rojas, flores y un toque de vainilla, ideal para la mujer que busca un aroma intenso y vibrante."
-  },
-  {
-    "id": 175,
-    "GroupBrand": "Shakira",
-    "ProductLine": "Dream",
-    "Description": "SKR DREAM EDT 80ML",
-    "Type": "EDT",
-    "Volumen": ["80"],
-    "Price": [30],
-    "Gender": "Female",
-    "Information": "Vive tus sueños con Dream de Shakira. Una fragancia femenina con notas de frutas exóticas, flores y almizcle, perfecta para la mujer que busca un aroma inspirador y dulce."
-  },
-  {
-    "id": 176,
-    "GroupBrand": "Ted Lapidus",
-    "ProductLine": "Lapidus Pour Homme",
-    "Description": "Lapidus Pour Homme Edt Vaporisateur - Natural Spray. Parfum Ted Lapidus Paris. 100ml",
-    "Type": "EDT",
-    "Volumen": ["100"],
-    "Price": [40],
-    "Gender": "Male",
-    "Information": "Destaca con Lapidus Pour Homme de Ted Lapidus. Un perfume masculino con notas de piña, lavanda y cedro, ideal para el hombre que busca un aroma clásico y potente."
-  },
-  {
-    "id": 177,
-    "GroupBrand": "Territoire",
-    "ProductLine": "Territoire Sport",
-    "Description": "Territoire Sport Edp Vaporisateur Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [30],
-    "Gender": "Male",
-    "Information": "Siente la energía con Territoire Sport. Un perfume masculino con notas de cítricos, menta y madera, perfecto para el hombre activo y dinámico"
-  },
-  {
-    "id": 178,
-    "GroupBrand": "Territoire",
-    "ProductLine": "Territoire Metal Pour Home",
-    "Description": "Territoire Metal Pour Home Eau de Parfum Vaporisateur Natural Spray 100ml",
-    "Type": "EDP",
-    "Volumen": ["100"],
-    "Price": [30],
-    "Gender": "Male",
-    "Information": "Muestra tu fuerza con Territoire Metal Pour Homme. Una fragancia masculina con notas de especias, cuero y madera, ideal para el hombre que quiere un aroma robusto y moderno."
-  },
-  {
-    "id": 179,
-    "GroupBrand": "Versace",
-    "ProductLine": "Red Jeans Woman",
-    "Description": "Red Jeans Woman edt Natural Spray 75ml",
-    "Type": "EDT",
-    "Volumen": ["75"],
-    "Price": [30],
-    "Gender": "Female",
-    "Information": "Despierta tu espíritu joven con Red Jeans Woman de Versace. Un perfume femenino con notas de fresia, jazmín y vainilla, perfecto para la mujer que busca un aroma alegre y fresco."
-  }
+    {
+        "id": 0,
+        "GroupBrand": "Adidas",
+        "ProductLine": "Dynamic Pulse",
+        "Description": "Dynamic Pulse 100 ML edt Natural Spray/ Vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            14
+        ],
+        "Gender": "Male",
+        "Information": "Siente la energía y frescura con Dynamic Pulse de Adidas. Un perfume vibrante con notas cítricas y amaderadas, perfecto para los hombres activos y dinámicos.",
+        "pathCero": "/Assets/perfumes/Dynamic Pulse-0.png",
+        "pathUno": "/Assets/perfumes/Dynamic Pulse-1.png"
+    },
+    {
+        "id": 1,
+        "GroupBrand": "Adidas",
+        "ProductLine": "Get Ready!",
+        "Description": "Get Ready! Edt 100ml Natural Spray / Vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            14
+        ],
+        "Gender": "Male",
+        "Information": "Prepárate para cualquier aventura con Get Ready! de Adidas. Esta fragancia deportiva mezcla notas frutales y acuáticas, ideal para los que buscan un aroma refrescante y estimulante.",
+        "pathCero": "/Assets/perfumes/Get Ready-0.png",
+        "pathUno": "/Assets/perfumes/Get Ready-1.png"
+    },
+    {
+        "id": 2,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Blue Seduction",
+        "Description": "AB BLUE EDT 100ML VAP C/20UD",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male",
+        "Information": "Sumérgete en la seducción del océano con Blue Seduction de Antonio Banderas. Un perfume masculino con notas de bergamota, melón y madera de cedro, que evocan frescura y magnetismo.",
+        "pathCero": "/Assets/perfumes/Blue Seduction-0.png",
+        "pathUno": "/Assets/perfumes/Blue Seduction-1.png"
+    },
+    {
+        "id": 3,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Blue Seduction Woman",
+        "Description": "AB BSW EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80",
+            "200"
+        ],
+        "Price": [
+            31,
+            35
+        ],
+        "Gender": "Female",
+        "Information": "Descubre la frescura y sensualidad con Blue Seduction Woman de Antonio Banderas. Una fragancia femenina con notas acuáticas, frutas exóticas y un toque de almizcle.",
+        "pathCero": "/Assets/perfumes/Blue Seduction Woman-0.png",
+        "pathUno": "/Assets/perfumes/Blue Seduction Woman-1.png"
+    },
+    {
+        "id": 4,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Golden Secret",
+        "Description": "AB GOLDEN SEC EDT 200ML PRECIO SEDUCCION",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            31,
+            43
+        ],
+        "Gender": "Male",
+        "Information": "Desvela el misterio del lujo con Golden Secret de Antonio Banderas. Una fragancia para hombres con notas de cuero, especias y ámbar, que evoca sofisticación y poder.",
+        "pathCero": "/Assets/perfumes/Golden Secret-0.png",
+        "pathUno": "/Assets/perfumes/Golden Secret-1.png"
+    },
+    {
+        "id": 5,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Her Golden Secret",
+        "Description": "AB HER GOLDEN S NEW EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Encanta con el toque dorado de Her Golden Secret. Esta fragancia femenina combina notas de bergamota, gardenia y vainilla, creando una estela irresistible de elegancia.",
+        "pathCero": "/Assets/perfumes/Her Golden Secret-0.png",
+        "pathUno": "/Assets/perfumes/Her Golden Secret-1.png"
+    },
+    {
+        "id": 6,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Her Secret Desire",
+        "Description": "AB HER SECRET DESIRE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female",
+        "Information": "Sumérgete en tus deseos con Her Secret Desire. Un perfume femenino con notas de frambuesa, jazmín y sándalo, que despiertan la sensualidad y el misterio.",
+        "pathCero": "/Assets/perfumes/Her Secret Desire-0.png",
+        "pathUno": "/Assets/perfumes/Her Secret Desire-1.png"
+    },
+    {
+        "id": 7,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Her Secret Temptation",
+        "Description": "AB HER SCRT TEMPTATION EDT 80ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Ríndete a la tentación con Her Secret Temptation. Una fragancia femenina con notas de pimienta rosa, rosa y pachulí, que envuelve en un aura de provocación y encanto.",
+        "pathCero": "/Assets/perfumes/Her Secret Temptation-0.png",
+        "pathUno": "/Assets/perfumes/Her Secret Temptation-1.png"
+    },
+    {
+        "id": 8,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "King of Seduction",
+        "Description": "KING OF SEDUCTION 100ML EDT",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            23,
+            30,
+            35
+        ],
+        "Gender": "Male",
+        "Information": "Sé el rey de la seducción con King of Seduction. Un perfume masculino con notas de bergamota, manzana verde y ámbar, ideal para el hombre moderno y seductor.",
+        "pathCero": "/Assets/perfumes/King of Seduction-0.png",
+        "pathUno": "/Assets/perfumes/King of Seduction-1.png"
+    },
+    {
+        "id": 9,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "King of Seduction Absolute",
+        "Description": "AB KOS ABSOLUTE EDT 50ML VAPO",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            23,
+            31
+        ],
+        "Gender": "Male",
+        "Information": "Lleva la seducción al extremo con King of Seduction Absolute. Una fragancia intensa con notas de pomelo, cardamomo y vetiver, perfecta para el hombre audaz y carismático.",
+        "pathCero": "/Assets/perfumes/King of Seduction Absolute-0.png",
+        "pathUno": "/Assets/perfumes/King of Seduction Absolute-1.png"
+    },
+    {
+        "id": 10,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Power of Seduction",
+        "Description": "AB POWER OF SEDUCTION  100ML EDT",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            31,
+            35
+        ],
+        "Gender": "Male",
+        "Information": "Descubre el poder de la seducción con Power of Seduction. Un perfume vibrante con notas de bergamota, lavanda y musgo de roble, diseñado para el hombre aventurero y seguro.",
+        "pathCero": "/Assets/perfumes/Power of Seduction-0.png",
+        "pathUno": "/Assets/perfumes/Power of Seduction-1.png"
+    },
+    {
+        "id": 11,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Queen of Seduction",
+        "Description": "AB QUEEN EDT 80ML VP 20",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Reina de la seducción con Queen of Seduction. Una fragancia femenina con notas de frambuesa, jazmín y cedro, que destaca por su elegancia y sofisticación.",
+        "pathCero": "/Assets/perfumes/Queen of Seduction-0.png",
+        "pathUno": "/Assets/perfumes/Queen of Seduction-1.png"
+    },
+    {
+        "id": 12,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "Seduction In Black",
+        "Description": "AB BLACK  EDT 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            31,
+            35
+        ],
+        "Gender": "Male",
+        "Information": "Domina la noche con Seduction In Black. Un perfume masculino con notas de grosella negra, nuez moscada y cuero, que emana misterio y atracción.",
+        "pathCero": "/Assets/perfumes/Seduction In Black-0.png",
+        "pathUno": "/Assets/perfumes/Seduction In Black-1.png"
+    },
+    {
+        "id": 13,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon",
+        "Description": "AB THE ICON EDT 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            34,
+            44
+        ],
+        "Gender": "Male",
+        "Information": "Conviértete en un icono con The Icon de Antonio Banderas. Una fragancia masculina con notas de cítricos, lavanda y vetiver, que personifica estilo y elegancia.",
+        "pathCero": "/Assets/perfumes/The Icon-0.png",
+        "pathUno": "/Assets/perfumes/The Icon-1.png"
+    },
+    {
+        "id": 14,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon Elixir",
+        "Description": "AB THE ICON ELIXIR EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            39
+        ],
+        "Gender": "Male",
+        "Information": "Descubre el elixir de la sofisticación con The Icon Elixir. Un perfume masculino que mezcla cítricos, especias y madera, perfecto para el hombre elegante y seguro.",
+        "pathCero": "/Assets/perfumes/The Icon Elixir-0.png",
+        "pathUno": "/Assets/perfumes/The Icon Elixir-1.png"
+    },
+    {
+        "id": 15,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon The Perfume",
+        "Description": "AB THE ICON EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            37
+        ],
+        "Gender": "Male",
+        "Information": "Siente la esencia del éxito con The Icon The Perfume. Una fragancia masculina con notas de pomelo, especias y madera de cedro, diseñada para el hombre moderno y distinguido.",
+        "pathCero": "/Assets/perfumes/The Icon The Perfume-0.png",
+        "pathUno": "/Assets/perfumes/The Icon The Perfume-1.png"
+    },
+    {
+        "id": 16,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Icon Woman",
+        "Description": "AB THE ICON FEM EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            37
+        ],
+        "Gender": "Female",
+        "Information": "Deslumbra con The Icon Woman. Un perfume femenino que combina notas florales, frutales y amaderadas, creando una fragancia única y sofisticada para la mujer contemporánea.",
+        "pathCero": "/Assets/perfumes/The Icon Woman-0.png",
+        "pathUno": "/Assets/perfumes/The Icon Woman-1.png"
+    },
+    {
+        "id": 17,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Secret",
+        "Description": "SECRET EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            23,
+            31,
+            43
+        ],
+        "Gender": "Male",
+        "Information": "Descubre el secreto del encanto con The Secret de Antonio Banderas. Una fragancia masculina con notas de menta, pimienta y cuero, ideal para el hombre intrigante y seguro.",
+        "pathCero": "/Assets/perfumes/The Secret-0.png",
+        "pathUno": "/Assets/perfumes/The Secret-1.png"
+    },
+    {
+        "id": 18,
+        "GroupBrand": "Antonio Banderas",
+        "ProductLine": "The Secret Temptation",
+        "Description": "AB THE SCRT TEMPTATION EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male",
+        "Information": "Ríndete a la tentación con The Secret Temptation. Un perfume masculino con notas de bergamota, cardamomo y vainilla, que envuelve en un halo de seducción y misterio.",
+        "pathCero": "/Assets/perfumes/The Secret Temptation-0.png",
+        "pathUno": "/Assets/perfumes/The Secret Temptation-1.png"
+    },
+    {
+        "id": 19,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Colors Blue Man",
+        "Description": "BNT COLORS MAN BLUE EDT 100ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male",
+        "Information": "Expresa tu libertad con Colors Blue Man de Benetton. Una fragancia fresca con notas cítricas y acuáticas, ideal para el hombre moderno y dinámico.",
+        "pathCero": "/Assets/perfumes/Colors Blue Man-0.png",
+        "pathUno": "/Assets/perfumes/Colors Blue Man-1.png"
+    },
+    {
+        "id": 20,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Colors Green Man",
+        "Description": "BNT COLORS MAN GREEN EDT 100ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male",
+        "Information": "Energízate con Colors Green Man de Benetton. Un perfume vibrante con notas verdes y especiadas, perfecto para el hombre activo y aventurero.",
+        "pathCero": "/Assets/perfumes/Colors Green Man-0.png",
+        "pathUno": "/Assets/perfumes/Colors Green Man-1.png"
+    },
+    {
+        "id": 21,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Blue Neroli",
+        "Description": "BNT SISTERLAND BLUE NEROLI EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female",
+        "Information": "Descubre la frescura de Blue Neroli de Benetton Sisterland. Un perfume femenino con notas de neroli, flor de azahar y almizcle, que evocan un aroma fresco y floral.",
+        "pathCero": "/Assets/perfumes/Sisterland Blue Neroli-0.png",
+        "pathUno": "/Assets/perfumes/Sisterland Blue Neroli-1.png"
+    },
+    {
+        "id": 22,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Pingook Raspberry",
+        "Description": "BNT SISTERLAND PINK RASPBERRY EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female",
+        "Information": "Endúlzate con Pink Raspberry de Benetton Sisterland. Una fragancia femenina con notas de frambuesa, jazmín y vainilla, ideal para las mujeres que buscan un aroma dulce y encantador.",
+        "pathCero": "/Assets/perfumes/Sisterland Pingook Raspberry-0.png",
+        "pathUno": "/Assets/perfumes/Sisterland Pingook Raspberry-1.png"
+    },
+    {
+        "id": 23,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Red Rosé",
+        "Description": "BNT SISTERLAND RED ROSE EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female",
+        "Information": "Romántica y vibrante, Red Rosé de Benetton Sisterland combina notas de rosas, frutas rojas y almizcle, creando una fragancia femenina y seductora.",
+        "pathCero": "/Assets/perfumes/Sisterland Red Rosé-0.png",
+        "pathUno": "/Assets/perfumes/Sisterland Red Rosé-1.png"
+    },
+    {
+        "id": 24,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Sisterland Green Jasmine",
+        "Description": "BNT SISTERLAND GREEN JASMINE EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Female",
+        "Information": "Sumérgete en la frescura con Green Jasmine de Benetton Sisterland. Un perfume femenino que mezcla notas de jazmín, cítricos y almizcle, perfecto para cualquier ocasión.",
+        "pathCero": "/Assets/perfumes/Sisterland Green Jasmine-0.png",
+        "pathUno": "/Assets/perfumes/Sisterland Green Jasmine-1.png"
+    },
+    {
+        "id": 25,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribe",
+        "Description": "BNT TRIBE EDT 90ML",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Male",
+        "Information": "Revive los 90s con Tribe de Benetton. Una fragancia juvenil y enérgica con notas de frutas cítricas, flores blancas y un toque de almizcle.",
+        "pathCero": "/Assets/perfumes/Tribe-0.png",
+        "pathUno": "/Assets/perfumes/Tribe-1.png"
+    },
+    {
+        "id": 26,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribe Cool",
+        "Description": "BNT TRIBE RE24 EDT 90ML",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            34
+        ],
+        "Gender": "Male",
+        "Information": "Mantente fresco y moderno con Tribe Cool de Benetton. Un perfume vibrante con notas acuáticas, frutales y un toque de ámbar, ideal para cualquier ocasión.",
+        "pathCero": "/Assets/perfumes/Tribe Cool-0.png",
+        "pathUno": "/Assets/perfumes/Tribe Cool-1.png"
+    },
+    {
+        "id": 27,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribe RE23",
+        "Description": "BNT TRIBE RE EDP 90ML",
+        "Type": "EDP",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            37
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la reinvención de un clásico con Tribe RE23 de Benetton. Una fragancia con notas cítricas, flores exóticas y almizcle, perfecta para el espíritu libre y aventurero.",
+        "pathCero": "/Assets/perfumes/Tribe RE23-0.png",
+        "pathUno": "/Assets/perfumes/Tribe RE23-1.png"
+    },
+    {
+        "id": 28,
+        "GroupBrand": "Benetton",
+        "ProductLine": "United Dreams Aim High",
+        "Description": "UD AIM HIGH EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Male",
+        "Information": "Alcanza tus sueños con United Dreams Aim High. Un perfume masculino con notas cítricas, maderas y un toque de almizcle, diseñado para el hombre ambicioso y decidido.",
+        "pathCero": "/Assets/perfumes/United Dreams Aim High-0.png",
+        "pathUno": "/Assets/perfumes/United Dreams Aim High-1.png"
+    },
+    {
+        "id": 29,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Colors",
+        "Description": "Benetton Colors edt Natural Spray Man 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            45
+        ],
+        "Gender": "Male",
+        "Information": "Explora la diversidad con Colors de Benetton. Una fragancia vibrante con notas frutales, florales y un toque de almizcle, ideal para los que aman la vida colorida.",
+        "pathCero": "/Assets/perfumes/Colors-0.png",
+        "pathUno": "/Assets/perfumes/Colors-1.png"
+    },
+    {
+        "id": 30,
+        "GroupBrand": "Benetton",
+        "ProductLine": "Tribù",
+        "Description": "United Colors Tribù 100ml Edt Spray Vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            38
+        ],
+        "Gender": "Male",
+        "Information": "Sé único con Tribù de Benetton. Un perfume con notas de cítricos, flores y un toque de especias, perfecto para aquellos que buscan destacar con un aroma distintivo.",
+        "pathCero": "/Assets/perfumes/Tribù-0.png",
+        "pathUno": "/Assets/perfumes/Tribù-1.png"
+    },
+    {
+        "id": 31,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Believe",
+        "Description": "Believe Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female",
+        "Information": "Cree en la magia con Believe de Britney Spears. Una fragancia femenina con notas de frutas exóticas, flores y un toque de almizcle, ideal para las soñadoras y optimistas.",
+        "pathCero": "/Assets/perfumes/Believe-0.png",
+        "pathUno": "/Assets/perfumes/Believe-1.png"
+    },
+    {
+        "id": 32,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Hidden Fantasy",
+        "Description": "Hidden Fantasy Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female",
+        "Information": "Descubre tus fantasías ocultas con Hidden Fantasy. Un perfume femenino con notas de vainilla, especias y flores, que evocan un aroma dulce y sensual.",
+        "pathCero": "/Assets/perfumes/Hidden Fantasy-0.png",
+        "pathUno": "/Assets/perfumes/Hidden Fantasy-1.png"
+    },
+    {
+        "id": 33,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Circus Fantasy",
+        "Description": "Circus Fantasy Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female",
+        "Information": "Entra al mundo del circo con Circus Fantasy. Una fragancia divertida y juvenil con notas de frutas rojas, flores y un toque de almizcle, perfecta para las más atrevidas.",
+        "pathCero": "/Assets/perfumes/Circus Fantasy-0.png",
+        "pathUno": "/Assets/perfumes/Circus Fantasy-1.png"
+    },
+    {
+        "id": 34,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Fantasy",
+        "Description": "Fantasy Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            40
+        ],
+        "Gender": "Female",
+        "Information": "Sumérgete en un mundo de fantasía con Fantasy de Britney Spears. Un perfume dulce y seductor con notas de lichis, kiwi, chocolate blanco y orquídea.",
+        "pathCero": "/Assets/perfumes/Fantasy-0.png",
+        "pathUno": "/Assets/perfumes/Fantasy-1.png"
+    },
+    {
+        "id": 35,
+        "GroupBrand": "Britney Spears",
+        "ProductLine": "Cosmic Radiance",
+        "Description": "Cosmic Radiance Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female",
+        "Information": "Brilla con Cosmic Radiance de Britney Spears. Una fragancia femenina con notas de cítricos, peonía y ámbar, que envuelven en un aura de luminosidad y encanto.",
+        "pathCero": "/Assets/perfumes/Cosmic Radiance-0.png",
+        "pathUno": "/Assets/perfumes/Cosmic Radiance-1.png"
+    },
+    {
+        "id": 36,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 NYC",
+        "Description": "212 NYC EDT NS 30+30 ML 16",
+        "Type": "EDT",
+        "Volumen": [
+            "30",
+            "50"
+        ],
+        "Price": [
+            102,
+            127
+        ],
+        "Gender": "Female",
+        "Information": "Siente la esencia de Nueva York con 212 NYC de Carolina Herrera. Un perfume urbano y sofisticado con notas cítricas, florales y amaderadas, ideal para la mujer moderna.",
+        "pathCero": "/Assets/perfumes/212 NYC-0.png",
+        "pathUno": "/Assets/perfumes/212 NYC-1.png"
+    },
+    {
+        "id": 37,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Heroe for Her 22",
+        "Description": "212 HEROES FOR HER EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            129
+        ],
+        "Gender": "Female",
+        "Information": "Descubre la heroína en ti con 212 Heroe for Her 22. Una fragancia femenina con notas de cítricos, flores blancas y almizcle, perfecta para la mujer audaz y decidida.",
+        "pathCero": "/Assets/perfumes/212 Heroe for Her 22-0.png",
+        "pathUno": "/Assets/perfumes/212 Heroe for Her 22-1.png"
+    },
+    {
+        "id": 38,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Heroes Men",
+        "Description": "212 HEROES EDT MEN LE 24 90ML",
+        "Type": "EDT",
+        "Volumen": [
+            "90",
+            "150"
+        ],
+        "Price": [
+            106,
+            126
+        ],
+        "Gender": "Male",
+        "Information": "Celebra el espíritu rebelde con 212 Heroes Men. Un perfume masculino con notas de frutas, especias y un toque amaderado, ideal para el hombre aventurero y moderno.",
+        "pathCero": "/Assets/perfumes/212 Heroes Men-0.png",
+        "pathUno": "/Assets/perfumes/212 Heroes Men-1.png"
+    },
+    {
+        "id": 39,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 NYC Men",
+        "Description": "212 MEN EDT 50ML 16",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            139
+        ],
+        "Gender": "Male",
+        "Information": "Siente la vibra de la gran ciudad con 212 NYC Men. Un perfume masculino con notas de cítricos, especias y maderas, que evocan el dinamismo y la energía de Nueva York.",
+        "pathCero": "/Assets/perfumes/212 NYC Men-0.png",
+        "pathUno": "/Assets/perfumes/212 NYC Men-1.png"
+    },
+    {
+        "id": 40,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Sexy",
+        "Description": "212 SEXY EDP NS 30+30 ML 16",
+        "Type": "EDP",
+        "Volumen": [
+            "30",
+            "50"
+        ],
+        "Price": [
+            102,
+            127
+        ],
+        "Gender": "Female",
+        "Information": "Despierta la sensualidad con 212 Sexy de Carolina Herrera. Una fragancia femenina con notas de mandarina, gardenia y sándalo, perfecta para la mujer que quiere dejar una impresión duradera.",
+        "pathCero": "/Assets/perfumes/212 Sexy-0.png",
+        "pathUno": "/Assets/perfumes/212 Sexy-1.png"
+    },
+    {
+        "id": 41,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Sexy Men",
+        "Description": "212 SEXY MEN EDT NS 50ML 16",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            86,
+            109
+        ],
+        "Gender": "Male",
+        "Information": "Irradia atractivo con 212 Sexy Men. Un perfume masculino con notas de bergamota, cardamomo y vainilla, diseñado para el hombre encantador y seguro de sí mismo.",
+        "pathCero": "/Assets/perfumes/212 Sexy Men-0.png",
+        "pathUno": "/Assets/perfumes/212 Sexy Men-1.png"
+    },
+    {
+        "id": 42,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 VIP",
+        "Description": "212 VIP EDP NS 125ML",
+        "Type": "EDP",
+        "Volumen": [
+            "30",
+            "50",
+            "80",
+            "125"
+        ],
+        "Price": [
+            66,
+            102,
+            127,
+            158
+        ],
+        "Gender": "Female",
+        "Information": "Sé el alma de la fiesta con 212 VIP de Carolina Herrera. Un perfume femenino con notas de maracuyá, ron y almizcle, que captura la exclusividad y el glamour de la vida nocturna.",
+        "pathCero": "/Assets/perfumes/212 VIP-0.png",
+        "pathUno": "/Assets/perfumes/212 VIP-1.png"
+    },
+    {
+        "id": 43,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 VIP Men",
+        "Description": "212 VIP MEN EDT NS 50ML REPACK",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            139
+        ],
+        "Gender": "Male",
+        "Information": "Destaca entre la multitud con 212 VIP Men. Una fragancia masculina con notas de caviar, lima y cuero, ideal para el hombre sofisticado y social.",
+        "pathCero": "/Assets/perfumes/212 VIP Men-0.png",
+        "pathUno": "/Assets/perfumes/212 VIP Men-1.png"
+    },
+    {
+        "id": 44,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Vip Men Black",
+        "Description": "212 VIP BLACK EDP LE 24 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            114,
+            144
+        ],
+        "Gender": "Male",
+        "Information": "Atrévete con 212 VIP Men Black. Un perfume masculino con notas de absenta, lavanda y cuero, que evoca misterio y seducción.",
+        "pathCero": "/Assets/perfumes/212 Vip Men Black-0.png",
+        "pathUno": "/Assets/perfumes/212 Vip Men Black-1.png"
+    },
+    {
+        "id": 45,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "212 Vip Rosé",
+        "Description": "212 VIP ROSÉ EDP NS 50ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80",
+            "125"
+        ],
+        "Price": [
+            102,
+            127,
+            158
+        ],
+        "Gender": "Female",
+        "Information": "Brilla con 212 VIP Rosé. Una fragancia femenina con notas de champán rosé, melocotón y almizcle blanco, perfecta para la mujer elegante y chic.",
+        "pathCero": "/Assets/perfumes/212 Vip Rosé-0.png",
+        "pathUno": "/Assets/perfumes/212 Vip Rosé-1.png"
+    },
+    {
+        "id": 46,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy",
+        "Description": "BAD BOY EDT 150ML REFILLABLE",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "150"
+        ],
+        "Price": [
+            114,
+            142
+        ],
+        "Gender": "Male",
+        "Information": "Explora tu lado rebelde con Bad Boy de Carolina Herrera. Un perfume masculino con notas de bergamota, pimienta y cacao, ideal para el hombre audaz y seguro.",
+        "pathCero": "/Assets/perfumes/Bad Boy-0.png",
+        "pathUno": "/Assets/perfumes/Bad Boy-1.png"
+    },
+    {
+        "id": 47,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Power Spray",
+        "Description": "BAD BOY POWER SPRAY 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            91
+        ],
+        "Gender": "Male",
+        "Information": "Intensifica tu carisma con Bad Boy Power Spray. Una fragancia masculina con notas de pomelo, pimienta negra y vetiver, diseñada para los hombres dinámicos y decididos.",
+        "pathCero": "/Assets/perfumes/Bad Boy Power Spray-0.png",
+        "pathUno": "/Assets/perfumes/Bad Boy Power Spray-1.png"
+    },
+    {
+        "id": 48,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Cobalt",
+        "Description": "BAD BOY COBALT EDP 150ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "150"
+        ],
+        "Price": [
+            119,
+            149
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la intensidad de Bad Boy Cobalt. Un perfume masculino con notas de pimienta rosada, cuero y vetiver, que evoca fuerza y sofisticación.",
+        "pathCero": "/Assets/perfumes/Bad Boy Cobalt-0.png",
+        "pathUno": "/Assets/perfumes/Bad Boy Cobalt-1.png"
+    },
+    {
+        "id": 49,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Extreme",
+        "Description": "BAD BOY EXTREME EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Male",
+        "Information": "Lleva la rebeldía al máximo con Bad Boy Extreme. Una fragancia masculina con notas de limón, cacao y cuero, perfecta para el hombre atrevido y carismático.",
+        "pathCero": "/Assets/perfumes/Bad Boy Extreme-0.png",
+        "pathUno": "/Assets/perfumes/Bad Boy Extreme-1.png"
+    },
+    {
+        "id": 50,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Bad Boy Le Parfum",
+        "Description": "BAD BOY LE PARFUM EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "150"
+        ],
+        "Price": [
+            121,
+            152
+        ],
+        "Gender": "Male",
+        "Information": "Experiencia pura con Bad Boy Le Parfum. Un perfume masculino con notas de cannabis, cuero y pomelo, ideal para aquellos que buscan un aroma distintivo y audaz.",
+        "pathCero": "/Assets/perfumes/Bad Boy Le Parfum-0.png",
+        "pathUno": "/Assets/perfumes/Bad Boy Le Parfum-1.png"
+    },
+    {
+        "id": 51,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "CH Men",
+        "Description": "CHT MEN EDT NS 50ML",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            87,
+            116,
+            153
+        ],
+        "Gender": "Male",
+        "Information": "Sé irresistible con CH Men de Carolina Herrera. Una fragancia masculina con notas de mandarina, azafrán y vetiver, que combina elegancia y pasión.",
+        "pathCero": "/Assets/perfumes/CH Men-0.png",
+        "pathUno": "/Assets/perfumes/CH Men-1.png"
+    },
+    {
+        "id": 52,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "CH Men Pasión",
+        "Description": "CHT MEN PASIÓN RE23 EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            116
+        ],
+        "Gender": "Male",
+        "Information": "Vive con pasión con CH Men Pasión. Un perfume masculino que mezcla notas de jengibre, pachulí y cuero, diseñado para el hombre apasionado y sofisticado.",
+        "pathCero": "/Assets/perfumes/CH Men Pasión-0.png",
+        "pathUno": "/Assets/perfumes/CH Men Pasión-1.png"
+    },
+    {
+        "id": 53,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "CHT",
+        "Description": "CHT EDT NS 50ML",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            109,
+            130
+        ],
+        "Gender": "Male",
+        "Information": "Descubre el lujo atemporal con CHT. Una fragancia masculina con notas de cítricos, especias y maderas preciosas, ideal para el hombre que valora la elegancia clásica.",
+        "pathCero": "/Assets/perfumes/CHT-0.png",
+        "pathUno": "/Assets/perfumes/CHT-1.png"
+    },
+    {
+        "id": 54,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl",
+        "Description": "CH GOODGIRL EDP NS 50ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80",
+            "150"
+        ],
+        "Price": [
+            114,
+            140,
+            196
+        ],
+        "Gender": "Female",
+        "Information": "Sé traviesa y buena con Good Girl de Carolina Herrera. Un perfume femenino con notas de jazmín, cacao y tonka, que capturan la dualidad de la mujer moderna.",
+        "pathCero": "/Assets/perfumes/Good Girl-0.png",
+        "pathUno": "/Assets/perfumes/Good Girl-1.png"
+    },
+    {
+        "id": 55,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl Supreme",
+        "Description": "CH GOOD GIRL EDP SUPRÉME 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            150
+        ],
+        "Gender": "Female",
+        "Information": "Redefine la elegancia con Good Girl Supreme. Una fragancia femenina con notas de frutas del bosque, jazmín egipcio y haba tonka, perfecta para la mujer segura y glamorosa.",
+        "pathCero": "/Assets/perfumes/Good Girl Supreme-0.png",
+        "pathUno": "/Assets/perfumes/Good Girl Supreme-1.png"
+    },
+    {
+        "id": 56,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl Blush",
+        "Description": "GG BLUSH RE23 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            154
+        ],
+        "Gender": "Female",
+        "Information": "Siente la delicadeza con Good Girl Blush. Un perfume femenino que combina notas de peonía, flor de azahar y cacao, ideal para un toque suave y sofisticado.",
+        "pathCero": "/Assets/perfumes/Good Girl Blush-0.png",
+        "pathUno": "/Assets/perfumes/Good Girl Blush-1.png"
+    },
+    {
+        "id": 57,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Good Girl Légère",
+        "Description": "CH GG LÉGÈRE EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            140
+        ],
+        "Gender": "Female",
+        "Information": "Descubre la ligereza de Good Girl Légère. Una fragancia femenina con notas de ylang-ylang, jazmín y dulce de leche, perfecta para la mujer audaz y elegante.",
+        "pathCero": "/Assets/perfumes/Good Girl Légère-0.png",
+        "pathUno": "/Assets/perfumes/Good Girl Légère-1.png"
+    },
+    {
+        "id": 58,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Very Good Girl",
+        "Description": "GG VERY GOOD GIRL EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            153
+        ],
+        "Gender": "Female",
+        "Information": "Sé inolvidable con Very Good Girl. Un perfume femenino con notas de rosa, grosella roja y vetiver, que captura la esencia de la sofisticación moderna.",
+        "pathCero": "/Assets/perfumes/Very Good Girl-0.png",
+        "pathUno": "/Assets/perfumes/Very Good Girl-1.png"
+    },
+    {
+        "id": 59,
+        "GroupBrand": "Carolina Herrera",
+        "ProductLine": "Very Good Girl Glam",
+        "Description": "GG VGG GLAM PARFUM 80ML",
+        "Type": "PAR",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            161
+        ],
+        "Gender": "Female",
+        "Information": "Brilla con Very Good Girl Glam. Una fragancia femenina con notas de cereza amarga, rosa y vainilla, ideal para la mujer que quiere destacar con un toque glamoroso.",
+        "pathCero": "/Assets/perfumes/Very Good Girl Glam-0.png",
+        "pathUno": "/Assets/perfumes/Very Good Girl Glam-1.png"
+    },
+    {
+        "id": 60,
+        "GroupBrand": "Cuba By Parfum Des Champs",
+        "ProductLine": "Bold",
+        "Description": "Bold For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            24
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la audacia con Cuba Bold. Un perfume masculino con notas de tabaco, especias y un toque de cuero, perfecto para el hombre fuerte y decidido.",
+        "pathCero": "/Assets/perfumes/Cuba Bold For Men-0.png",
+        "pathUno": "/Assets/perfumes/Bold-1.png"
+    },
+    {
+        "id": 61,
+        "GroupBrand": "Cuba By Parfum Des Champs",
+        "ProductLine": "Dark",
+        "Description": "Dark For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            24
+        ],
+        "Gender": "Male",
+        "Information": "Sumérgete en la intensidad con Cuba Dark. Una fragancia masculina con notas de tabaco oscuro, ámbar y especias, diseñada para el hombre enigmático y sofisticado.",
+        "pathCero": "/Assets/perfumes/Cuba Dark For Men-0.png",
+        "pathUno": "/Assets/perfumes/Dark-1.png"
+    },
+    {
+        "id": 62,
+        "GroupBrand": "Cuba By Parfum Des Champs",
+        "ProductLine": "Mystic",
+        "Description": "Mystic For WOMEN Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            24
+        ],
+        "Gender": "Female",
+        "Information": "Embárcate en un viaje místico con Cuba Mystic. Un perfume masculino con notas de incienso, especias y madera, ideal para el hombre que busca lo extraordinario.",
+        "pathCero": "/Assets/perfumes/Cuba Mystic For Women-0.png",
+        "pathUno": "/Assets/perfumes/Mystic-1.png"
+    },
+    {
+        "id": 63,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Prestige Classic",
+        "Description": "Prestige Classic Edt For Men 90ml",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male",
+        "Information": "Vive el clásico con Cuba Prestige Classic. Una fragancia masculina con notas de tabaco, lavanda y madera, perfecta para el hombre que aprecia la elegancia atemporal.",
+        "pathCero": "/Assets/perfumes/Prestige Classic-0.png",
+        "pathUno": "/Assets/perfumes/Prestige Classic-1.png"
+    },
+    {
+        "id": 64,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Gold",
+        "Description": "Cuba Gold For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male",
+        "Information": "Luce el oro con Cuba Gold. Un perfume masculino con notas de tabaco, vainilla y especias, ideal para el hombre sofisticado y refinado.",
+        "pathCero": "/Assets/perfumes/Cuba Gold For Men-0.png",
+        "pathUno": "/Assets/perfumes/Cuba Gold-1.png"
+    },
+    {
+        "id": 65,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Blue",
+        "Description": "Cuba Blue For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male",
+        "Information": "Siente la frescura con Cuba Blue. Una fragancia masculina con notas de lavanda, madera y tabaco, diseñada para el hombre dinámico y moderno.",
+        "pathCero": "/Assets/perfumes/Cuba Blue For Men-0.png",
+        "pathUno": "/Assets/perfumes/Cuba Blue-1.png"
+    },
+    {
+        "id": 66,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Hot",
+        "Description": "Cuba Hot For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male",
+        "Information": "Enciende la pasión con Cuba Hot. Un perfume masculino con notas de tabaco, especias cálidas y ámbar, ideal para el hombre ardiente y seguro.",
+        "pathCero": "/Assets/perfumes/Cuba Hot For Men-0.png",
+        "pathUno": "/Assets/perfumes/Cuba Hot-1.png"
+    },
+    {
+        "id": 67,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Signature",
+        "Description": "Cuba Signature For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male",
+        "Information": "Marca tu estilo con Cuba Signature. Una fragancia masculina que mezcla tabaco, madera y un toque de vainilla, perfecta para el hombre que deja huella.",
+        "pathCero": "/Assets/perfumes/Cuba Signature For Men-0.png",
+        "pathUno": "/Assets/perfumes/Cuba Signature-1.png"
+    },
+    {
+        "id": 68,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba Grey",
+        "Description": "Cuba Grey For Men 100ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la elegancia sutil con Cuba Grey. Un perfume masculino con notas de tabaco, ámbar y especias, ideal para el hombre sofisticado y moderno.",
+        "pathCero": "/Assets/perfumes/Cuba Grey For Men-0.png",
+        "pathUno": "/Assets/perfumes/Cuba Grey-1.png"
+    },
+    {
+        "id": 69,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba My Love",
+        "Description": "Cuba My Love For Women 100ml edp Natural Spray",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female",
+        "Information": "Celebra el amor con Cuba My Love. Una fragancia masculina que combina notas de tabaco, flores y especias, perfecta para el hombre romántico y apasionado.",
+        "pathCero": "/Assets/perfumes/Cuba My Love For Women-0.png",
+        "pathUno": "/Assets/perfumes/Cuba My Love-1.png"
+    },
+    {
+        "id": 70,
+        "GroupBrand": "Cuba Original By Parfum Des Champs",
+        "ProductLine": "Cuba La Vida",
+        "Description": "Cuba La Vida For Women 100ml edp Natural Spray",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female",
+        "Information": "Vive intensamente con Cuba La Vida. Un perfume masculino con notas de tabaco, cítricos y especias, ideal para el hombre que vive la vida al máximo.",
+        "pathCero": "/Assets/perfumes/Cuba La Vida For Women-0.png",
+        "pathUno": "/Assets/perfumes/Cuba La Vida-1.png"
+    },
+    {
+        "id": 71,
+        "GroupBrand": "Elizabeth Arden",
+        "ProductLine": "Red Door",
+        "Description": "Elizabeth Arden Red Door Edt spray vaporisateur 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            55
+        ],
+        "Gender": "Female",
+        "Information": "Abre la puerta al lujo con Red Door de Elizabeth Arden. Una fragancia femenina icónica con notas de rosa, orquídea y miel, perfecta para la mujer elegante y sofisticada.",
+        "pathCero": "/Assets/perfumes/Red Door-0.png",
+        "pathUno": "/Assets/perfumes/Red Door-1.png"
+    },
+    {
+        "id": 72,
+        "GroupBrand": "Elizabeth Arden",
+        "ProductLine": "5th avenue",
+        "Description": "Elizabeth Arden 5th avenue 125ml edp Spray Vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "125"
+        ],
+        "Price": [
+            45
+        ],
+        "Gender": "Female",
+        "Information": "Camina por la famosa avenida con 5th Avenue de Elizabeth Arden. Un perfume femenino con notas de lilas, magnolia y ámbar, ideal para la mujer cosmopolita y chic.",
+        "pathCero": "/Assets/perfumes/5th avenue-0.png",
+        "pathUno": "/Assets/perfumes/5th avenue-1.png"
+    },
+    {
+        "id": 73,
+        "GroupBrand": "Fragluxe",
+        "ProductLine": "So cute",
+        "Description": "So cute edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female",
+        "Information": "Siéntete adorable con So Cute de Fragluxe. Una fragancia femenina con notas frutales, florales y un toque de vainilla, perfecta para un encanto juvenil y fresco.",
+        "pathCero": "/Assets/perfumes/So cute-0.png",
+        "pathUno": "/Assets/perfumes/So cute-1.png"
+    },
+    {
+        "id": 74,
+        "GroupBrand": "Fragluxe",
+        "ProductLine": "Sense",
+        "Description": "Sense (For Men) edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female",
+        "Information": "Despierta tus sentidos con Sense de Fragluxe. Un perfume masculino que combina notas de cítricos, flores y almizcle, ideal para un aroma refrescante y vibrante.",
+        "pathCero": "/Assets/perfumes/Sense For Men-0.png",
+        "pathUno": "/Assets/perfumes/Sense-1.png"
+    },
+    {
+        "id": 75,
+        "GroupBrand": "Fragluxe",
+        "ProductLine": "Fancy Girl",
+        "Description": "Fancy Girl edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female",
+        "Information": "Brilla con Fancy Girl de Fragluxe. Una fragancia femenina con notas de frutas exóticas, flores y vainilla, diseñada para la mujer que ama el glamour.",
+        "pathCero": "/Assets/perfumes/Fancy Girl-0.png",
+        "pathUno": "/Assets/perfumes/Fancy Girl-1.png"
+    },
+    {
+        "id": 76,
+        "GroupBrand": "Guess",
+        "ProductLine": "Guess By Marciano",
+        "Description": "Guess By Marciano Edt 100ml edt spray vaporisateur",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            42
+        ],
+        "Gender": "Male",
+        "Information": "Descubre el estilo con Guess By Marciano. Un perfume femenino con notas de carambola, peonía y vainilla, perfecto para la mujer moderna y sofisticada.",
+        "pathCero": "/Assets/perfumes/Guess By Marciano-0.png",
+        "pathUno": "/Assets/perfumes/Guess By Marciano-1.png"
+    },
+    {
+        "id": 77,
+        "GroupBrand": "Guess",
+        "ProductLine": "Guess Man",
+        "Description": "Guess Man Edt Natural Spray/Vaporisateur 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            39
+        ],
+        "Gender": "Male",
+        "Information": "Sé irresistible con Guess Man. Una fragancia masculina con notas de lavanda, ámbar y sándalo, diseñada para el hombre carismático y seguro.",
+        "pathCero": "/Assets/perfumes/Guess Man-0.png",
+        "pathUno": "/Assets/perfumes/Guess Man-1.png"
+    },
+    {
+        "id": 78,
+        "GroupBrand": "Guy Laroche",
+        "ProductLine": "Drakkar Noir",
+        "Description": "Drakkar Noir Edt Vaporisateur Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Male",
+        "Information": "Emana confianza con Drakkar Noir de Guy Laroche. Un perfume masculino clásico con notas de lavanda, cítricos y maderas, ideal para el hombre elegante y seguro.",
+        "pathCero": "/Assets/perfumes/Drakkar Noir-0.png",
+        "pathUno": "/Assets/perfumes/Drakkar Noir-1.png"
+    },
+    {
+        "id": 79,
+        "GroupBrand": "Hugo BOSS",
+        "ProductLine": "Deep Red",
+        "Description": "Deep Red edp 90ml",
+        "Type": "EDP",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            78
+        ],
+        "Gender": "Female",
+        "Information": "Despierta la pasión con Deep Red de Hugo Boss. Una fragancia femenina con notas de clementina, jengibre y sándalo, perfecta para la mujer audaz y seductora.",
+        "pathCero": "/Assets/perfumes/Deep Red-0.png",
+        "pathUno": "/Assets/perfumes/Deep Red-1.png"
+    },
+    {
+        "id": 81,
+        "GroupBrand": "Hugo Boss",
+        "ProductLine": "BOSS Bottled Absolute",
+        "Description": "BOSS Bottled Absolute EDP 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            96
+        ],
+        "Gender": "Male",
+        "Information": "Lleva la elegancia al siguiente nivel con BOSS Bottled Absolute. Una fragancia masculina con notas de manzana, canela y madera, perfecta para cualquier ocasión especial.",
+        "pathCero": "/Assets/perfumes/BOSS Bottled Absolute-0.png",
+        "pathUno": "/Assets/perfumes/BOSS Bottled Absolute-1.png"
+    },
+    {
+        "id": 82,
+        "GroupBrand": "Hugo Boss",
+        "ProductLine": "BOSS Selection",
+        "Description": "BOSS Selection Edt 90ml",
+        "Type": "EDT",
+        "Volumen": [
+            "90"
+        ],
+        "Price": [
+            78
+        ],
+        "Gender": "Male",
+        "Information": "Destaca con BOSS Selection. Un perfume masculino con notas de pomelo, anís y vetiver, ideal para el hombre que busca un aroma distintivo y sofisticado.",
+        "pathCero": "/Assets/perfumes/BOSS Selection-0.png",
+        "pathUno": "/Assets/perfumes/BOSS Selection-1.png"
+    },
+    {
+        "id": 83,
+        "GroupBrand": "Hugo Boss",
+        "ProductLine": "Number One BOSS",
+        "Description": "Number One BOSS Edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            78
+        ],
+        "Gender": "Male",
+        "Information": "Experimenta la excelencia con Number One BOSS. Una fragancia masculina clásica con notas de lavanda, miel y tabaco, perfecta para el hombre distinguido y elegante.",
+        "pathCero": "/Assets/perfumes/Number One BOSS-0.png",
+        "pathUno": "/Assets/perfumes/Number One BOSS-1.png"
+    },
+    {
+        "id": 84,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Classique",
+        "Description": "JPG CL EDT 50ML RPK 2017",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            102,
+            127
+        ],
+        "Gender": "Female",
+        "Information": "Encanta con Classique de Jean Paul Gaultier. Un perfume femenino con notas de flor de naranjo, jengibre y vainilla, diseñado para la mujer sensual y sofisticada.",
+        "pathCero": "/Assets/perfumes/Classique-0.png",
+        "pathUno": "/Assets/perfumes/Classique-1.png"
+    },
+    {
+        "id": 85,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male",
+        "Description": "JPG LM EDT 75ML RPK 17",
+        "Type": "EDT",
+        "Volumen": [
+            "75",
+            "125",
+            "200"
+        ],
+        "Price": [
+            87,
+            111,
+            139
+        ],
+        "Gender": "Male",
+        "Information": "Irradia confianza con Le Male de Jean Paul Gaultier. Una fragancia masculina con notas de menta, lavanda y vainilla, ideal para el hombre seductor y seguro.",
+        "pathCero": "/Assets/perfumes/Le Male-0.png",
+        "pathUno": "/Assets/perfumes/Le Male-1.png"
+    },
+    {
+        "id": 86,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male Ultra",
+        "Description": "JPG LMU EDT 75ML RPK 2017",
+        "Type": "EDT",
+        "Volumen": [
+            "75",
+            "125"
+        ],
+        "Price": [
+            91,
+            116
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la intensidad con Le Male Ultra. Un perfume masculino con notas de bergamota, pera y vainilla, perfecto para el hombre que busca un aroma audaz y distintivo.",
+        "pathCero": "/Assets/perfumes/Le Male Ultra-0.png",
+        "pathUno": "/Assets/perfumes/Le Male Ultra-1.png"
+    },
+    {
+        "id": 87,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "La Belle",
+        "Description": "JPG LA BELLE EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            139
+        ],
+        "Gender": "Female",
+        "Information": "Siéntete irresistible con La Belle de Jean Paul Gaultier. Una fragancia femenina con notas de pera, bergamota y vainilla, ideal para la mujer que quiere dejar una huella duradera.",
+        "pathCero": "/Assets/perfumes/La Belle-0.png",
+        "pathUno": "/Assets/perfumes/La Belle-1.png"
+    },
+    {
+        "id": 88,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "La Belle Le Parfum",
+        "Description": "JPG LA BELLE LP EDP 100ML 2021",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            146
+        ],
+        "Gender": "Female",
+        "Information": "Lleva la seducción al siguiente nivel con La Belle Le Parfum. Un perfume femenino con notas de pera, tonka y vainilla, diseñado para la mujer que busca un aroma profundo y sensual.",
+        "pathCero": "/Assets/perfumes/La Belle Le Parfum-0.png",
+        "pathUno": "/Assets/perfumes/La Belle Le Parfum-1.png"
+    },
+    {
+        "id": 89,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Beau",
+        "Description": "JPG LE BEAU EDT 75ML",
+        "Type": "EDT",
+        "Volumen": [
+            "75",
+            "125"
+        ],
+        "Price": [
+            92,
+            121
+        ],
+        "Gender": "Male",
+        "Information": "Atrévete con Le Beau de Jean Paul Gaultier. Una fragancia masculina con notas de bergamota, coco y haba tonka, ideal para el hombre que busca un aroma fresco y exótico.",
+        "pathCero": "/Assets/perfumes/Le Beau-0.png",
+        "pathUno": "/Assets/perfumes/Le Beau-1.png"
+    },
+    {
+        "id": 90,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Beau Le Parfum",
+        "Description": "JPG LE BEAU LP EDP 75ML",
+        "Type": "EDP",
+        "Volumen": [
+            "75",
+            "125"
+        ],
+        "Price": [
+            101,
+            133
+        ],
+        "Gender": "Male",
+        "Information": "Intensifica tu atractivo con Le Beau Le Parfum. Un perfume masculino con notas de coco, haba tonka y madera, diseñado para el hombre que quiere destacar.",
+        "pathCero": "/Assets/perfumes/Le Beau Le Parfum-0.png",
+        "pathUno": "/Assets/perfumes/Le Beau Le Parfum-1.png"
+    },
+    {
+        "id": 91,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male Le Parfum",
+        "Description": "JPG LM EDP 200ML",
+        "Type": "EDP",
+        "Volumen": [
+            "75",
+            "200",
+            "125"
+        ],
+        "Price": [
+            95,
+            119,
+            148
+        ],
+        "Gender": "Male",
+        "Information": "Experiencia pura con Le Male Le Parfum. Una fragancia masculina con notas de cardamomo, lavanda y vainilla, perfecta para el hombre que busca un aroma distintivo y refinado.",
+        "pathCero": "/Assets/perfumes/Le Male Le Parfum-0.png",
+        "pathUno": "/Assets/perfumes/Le Male Le Parfum-1.png"
+    },
+    {
+        "id": 92,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Le Male Elixir",
+        "Description": "JPG LM ELIXIR 125ML",
+        "Type": "ELX",
+        "Volumen": [
+            "125"
+        ],
+        "Price": [
+            133
+        ],
+        "Gender": "Male",
+        "Information": "Sumérgete en la intensidad con Le Male Elixir. Un perfume masculino con notas de cardamomo, lavanda y vainilla, ideal para el hombre audaz y sofisticado.",
+        "pathCero": "/Assets/perfumes/Le Male Elixir-0.png",
+        "pathUno": "/Assets/perfumes/Le Male Elixir-1.png"
+    },
+    {
+        "id": 93,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Divine",
+        "Description": "JPG DIVINE EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            164
+        ],
+        "Gender": "Female",
+        "Information": "Siente la divinidad con Divine de Jean Paul Gaultier. Una fragancia femenina con notas de flor de naranjo, jengibre y vainilla, diseñada para la mujer que busca un toque celestial.",
+        "pathCero": "/Assets/perfumes/Divine-0.png",
+        "pathUno": "/Assets/perfumes/Divine-1.png"
+    },
+    {
+        "id": 94,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Scandal",
+        "Description": "JPG SCANDAL EDP SPRAY 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            111,
+            138
+        ],
+        "Gender": "Female",
+        "Information": "Rompe las reglas con Scandal de Jean Paul Gaultier. Un perfume femenino con notas de miel, gardenia y pachulí, perfecto para la mujer que quiere causar sensación.",
+        "pathCero": "/Assets/perfumes/Scandal-0.png",
+        "pathUno": "/Assets/perfumes/Scandal-1.png"
+    },
+    {
+        "id": 95,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Scandal Le Parfum Him",
+        "Description": "JPG SCANDAL LE PARFUM 22 HIM  EDP 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            129
+        ],
+        "Gender": "Female",
+        "Information": "Despierta la curiosidad con Scandal Le Parfum Him. Una fragancia masculina con notas de haba tonka, cuero y vainilla, diseñada para el hombre que busca un aroma provocativo.",
+        "pathCero": "/Assets/perfumes/Scandal Le Parfum Him-0.png",
+        "pathUno": "/Assets/perfumes/Scandal Le Parfum Him-1.png"
+    },
+    {
+        "id": 96,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "Scandal pour Homme",
+        "Description": "JPG SC PH EDT 200ML REFILL",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "150",
+            "200"
+        ],
+        "Price": [
+            119,
+            139,
+            145
+        ],
+        "Gender": "Female",
+        "Information": "Irradia poder con Scandal pour Homme. Un perfume masculino con notas de caramelo, haba tonka y vetiver, ideal para el hombre que busca un aroma fuerte y distintivo.",
+        "pathCero": "/Assets/perfumes/Scandal pour Homme-0.png",
+        "pathUno": "/Assets/perfumes/Scandal pour Homme-1.png"
+    },
+    {
+        "id": 97,
+        "GroupBrand": "Jean Paul Gaultier",
+        "ProductLine": "So Scandal!",
+        "Description": "JPG SO SCANDAL! EDP 50ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            111,
+            138
+        ],
+        "Gender": "Female",
+        "Information": "Atrévete a ser diferente con So Scandal! de Jean Paul Gaultier. Una fragancia femenina con notas de frambuesa, nardo y jazmín, perfecta para la mujer audaz y encantadora.",
+        "pathCero": "/Assets/perfumes/So Scandal!-0.png",
+        "pathUno": "/Assets/perfumes/So Scandal!-1.png"
+    },
+    {
+        "id": 98,
+        "GroupBrand": "Karl Lagerfeld",
+        "ProductLine": "Lagerfeld Classic",
+        "Description": "Lagerfeld Classic 100ml Edt Vaporisateur Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            45
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la elegancia atemporal con Lagerfeld Classic. Un perfume masculino con notas de tabaco, sándalo y ámbar, ideal para el hombre clásico y sofisticado.",
+        "pathCero": "/Assets/perfumes/Lagerfeld Classic-0.png",
+        "pathUno": "/Assets/perfumes/Lagerfeld Classic-1.png"
+    },
+    {
+        "id": 99,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Ab Spirit Millonaire",
+        "Description": "Ab Spirit Millonaire Edt Natural Spray Vaporisateur 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Male",
+        "Information": "Vive el lujo con Ab Spirit Millionaire de Lomani Paris. Una fragancia masculina con notas de bergamota, nuez moscada y madera, perfecta para el hombre que aprecia la opulencia.",
+        "pathCero": "/Assets/perfumes/Millonaire-0.png",
+        "pathUno": "/Assets/perfumes/Ab Spirit Millonaire-1.png"
+    },
+    {
+        "id": 100,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Ab Spirit",
+        "Description": "Ab Spirit by Lomani Paris Edt Vaporisateur Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Male",
+        "Information": "Experimenta la sofisticación con Ab Spirit de Lomani Paris. Un perfume masculino con notas de limón, jazmín y ámbar, ideal para el hombre moderno y refinado.",
+        "pathCero": "/Assets/perfumes/Ab Spirit-0.png",
+        "pathUno": "/Assets/perfumes/Ab Spirit-1.png"
+    },
+    {
+        "id": 101,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Millonaire Women",
+        "Description": "Millonaire Women Edp Vaporisateur Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            38
+        ],
+        "Gender": "Female",
+        "Information": "Brilla con Millionaire Women de Lomani Paris. Una fragancia femenina con notas de frutas exóticas, flores y vainilla, diseñada para la mujer que quiere destacar.",
+        "pathCero": "/Assets/perfumes/Millonaire Women-0.png",
+        "pathUno": "/Assets/perfumes/Millonaire Women-1.png"
+    },
+    {
+        "id": 102,
+        "GroupBrand": "Lomani Paris",
+        "ProductLine": "Signature For Men",
+        "Description": "Lomani Signature For Men 100ml Edt Vaporisateur Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            38
+        ],
+        "Gender": "Male",
+        "Information": "Marca tu estilo con Signature For Men de Lomani Paris. Un perfume masculino con notas de lavanda, vainilla y maderas preciosas, perfecto para el hombre que busca un aroma distintivo.",
+        "pathCero": "/Assets/perfumes/Lomani Signature For Men-0.png",
+        "pathUno": "/Assets/perfumes/Signature For Men-1.png"
+    },
+    {
+        "id": 103,
+        "GroupBrand": "MTV",
+        "ProductLine": "Electric Beat",
+        "Description": "Electric Beat Edt For Her 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female",
+        "Information": "Siente la energía con Electric Beat de MTV. Una fragancia unisex con notas cítricas, florales y almizcle, ideal para aquellos que viven intensamente.",
+        "pathCero": "/Assets/perfumes/Electric Beat-0.png",
+        "pathUno": "/Assets/perfumes/Electric Beat-1.png"
+    },
+    {
+        "id": 104,
+        "GroupBrand": "MTV",
+        "ProductLine": "Rock Her",
+        "Description": "Rock Her Edt 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Male",
+        "Information": "Despierta tu lado rockero con Rock Ver de MTV. Un perfume unisex con notas de bergamota, cedro y almizcle, diseñado para los que se atreven a ser diferentes.",
+        "pathCero": "/Assets/perfumes/Rock Her-0.png",
+        "pathUno": "/Assets/perfumes/Rock Ver-1.png"
+    },
+    {
+        "id": 105,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Zap",
+        "Description": "Zap For Men Edt Natural Spray 100ml Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male",
+        "Information": "Lleva la chispa con Zap de Master of New Brand. Una fragancia masculina con notas de cítricos, especias y madera, perfecta para el hombre dinámico y enérgico.",
+        "pathCero": "/Assets/perfumes/Zap For Men-0.png",
+        "pathUno": "/Assets/perfumes/Zap-1.png"
+    },
+    {
+        "id": 106,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Master of Platinum",
+        "Description": "Master of Platinum For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la exclusividad con Master of Platinum. Un perfume masculino con notas de bergamota, pimienta y cuero, ideal para el hombre que busca un toque de lujo.",
+        "pathCero": "/Assets/perfumes/Master of Platinum For Men-0.png",
+        "pathUno": "/Assets/perfumes/Master of Platinum-1.png"
+    },
+    {
+        "id": 107,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Master of Gold",
+        "Description": "Master of Gold For Women Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female",
+        "Information": "Brilla con Master of Gold. Una fragancia masculina con notas de cítricos, especias y ámbar, diseñada para el hombre que quiere destacarse.",
+        "pathCero": "/Assets/perfumes/Master of Gold For Women-0.png",
+        "pathUno": "/Assets/perfumes/Master of Gold-1.png"
+    },
+    {
+        "id": 108,
+        "GroupBrand": "Master of New Brand",
+        "ProductLine": "Master Of Purple",
+        "Description": "Master Of Purple For Women Eau de Parfum Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female",
+        "Information": "Sé único con Master Of Purple. Un perfume masculino con notas de lavanda, madera y almizcle, ideal para el hombre que valora la originalidad.",
+        "pathCero": "/Assets/perfumes/Master Of Purple For Women-0.png",
+        "pathUno": "/Assets/perfumes/Master Of Purple-1.png"
+    },
+    {
+        "id": 109,
+        "GroupBrand": "Michael Jordan",
+        "ProductLine": "23",
+        "Description": "23 - 100ml Eau de Cologne EDC 25$ Vaporisateur",
+        "Type": "EDC",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Male",
+        "Information": "Siente la grandeza con 23 de Michael Jordan. Una fragancia masculina con notas de lavanda, musgo y especias, perfecta para el hombre que aspira a la excelencia.",
+        "pathCero": "/Assets/perfumes/Michael Jordan 23-0.png",
+        "pathUno": "/Assets/perfumes/23-1.png"
+    },
+    {
+        "id": 110,
+        "GroupBrand": "Michael Jordan",
+        "ProductLine": "Michael Jordan",
+        "Description": "Michael Jordan Eau de Cologne Vaporisateur 100ml",
+        "Type": "EDC",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Male",
+        "Information": "Vive el legado con Michael Jordan. Un perfume masculino con notas de bergamota, cedro y vainilla, diseñado para el hombre que busca un aroma legendario.",
+        "pathCero": "/Assets/perfumes/Michael Jordan-0.png",
+        "pathUno": "/Assets/perfumes/Michael Jordan-1.png"
+    },
+    {
+        "id": 111,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Star Walker",
+        "Description": "Star Walker 75 ML Edt",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            60
+        ],
+        "Gender": "Male",
+        "Information": "Alcanza las estrellas con Star Walker de Mont Blanc. Una fragancia masculina con notas de bambú, cítricos y sándalo, ideal para el hombre que busca la innovación y el estilo.",
+        "pathCero": "/Assets/perfumes/StarWalker-0.png",
+        "pathUno": "/Assets/perfumes/Star Walker-1.png"
+    },
+    {
+        "id": 112,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Legend",
+        "Description": "Legend Edt 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            75
+        ],
+        "Gender": "Male",
+        "Information": "Sé inolvidable con Legend de Mont Blanc. Un perfume masculino con notas de lavanda, bergamota y madera, perfecto para el hombre que quiere dejar una huella duradera.",
+        "pathCero": "/Assets/perfumes/Legend-0.png",
+        "pathUno": "/Assets/perfumes/Legend-1.png"
+    },
+    {
+        "id": 113,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Legend Pour Femme",
+        "Description": "Legend Pour Femme 75 ML edp",
+        "Type": "EDP",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            55
+        ],
+        "Gender": "Female",
+        "Information": "Exhala elegancia con Legend Pour Femme de Mont Blanc. Una fragancia femenina con notas de pera, neroli y almizcle, diseñada para la mujer sofisticada y segura.",
+        "pathCero": "/Assets/perfumes/Legend Pour Femme-0.png",
+        "pathUno": "/Assets/perfumes/Legend Pour Femme-1.png"
+    },
+    {
+        "id": 114,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Lady Emblem",
+        "Description": "Lady Emblem Edp 75ml",
+        "Type": "EDP",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            55
+        ],
+        "Gender": "Female",
+        "Information": "Deslumbra con Lady Emblem de Mont Blanc. Un perfume femenino con notas de rosa, durazno y sándalo, ideal para la mujer que quiere destacarse con un toque de lujo.",
+        "pathCero": "/Assets/perfumes/Lady Emblem-0.png",
+        "pathUno": "/Assets/perfumes/Lady Emblem-1.png"
+    },
+    {
+        "id": 115,
+        "GroupBrand": "Mont Blanc",
+        "ProductLine": "Presente D'UNE FEMME",
+        "Description": "Presente D'UNE FEMME 75ml Edt",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            60
+        ],
+        "Gender": "Female",
+        "Information": "Celebra la presencia con Presence D'UNE FEMME de Mont Blanc. Una fragancia femenina con notas de frutas exóticas, flores y almizcle, perfecta para la mujer que quiere ser inolvidable.",
+        "pathCero": "/Assets/perfumes/Présence d'Une Femme-0.png",
+        "pathUno": "/Assets/perfumes/Presence D'UNE FEMME-1.png"
+    },
+    {
+        "id": 116,
+        "GroupBrand": "Naomi Campbell",
+        "ProductLine": "Prêt À Porter",
+        "Description": "Prêt À Porter edt Natural Spray Vaporisateur 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            25
+        ],
+        "Gender": "Female",
+        "Information": "Siéntete lista para cualquier ocasión con Prêt À Porter de Naomi Campbell. Un perfume femenino con notas de frutas, flores y maderas, ideal para la mujer moderna y elegante.",
+        "pathCero": "/Assets/perfumes/Prêt À Porter-0.png",
+        "pathUno": "/Assets/perfumes/Prêt À Porter-1.png"
+    },
+    {
+        "id": 117,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Sweet Star",
+        "Description": "Sweet Star For Women Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female",
+        "Information": "Brilla como una estrella con Sweet Star de New Brand. Una fragancia femenina con notas frutales, florales y un toque de vainilla, perfecta para un encanto juvenil y fresco.",
+        "pathCero": "/Assets/perfumes/Sweet Star For Women-0.png",
+        "pathUno": "/Assets/perfumes/Sweet Star-1.png"
+    },
+    {
+        "id": 118,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Mysterious Girl",
+        "Description": "Mysterious Girl For Women Edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            18
+        ],
+        "Gender": "Female",
+        "Information": "Descubre el misterio con Mysterious Girl de New Brand. Un perfume femenino con notas de frutas exóticas, flores y almizcle, ideal para la mujer que quiere un toque de misterio.",
+        "pathCero": "/Assets/perfumes/Mysterious Girl For Women-0.png",
+        "pathUno": "/Assets/perfumes/Mysterious Girl-1.png"
+    },
+    {
+        "id": 119,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Prestige Fluo Pink",
+        "Description": "Prestige Fluo Pink edp natural spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female",
+        "Information": "Destaca con Prestige Fluo Pink de New Brand. Una fragancia femenina con notas de cítricos, flores y almizcle, perfecta para la mujer que busca un aroma vibrante y enérgico.",
+        "pathCero": "/Assets/perfumes/Prestige Fluo Pink-0.png",
+        "pathUno": "/Assets/perfumes/Prestige Fluo Pink-1.png"
+    },
+    {
+        "id": 120,
+        "GroupBrand": "New Brand",
+        "ProductLine": "Prestige Fluo Sun",
+        "Description": "Prestige Fluo Sun edp natural spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female",
+        "Information": "Luce radiante con Prestige Fluo Sun de New Brand. Un perfume femenino con notas de cítricos, flores y vainilla, ideal para la mujer que quiere brillar con un toque de sol.",
+        "pathCero": "/Assets/perfumes/Prestige Fluo Sun-0.png",
+        "pathUno": "/Assets/perfumes/Prestige Fluo Sun-1.png"
+    },
+    {
+        "id": 121,
+        "GroupBrand": "New Brand Perfumes",
+        "ProductLine": "Prestige Cute",
+        "Description": "Prestige Cute For Women Edp 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female",
+        "Information": "Encanta con Prestige Cute de New Brand Perfumes. Una fragancia femenina con notas frutales, florales y un toque de vainilla, diseñada para un encanto dulce y juvenil.",
+        "pathCero": "/Assets/perfumes/Prestige Cute For Women-0.png",
+        "pathUno": "/Assets/perfumes/Prestige Cute-1.png"
+    },
+    {
+        "id": 122,
+        "GroupBrand": "New Brand Perfumes",
+        "ProductLine": "Prestige Gold",
+        "Description": "Prestige Gold Edt For Men Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male",
+        "Information": "Luce el oro con Prestige Gold de New Brand Perfumes. Un perfume masculino con notas de tabaco, vainilla y especias, ideal para el hombre sofisticado y refinado.",
+        "pathCero": "/Assets/perfumes/Prestige Gold-0.png",
+        "pathUno": "/Assets/perfumes/Prestige Gold-1.png"
+    },
+    {
+        "id": 123,
+        "GroupBrand": "New Brand Perfumes",
+        "ProductLine": "Prestige invincible",
+        "Description": "Prestige invincible Edt For Men Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male",
+        "Information": "Sé invencible con Prestige Invincible de New Brand Perfumes. Una fragancia masculina con notas de bergamota, especias y madera, perfecta para el hombre seguro y audaz.",
+        "pathCero": "/Assets/perfumes/Prestige invincible-0.png",
+        "pathUno": "/Assets/perfumes/Prestige invincible-1.png"
+    },
+    {
+        "id": 124,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "Extasia For Women",
+        "Description": "Extasia For Women edp Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Female",
+        "Information": "Vive la extasía con Extasia de New Brand Perfumes Prestige. Una fragancia femenina con notas de frutas exóticas, flores y vainilla, diseñada para la mujer que busca un toque de lujo y pasión.",
+        "pathCero": "/Assets/perfumes/Extasia For Women-0.png",
+        "pathUno": "/Assets/perfumes/Extasia For Women-1.png"
+    },
+    {
+        "id": 125,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "Extasia For Men",
+        "Description": "Extasia For Men edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            20
+        ],
+        "Gender": "Male",
+        "Information": "Sumérgete en la exaltación del lujo y la masculinidad con Extasia, la nueva fragancia de New Brand Perfumes Prestige. Diseñada para el hombre moderno que busca destacar con elegancia y magnetismo, Extasia ofrece una experiencia olfativa única que evoca la sensualidad y el poder.",
+        "pathCero": "/Assets/perfumes/Extasia For Men-0.png",
+        "pathUno": "/Assets/perfumes/Extasia For Men-1.png"
+    },
+    {
+        "id": 126,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "4 MEN",
+        "Description": "4 MEN - For Men Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male",
+        "Information": "Marca la diferencia con 4 MEN de New Brand Perfumes Prestige. Un perfume masculino con notas de bergamota, lavanda y madera, ideal para el hombre moderno y dinámico.",
+        "pathCero": "/Assets/perfumes/Prestige 4 Men-0.png",
+        "pathUno": "/Assets/perfumes/4 MEN-1.png"
+    },
+    {
+        "id": 127,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "4 WOMEN",
+        "Description": "4 WOMEN - By New Brand Perfumes Edt Natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Female",
+        "Information": "Sé inolvidable con 4 WOMEN de New Brand Perfumes Prestige. Una fragancia femenina con notas de flores blancas, frutas y almizcle, perfecta para la mujer que quiere destacarse.",
+        "pathCero": "/Assets/perfumes/Prestige 4 Women-0.png",
+        "pathUno": "/Assets/perfumes/4 WOMEN-1.png"
+    },
+    {
+        "id": 128,
+        "GroupBrand": "New Brand Perfumes Prestige",
+        "ProductLine": "Prestige Ego Gold",
+        "Description": "Prestige Ego Gold For Men Edt natural Spray 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            22
+        ],
+        "Gender": "Male",
+        "Information": "Deslumbra con Prestige Ego Gold de New Brand Perfumes Prestige. Un perfume masculino con notas de cítricos, especias y ámbar, ideal para el hombre que busca un aroma sofisticado y poderoso.",
+        "pathCero": "/Assets/perfumes/Prestige Ego Gold For Men-0.png",
+        "pathUno": "/Assets/perfumes/Prestige Ego Gold-1.png"
+    },
+    {
+        "id": 129,
+        "GroupBrand": "Nike",
+        "ProductLine": "Nike Woman Loving Floral",
+        "Description": "Nike Woman Loving Floral EDT 150ml",
+        "Type": "EDT",
+        "Volumen": [
+            "150"
+        ],
+        "Price": [
+            36
+        ],
+        "Gender": "Female",
+        "Information": "Luce encantadora con Loving Floral de Nike Woman. Una fragancia femenina con notas de flores frescas, frutas y un toque de almizcle, perfecta para el día a día de la mujer activa.",
+        "pathCero": "/Assets/perfumes/Loving Floral-0.png",
+        "pathUno": "/Assets/perfumes/Nike Woman Loving Floral-1.png"
+    },
+    {
+        "id": 130,
+        "GroupBrand": "Nike",
+        "ProductLine": "Nike Men Indigo",
+        "Description": "Nike Men Indigo 200ml Edt Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "200"
+        ],
+        "Price": [
+            36
+        ],
+        "Gender": "Male",
+        "Information": "Siente la frescura con Indigo de Nike Men. Un perfume masculino con notas cítricas, especiadas y un toque de madera, ideal para el hombre moderno y energético.",
+        "pathCero": "/Assets/perfumes/Indigo-0.png",
+        "pathUno": "/Assets/perfumes/Nike Men Indigo-1.png"
+    },
+    {
+        "id": 131,
+        "GroupBrand": "Nike",
+        "ProductLine": "Nike Men Ultra Green",
+        "Description": "Nike Men Ultra Green 200ml EDT Natural Spray",
+        "Type": "EDT",
+        "Volumen": [
+            "200"
+        ],
+        "Price": [
+            36
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la vitalidad con Ultra Green de Nike Men. Una fragancia masculina con notas verdes, cítricas y un toque de especias, perfecta para el hombre que busca un aroma fresco y vibrante.",
+        "pathCero": "/Assets/perfumes/Ultra Green-0.png",
+        "pathUno": "/Assets/perfumes/Nike Men Ultra Green-1.png"
+    },
+    {
+        "id": 132,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "L'Air Du Temps",
+        "Description": "ADT EDT NS 50ML REPACK 2017",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            82,
+            111
+        ],
+        "Gender": "Female",
+        "Information": "Vive la elegancia atemporal con L'Air Du Temps de Nina Ricci. Un perfume femenino con notas de gardenia, clavel y almizcle, ideal para la mujer sofisticada y clásica.",
+        "pathCero": "/Assets/perfumes/L'Air Du Temps-0.png",
+        "pathUno": "/Assets/perfumes/L'Air Du Temps-1.png"
+    },
+    {
+        "id": 133,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina",
+        "Description": "NINA EDT 80ML REFILLABLE",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            87,
+            109
+        ],
+        "Gender": "Female",
+        "Information": "Encanta con Nina de Nina Ricci. Una fragancia femenina con notas de manzana, praliné y cedro, diseñada para la mujer joven y romántica.",
+        "pathCero": "/Assets/perfumes/Nina-0.png",
+        "pathUno": "/Assets/perfumes/Nina-1.png"
+    },
+    {
+        "id": 134,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Fleur",
+        "Description": "NINA FLEUR RE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Female",
+        "Information": "Despierta tu feminidad con Nina Fleur de Nina Ricci. Un perfume femenino con notas de flores blancas, frutas y un toque de almizcle, perfecto para la mujer delicada y encantadora.",
+        "pathCero": "/Assets/perfumes/Nina Fleur-0.png",
+        "pathUno": "/Assets/perfumes/Nina Fleur-1.png"
+    },
+    {
+        "id": 135,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Rouge",
+        "Description": "NINA ROUGE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Female",
+        "Information": "Desata tu pasión con Nina Rouge de Nina Ricci. Una fragancia femenina con notas de frambuesa, jazmín y vainilla, ideal para la mujer audaz y seductora.",
+        "pathCero": "/Assets/perfumes/Nina Rouge-0.png",
+        "pathUno": "/Assets/perfumes/Nina Rouge-1.png"
+    },
+    {
+        "id": 136,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Extra Rouge",
+        "Description": "NINA EXTRA ROUGE RE21 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            119
+        ],
+        "Gender": "Female",
+        "Information": "Intensifica tu encanto con Nina Extra Rouge de Nina Ricci. Un perfume femenino con notas de frutas rojas, vainilla y flores blancas, diseñado para la mujer que busca un aroma profundo y cautivador.",
+        "pathCero": "/Assets/perfumes/Nina Extra Rouge-0.png",
+        "pathUno": "/Assets/perfumes/Nina Extra Rouge-1.png"
+    },
+    {
+        "id": 137,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Le Parfum",
+        "Description": "NR NINA RE23 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Female",
+        "Information": "Reinventa tu estilo con Nina Le Parfum de Nina Ricci. Una fragancia femenina con notas de frutas, flores y almizcle, perfecta para la mujer que quiere un toque moderno y fresco.",
+        "pathCero": "/Assets/perfumes/Nina RE 23-0.png",
+        "pathUno": "/Assets/perfumes/Nina RE 23-1.png"
+    },
+    {
+        "id": 138,
+        "GroupBrand": "Nina Ricci",
+        "ProductLine": "Nina Rosé",
+        "Description": "NINA ROSE EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Female",
+        "Information": "Luce radiante con Nina Rosé de Nina Ricci. Un perfume femenino con notas de frutas frescas, flores y un toque de almizcle, ideal para la mujer que busca un aroma ligero y encantador.",
+        "pathCero": "/Assets/perfumes/Nina Rosé-0.png",
+        "pathUno": "/Assets/perfumes/Nina Rosé-1.png"
+    },
+    {
+        "id": 139,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Beso",
+        "Description": "ARP BESO EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            23,
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Siente el romance con Beso de Other Lifestyle Fragrances. Una fragancia femenina con notas de frutas rojas, flores y vainilla, perfecta para la mujer que quiere un toque de pasión.",
+        "pathCero": "/Assets/perfumes/Beso-0.png",
+        "pathUno": "/Assets/perfumes/Beso-1.png"
+    },
+    {
+        "id": 140,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Flor",
+        "Description": "ARP F EDT 100ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Despierta tus sentidos con Flor de Other Lifestyle Fragrances. Un perfume femenino con notas de flores frescas, frutas y un toque de almizcle, ideal para la mujer que ama la naturaleza.",
+        "pathCero": "/Assets/perfumes/Flor-0.png",
+        "pathUno": "/Assets/perfumes/Flor-1.png"
+    },
+    {
+        "id": 141,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Gotas De Color",
+        "Description": "NEW GOTAS DE COLOR EDT 100 ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Añade un toque de color a tu vida con Gotas De Color. Una fragancia femenina con notas frutales, florales y un toque de almizcle, perfecta para la mujer vibrante y alegre.",
+        "pathCero": "/Assets/perfumes/Gotas De Color-0.png",
+        "pathUno": "/Assets/perfumes/Gotas De Color-1.png"
+    },
+    {
+        "id": 142,
+        "GroupBrand": "Other Lifestyle Fragrances",
+        "ProductLine": "Love Love Love",
+        "Description": "ARP LOVE EDT 80ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Siéntete amada con Love Love Love de Other Lifestyle Fragrances. Un perfume femenino con notas de frutas, flores y un toque de vainilla, diseñado para la mujer romántica y apasionada.",
+        "pathCero": "/Assets/perfumes/Love Love Love-0.png",
+        "pathUno": "/Assets/perfumes/Love Love Love-1.png"
+    },
+    {
+        "id": 143,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million",
+        "Description": "1M EDT 200ML VAPO REPACK",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            141
+        ],
+        "Gender": "Male",
+        "Information": "Vive el lujo con 1 Million de Paco Rabanne. Una fragancia masculina con notas de pomelo, canela y cuero, perfecta para el hombre que busca un aroma opulento y audaz.",
+        "pathCero": "/Assets/perfumes/1 Million-0.png",
+        "pathUno": "/Assets/perfumes/1 Million-1.png"
+    },
+    {
+        "id": 144,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million Parfum",
+        "Description": "1M PARFUM 200ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            116,
+            148
+        ],
+        "Gender": "Male",
+        "Information": "Lleva la exclusividad con 1 Million Parfum de Paco Rabanne. Un perfume masculino con notas de ámbar, cuero y pino, ideal para el hombre que quiere destacarse con un toque de sofisticación.",
+        "pathCero": "/Assets/perfumes/1 Million Parfum-0.png",
+        "pathUno": "/Assets/perfumes/1 Million Parfum-1.png"
+    },
+    {
+        "id": 145,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million Elixir",
+        "Description": "1M ELIXIR 22 PARF INTENSE 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            131,
+            198
+        ],
+        "Gender": "Male",
+        "Information": "Descubre la intensidad con 1 Million Elixir de Paco Rabanne. Una fragancia masculina con notas de manzana, vainilla y cuero, perfecta para el hombre que busca un aroma profundo y magnético.",
+        "pathCero": "/Assets/perfumes/1 Million Elixir-0.png",
+        "pathUno": "/Assets/perfumes/1 Million Elixir-1.png"
+    },
+    {
+        "id": 146,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "1 Million Royal",
+        "Description": "1 MILLION ROYAL PARFUM 200ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            125,
+            181
+        ],
+        "Gender": "Male",
+        "Information": "Sé majestuoso con 1 Million Royal de Paco Rabanne. Un perfume masculino con notas de frutas, especias y un toque de madera, diseñado para el hombre que busca un aroma distintivo y poderoso.",
+        "pathCero": "/Assets/perfumes/1 Million Royal-0.png",
+        "pathUno": "/Assets/perfumes/1 Million Royal-1.png"
+    },
+    {
+        "id": 147,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Black XS",
+        "Description": "BXS EDT 50ML REPACK 3",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            86,
+            109
+        ],
+        "Gender": "Male",
+        "Information": "Atrévete con Black XS de Paco Rabanne. Una fragancia masculina con notas de limón, canela y madera, ideal para el hombre rebelde y apasionado.",
+        "pathCero": "/Assets/perfumes/Black XS-0.png",
+        "pathUno": "/Assets/perfumes/Black XS-1.png"
+    },
+    {
+        "id": 149,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Fame",
+        "Description": "FAME EDP 80ML REFILLABLE",
+        "Type": "EDP",
+        "Volumen": [
+            "80",
+            "200"
+        ],
+        "Price": [
+            135,
+            176
+        ],
+        "Gender": "Female",
+        "Information": "Deslumbra con Fame de Paco Rabanne. Un perfume femenino con notas de mango, jazmín y incienso, perfecto para la mujer que busca un aroma glamuroso y cautivador.",
+        "pathCero": "/Assets/perfumes/Fame-0.png",
+        "pathUno": "/Assets/perfumes/Fame-1.png"
+    },
+    {
+        "id": 150,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Fame Parfum",
+        "Description": "FAME PARFUM 80ML REFILLABLE",
+        "Type": "PAR",
+        "Volumen": [
+            "80",
+            "200"
+        ],
+        "Price": [
+            149,
+            186
+        ],
+        "Gender": "Female",
+        "Information": "Lleva la fama con Fame Parfum de Paco Rabanne. Una fragancia femenina con notas de frutas exóticas, flores y un toque de vainilla, ideal para la mujer que quiere destacarse con elegancia.",
+        "pathCero": "/Assets/perfumes/Fame Parfum-0.png",
+        "pathUno": "/Assets/perfumes/Fame Parfum-1.png"
+    },
+    {
+        "id": 151,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus",
+        "Description": "INV EDT 100ML",
+        "Type": "EDT",
+        "Volumen": [
+            "50",
+            "100",
+            "200"
+        ],
+        "Price": [
+            86,
+            109,
+            141
+        ],
+        "Gender": "Male",
+        "Information": "Conquista con Invictus de Paco Rabanne. Una fragancia masculina con notas de cítricos, laurel y madera, perfecta para el hombre que busca un aroma fresco y poderoso.",
+        "pathCero": "/Assets/perfumes/Invictus-0.png",
+        "pathUno": "/Assets/perfumes/Invictus-1.png"
+    },
+    {
+        "id": 152,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus Victory",
+        "Description": "INVICTUS VICTORY EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "100"
+        ],
+        "Price": [
+            94,
+            118
+        ],
+        "Gender": "Male",
+        "Information": "Celebra la victoria con Invictus Victory de Paco Rabanne. Un perfume masculino con notas de limón, vainilla y tonka, ideal para el hombre que busca un aroma intenso y triunfante.",
+        "pathCero": "/Assets/perfumes/Invictus Victory-0.png",
+        "pathUno": "/Assets/perfumes/Invictus Victory-1.png"
+    },
+    {
+        "id": 153,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus Victory Elixir",
+        "Description": "INVICTUS V. ELIXIR PARFUM 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            131,
+            189
+        ],
+        "Gender": "Male",
+        "Information": "Intensifica tu triunfo con Invictus Victory Elixir de Paco Rabanne. Una fragancia masculina con notas de especias, vainilla y ámbar, diseñada para el hombre que quiere destacar con fuerza.",
+        "pathCero": "/Assets/perfumes/Invictus Victory Elixir-0.png",
+        "pathUno": "/Assets/perfumes/Invictus Victory Elixir-1.png"
+    },
+    {
+        "id": 154,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Invictus Platinum",
+        "Description": "INVICTUS PLATINUM EDP 100ML",
+        "Type": "EDP",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            118,
+            152
+        ],
+        "Gender": "Male",
+        "Information": "Brilla con Invictus Platinum de Paco Rabanne. Un perfume masculino con notas de pomelo, menta y lavanda, perfecto para el hombre que busca un aroma vibrante y enérgico.",
+        "pathCero": "/Assets/perfumes/Invictus Platinum-0.png",
+        "pathUno": "/Assets/perfumes/Invictus Platinum-1.png"
+    },
+    {
+        "id": 155,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Lady Million",
+        "Description": "LADY M EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            102,
+            125
+        ],
+        "Gender": "Female",
+        "Information": "Deslumbra con Lady Million de Paco Rabanne. Una fragancia femenina con notas de neroli, frambuesa y jazmín, ideal para la mujer que quiere un toque de lujo y elegancia.",
+        "pathCero": "/Assets/perfumes/Lady Million-0.png",
+        "pathUno": "/Assets/perfumes/Lady Million-1.png"
+    },
+    {
+        "id": 156,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Lady Million Royal",
+        "Description": "LADY MILLION ROYAL EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Female",
+        "Information": "Sé la reina con Lady Million Royal RE23 de Paco Rabanne. Un perfume femenino con notas de frutas rojas, jazmín y vainilla, perfecto para la mujer que busca un aroma majestuoso y distintivo.",
+        "pathCero": "/Assets/perfumes/Lady Million Royal-0.png",
+        "pathUno": "/Assets/perfumes/Lady Million Royal RE23-1.png"
+    },
+    {
+        "id": 157,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Lady Million Fabulous",
+        "Description": "LADY M FABULOUS 2021 EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            131
+        ],
+        "Gender": "Female",
+        "Information": "Luce fabulosa con Lady Million Fabulous de Paco Rabanne. Una fragancia femenina con notas de pimienta rosa, jazmín y vainilla, ideal para la mujer que quiere un aroma audaz y glamuroso.",
+        "pathCero": "/Assets/perfumes/Lady Million Fabulous-0.png",
+        "pathUno": "/Assets/perfumes/Lady Million Fabulous-1.png"
+    },
+    {
+        "id": 158,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa",
+        "Description": "OLYMPÉA EDP 50ML REPACK",
+        "Type": "EDP",
+        "Volumen": [
+            "50",
+            "80"
+        ],
+        "Price": [
+            102,
+            125
+        ],
+        "Gender": "Female",
+        "Information": "Siente el poder divino con Olympéa de Paco Rabanne. Una fragancia femenina con notas de vainilla, sal y madera de cachemira, perfecta para la mujer que busca un aroma celestial y seductor.",
+        "pathCero": "/Assets/perfumes/Olympéa-0.png",
+        "pathUno": "/Assets/perfumes/Olympéa-1.png"
+    },
+    {
+        "id": 159,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa Blossom",
+        "Description": "OLYMPÉA BLOSSOM EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            125
+        ],
+        "Gender": "Female",
+        "Information": "Despierta tu feminidad con Olympéa Blossom de Paco Rabanne. Un perfume femenino con notas de rosa, pera y vainilla, ideal para la mujer que busca un toque floral y encantador.",
+        "pathCero": "/Assets/perfumes/Olympéa Blossom-0.png",
+        "pathUno": "/Assets/perfumes/Olympéa Blossom-1.png"
+    },
+    {
+        "id": 160,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa Flora",
+        "Description": "OLYMPÉA FLORA EDP 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            138
+        ],
+        "Gender": "Female",
+        "Information": "Reinventa tu divinidad con Olympéa RE23 de Paco Rabanne. Una fragancia femenina con notas de flores, frutas y almizcle, perfecta para la mujer que quiere un aroma moderno y fresco.",
+        "pathCero": "/Assets/perfumes/Olympéa Flora-0.png",
+        "pathUno": "/Assets/perfumes/Olympéa FLora-1.png"
+    },
+    {
+        "id": 161,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Olympéa Solar",
+        "Description": "OLYMPÉA SOLAR EDP INTENSE 80ML",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            138
+        ],
+        "Gender": "Female",
+        "Information": "Luce radiante con Olympéa Solar de Paco Rabanne. Un perfume femenino con notas de flores solares, cítricos y vainilla, ideal para la mujer que busca un aroma cálido y brillante.",
+        "pathCero": "/Assets/perfumes/Olympéa Solar-0.png",
+        "pathUno": "/Assets/perfumes/Olympéa Solar-1.png"
+    },
+    {
+        "id": 162,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Phantom",
+        "Description": "PHANTOM EDT REFILLABLE 150ML",
+        "Type": "EDT",
+        "Volumen": [
+            "100",
+            "150",
+            "200"
+        ],
+        "Price": [
+            116,
+            141,
+            162
+        ],
+        "Gender": "Male",
+        "Information": "Conecta con el futuro con Phantom de Paco Rabanne. Una fragancia masculina con notas de lavanda, limón y vainilla, perfecta para el hombre que busca un aroma innovador y enérgico.",
+        "pathCero": "/Assets/perfumes/Phantom-0.png",
+        "pathUno": "/Assets/perfumes/Phantom-1.png"
+    },
+    {
+        "id": 163,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Phantom Parfum",
+        "Description": "PHANTOM PARFUM 100ML",
+        "Type": "PAR",
+        "Volumen": [
+            "100",
+            "200"
+        ],
+        "Price": [
+            127,
+            150
+        ],
+        "Gender": "Male",
+        "Information": "Intensifica tu esencia con Phantom Parfum de Paco Rabanne. Un perfume masculino con notas de lavanda, limón y vetiver, diseñado para el hombre que quiere un aroma profundo y futurista.",
+        "pathCero": "/Assets/perfumes/Phantom Parfum-0.png",
+        "pathUno": "/Assets/perfumes/Phantom Parfum-1.png"
+    },
+    {
+        "id": 164,
+        "GroupBrand": "Paco Rabanne",
+        "ProductLine": "Pure XS",
+        "Description": "PURE XS EDT 100ML REPACK 3",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            109
+        ],
+        "Gender": "Male",
+        "Information": "Vive la intensidad con Pure XS de Paco Rabanne. Una fragancia masculina con notas de jengibre, vainilla y mirra que evoca una sensualidad audaz y electrizante. Una esencia que despierta los sentidos y la intensidad de la vida.",
+        "pathCero": "/Assets/perfumes/Pure XS-0.png",
+        "pathUno": "/Assets/perfumes/Pure XS-1.png"
+    },
+    {
+        "id": 165,
+        "GroupBrand": "Paris Hilton",
+        "ProductLine": "CanCan",
+        "Description": "CanCan 100ml edp spray vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Female",
+        "Information": "Baila con el encanto de CanCan de Paris Hilton. Una fragancia femenina con notas de nectarina, flor de azahar y ámbar, perfecta para la mujer que busca un aroma vibrante y divertido.",
+        "pathCero": "/Assets/perfumes/Can Can-0.png",
+        "pathUno": "/Assets/perfumes/Can Can-1.png"
+    },
+    {
+        "id": 166,
+        "GroupBrand": "Paris Hilton",
+        "ProductLine": "CanCan Burlesque",
+        "Description": "CanCan Burlesque 100ml edp spray vaporisateur",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            44
+        ],
+        "Gender": "Female",
+        "Information": "Seduce con CanCan Burlesque de Paris Hilton. Un perfume femenino con notas de grosella negra, nectarina y vainilla, ideal para la mujer que quiere un toque de glamour y sensualidad.",
+        "pathCero": "/Assets/perfumes/Can Can Burlesque-0.png",
+        "pathUno": "/Assets/perfumes/Can Can Burlesque-1.png"
+    },
+    {
+        "id": 170,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance",
+        "Description": "SKR DANCE EDT 80ML VAP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Baila con la energía de Dance de Shakira. Un perfume femenino con notas de bergamota, neroli y vainilla, ideal para la mujer que busca un aroma vibrante y seductor.",
+        "pathCero": "/Assets/perfumes/Dance-0.png",
+        "pathUno": "/Assets/perfumes/Dance-1.png"
+    },
+    {
+        "id": 171,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance Diamonds",
+        "Description": "SKR DANCE DIAMONDS EDT 80ML VP",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Brilla con Dance Diamonds de Shakira. Una fragancia femenina con notas de bergamota, rosa y almizcle, perfecta para la mujer que quiere un toque de luminosidad y encanto.",
+        "pathCero": "/Assets/perfumes/Dance Diamonds-0.png",
+        "pathUno": "/Assets/perfumes/Dance Diamonds-1.png"
+    },
+    {
+        "id": 172,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance Midnight",
+        "Description": "SKR DANCE MIDNIGHT EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            31
+        ],
+        "Gender": "Female",
+        "Information": "Despierta tus sentidos con Dance Midnight de Shakira. Un perfume femenino con notas de ciruela, heliotropo y vainilla, ideal para la mujer que busca un aroma misterioso y seductor.",
+        "pathCero": "/Assets/perfumes/Dance Midnight-0.png",
+        "pathUno": "/Assets/perfumes/Dance Midnight-1.png"
+    },
+    {
+        "id": 173,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dance Midnight Muse",
+        "Description": "SKR DANCE MIDNIGHT RE 2022 EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female",
+        "Information": "Sé la musa con Dance Midnight Muse de Shakira. Una fragancia femenina con notas de cereza, jazmín y sándalo, perfecta para la mujer que quiere un aroma inspirador y atractivo.",
+        "pathCero": "/Assets/perfumes/Dance Midnight Muse-0.png",
+        "pathUno": "/Assets/perfumes/Dance Midnight Muse-1.png"
+    },
+    {
+        "id": 174,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Rojo",
+        "Description": "SKR ROJO EDP 80ML - SHK New Pìllar 2023",
+        "Type": "EDP",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            35
+        ],
+        "Gender": "Female",
+        "Information": "Luce apasionada con Rojo de Shakira. Un perfume femenino con notas de frutas rojas, flores y un toque de vainilla, ideal para la mujer que busca un aroma intenso y vibrante.",
+        "pathCero": "/Assets/perfumes/Rojo-0.png",
+        "pathUno": "/Assets/perfumes/Rojo-1.png"
+    },
+    {
+        "id": 175,
+        "GroupBrand": "Shakira",
+        "ProductLine": "Dream",
+        "Description": "SKR DREAM EDT 80ML",
+        "Type": "EDT",
+        "Volumen": [
+            "80"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female",
+        "Information": "Vive tus sueños con Dream de Shakira. Una fragancia femenina con notas de frutas exóticas, flores y almizcle, perfecta para la mujer que busca un aroma inspirador y dulce.",
+        "pathCero": "/Assets/perfumes/Dream-0.png",
+        "pathUno": "/Assets/perfumes/Dream-1.png"
+    },
+    {
+        "id": 176,
+        "GroupBrand": "Ted Lapidus",
+        "ProductLine": "Lapidus Pour Homme",
+        "Description": "Lapidus Pour Homme Edt Vaporisateur - Natural Spray. Parfum Ted Lapidus Paris. 100ml",
+        "Type": "EDT",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            40
+        ],
+        "Gender": "Male",
+        "Information": "Destaca con Lapidus Pour Homme de Ted Lapidus. Un perfume masculino con notas de piña, lavanda y cedro, ideal para el hombre que busca un aroma clásico y potente.",
+        "pathCero": "/Assets/perfumes/Lapidus Pour Homme-0.png",
+        "pathUno": "/Assets/perfumes/Lapidus Pour Homme-1.png"
+    },
+    {
+        "id": 177,
+        "GroupBrand": "Territoire",
+        "ProductLine": "Territoire Sport",
+        "Description": "Territoire Sport Edp Vaporisateur Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Male",
+        "Information": "Siente la energía con Territoire Sport. Un perfume masculino con notas de cítricos, menta y madera, perfecto para el hombre activo y dinámico",
+        "pathCero": "/Assets/perfumes/Territoire Sport-0.png",
+        "pathUno": "/Assets/perfumes/Territoire Sport-1.png"
+    },
+    {
+        "id": 178,
+        "GroupBrand": "Territoire",
+        "ProductLine": "Territoire Metal Pour Home",
+        "Description": "Territoire Metal Pour Home Eau de Parfum Vaporisateur Natural Spray 100ml",
+        "Type": "EDP",
+        "Volumen": [
+            "100"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Male",
+        "Information": "Muestra tu fuerza con Territoire Metal Pour Homme. Una fragancia masculina con notas de especias, cuero y madera, ideal para el hombre que quiere un aroma robusto y moderno.",
+        "pathCero": "/Assets/perfumes/Territoire Metal Pour Home-0.png",
+        "pathUno": "/Assets/perfumes/Territoire Metal Pour Home-1.png"
+    },
+    {
+        "id": 179,
+        "GroupBrand": "Versace",
+        "ProductLine": "Red Jeans Woman",
+        "Description": "Red Jeans Woman edt Natural Spray 75ml",
+        "Type": "EDT",
+        "Volumen": [
+            "75"
+        ],
+        "Price": [
+            30
+        ],
+        "Gender": "Female",
+        "Information": "Despierta tu espíritu joven con Red Jeans Woman de Versace. Un perfume femenino con notas de fresia, jazmín y vainilla, perfecto para la mujer que busca un aroma alegre y fresco.",
+        "pathCero": "/Assets/perfumes/Red Jeans Woman-0.png",
+        "pathUno": "/Assets/perfumes/Red Jeans Woman-1.png"
+    }
 ]
