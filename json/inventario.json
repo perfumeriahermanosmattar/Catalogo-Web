@@ -1301,8 +1301,8 @@
         ],
         "Gender": "Female",
         "Information": "Camina por la famosa avenida con 5th Avenue de Elizabeth Arden. Un perfume femenino con notas de lilas, magnolia y ámbar, ideal para la mujer cosmopolita y chic.",
-        "pathCero": "/Assets/perfumes/5th avenue-0.png",
-        "pathUno": "/Assets/perfumes/5th avenue-1.png"
+        "pathCero": "/Assets/perfumes/5th Avenue-0.png",
+        "pathUno": "/Assets/perfumes/5th Avenue-1.png"
     },
     {
         "id": 73,
@@ -1318,8 +1318,8 @@
         ],
         "Gender": "Female",
         "Information": "Siéntete adorable con So Cute de Fragluxe. Una fragancia femenina con notas frutales, florales y un toque de vainilla, perfecta para un encanto juvenil y fresco.",
-        "pathCero": "/Assets/perfumes/So cute-0.png",
-        "pathUno": "/Assets/perfumes/So cute-1.png"
+        "pathCero": "/Assets/perfumes/So Cute-0.png",
+        "pathUno": "/Assets/perfumes/So Cute-1.png"
     },
     {
         "id": 74,
@@ -1437,8 +1437,8 @@
         ],
         "Gender": "Male",
         "Information": "Lleva la elegancia al siguiente nivel con BOSS Bottled Absolute. Una fragancia masculina con notas de manzana, canela y madera, perfecta para cualquier ocasión especial.",
-        "pathCero": "/Assets/perfumes/BOSS Bottled Absolute-0.png",
-        "pathUno": "/Assets/perfumes/BOSS Bottled Absolute-1.png"
+        "pathCero": "/Assets/perfumes/Boss Bottled Absolute-0.png",
+        "pathUno": "/Assets/perfumes/Boss Bottled Absolute-1.png"
     },
     {
         "id": 82,
@@ -1454,8 +1454,8 @@
         ],
         "Gender": "Male",
         "Information": "Destaca con BOSS Selection. Un perfume masculino con notas de pomelo, anís y vetiver, ideal para el hombre que busca un aroma distintivo y sofisticado.",
-        "pathCero": "/Assets/perfumes/BOSS Selection-0.png",
-        "pathUno": "/Assets/perfumes/BOSS Selection-1.png"
+        "pathCero": "/Assets/perfumes/Boss Selection-0.png",
+        "pathUno": "/Assets/perfumes/Boss Selection-1.png"
     },
     {
         "id": 83,
@@ -1471,8 +1471,8 @@
         ],
         "Gender": "Male",
         "Information": "Experimenta la excelencia con Number One BOSS. Una fragancia masculina clásica con notas de lavanda, miel y tabaco, perfecta para el hombre distinguido y elegante.",
-        "pathCero": "/Assets/perfumes/Number One BOSS-0.png",
-        "pathUno": "/Assets/perfumes/Number One BOSS-1.png"
+        "pathCero": "/Assets/perfumes/Number One Boss-0.png",
+        "pathUno": "/Assets/perfumes/Number One Boss-1.png"
     },
     {
         "id": 84,
@@ -1920,8 +1920,8 @@
         ],
         "Gender": "Female",
         "Information": "Sé único con Master Of Purple. Un perfume masculino con notas de lavanda, madera y almizcle, ideal para el hombre que valora la originalidad.",
-        "pathCero": "/Assets/perfumes/Master Of Purple For Women-0.png",
-        "pathUno": "/Assets/perfumes/Master Of Purple-1.png"
+        "pathCero": "/Assets/perfumes/Master of Purple For Women-0.png",
+        "pathUno": "/Assets/perfumes/Master of Purple For Women-0.png"
     },
     {
         "id": 109,
@@ -1971,8 +1971,8 @@
         ],
         "Gender": "Male",
         "Information": "Alcanza las estrellas con Star Walker de Mont Blanc. Una fragancia masculina con notas de bambú, cítricos y sándalo, ideal para el hombre que busca la innovación y el estilo.",
-        "pathCero": "/Assets/perfumes/StarWalker-0.png",
-        "pathUno": "/Assets/perfumes/Star Walker-1.png"
+        "pathCero": "/Assets/perfumes/Starwalker-0.png",
+        "pathUno": "/Assets/perfumes/Starwalker-1.png"
     },
     {
         "id": 112,
@@ -2175,8 +2175,8 @@
         ],
         "Gender": "Male",
         "Information": "Sé invencible con Prestige Invincible de New Brand Perfumes. Una fragancia masculina con notas de bergamota, especias y madera, perfecta para el hombre seguro y audaz.",
-        "pathCero": "/Assets/perfumes/Prestige invincible-0.png",
-        "pathUno": "/Assets/perfumes/Prestige invincible-1.png"
+        "pathCero": "/Assets/perfumes/Prestige Invincible-0.png",
+        "pathUno": "/Assets/perfumes/Prestige Invincible-1.png"
     },
     {
         "id": 124,
