@@ -3084,8 +3084,8 @@
         ],
         "Gender": "Male",
         "Information": "Muestra tu fuerza con Territoire Metal Pour Homme. Una fragancia masculina con notas de especias, cuero y madera, ideal para el hombre que quiere un aroma robusto y moderno.",
-        "pathCero": "/Assets/perfumes/Territoire Metal Pour Home-0.png",
-        "pathUno": "/Assets/perfumes/Territoire Metal Pour Home-1.png"
+        "pathCero": "/Assets/perfumes/Territoire Metal-0.png",
+        "pathUno": "/Assets/perfumes/Territoire Metal-1.png"
     },
     {
         "id": 179,

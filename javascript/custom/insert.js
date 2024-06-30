@@ -5,7 +5,12 @@ let productos = await read("/json/inventario.json");
 
 function getData() {
   try {
-    return productos[getParams()];
+    let id = getParams();
+    for (let elemento of productos) {
+      if (elemento.id == id) {
+        return elemento;
+      }
+    }
   } catch (error) {
     console.error(error);
   }
@@ -26,6 +31,8 @@ function insertar(producto) {
   $("#nombre").append(producto.ProductLine);
 
   $("#compania").append(producto.GroupBrand);
+
+  $("#compania").parent().attr("href", `/fragancias.html?search=${producto.GroupBrand}`);
 
   $("#foto").attr("src", producto.pathCero);
 

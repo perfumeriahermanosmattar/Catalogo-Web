@@ -57,8 +57,14 @@ main .price-active{
     flex-direction: column;
 }
 
+.informacion a{
+    text-decoration: none;
+    color: inherit;
+}
+
 #descripcion{
     font-size: 5vw;
+    text-align: justify;
 }
 
 .recomendados{

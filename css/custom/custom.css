@@ -28,6 +28,8 @@ body {
 
 .title {
   margin-top: 2rem;
+  font-size: 4.5vw;
+  font-weight: 500;
 }
 
 #carouselExample {
@@ -217,6 +219,11 @@ main {
 }
 
 @media (min-width: 650px){
+
+  .title{
+    font-size: 3vw;
+  }
+
   .card {
     width: 30vw;
   }
