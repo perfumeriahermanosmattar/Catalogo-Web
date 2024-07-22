@@ -57,9 +57,9 @@ main .price-active{
     flex-direction: column;
 }
 
-.informacion a{
+.informacion a {
     text-decoration: none;
-    color: inherit;
+    color: black;
 }
 
 #descripcion{
